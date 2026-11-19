@@ -1,0 +1,146 @@
+[
+ {
+  "nazwa": "Remiza.pl",
+  "kraj": "PL",
+  "typ": "akcje",
+  "rss": "https://remiza.pl/feed/"
+ },
+ {
+  "nazwa": "Strazacki.pl",
+  "kraj": "PL",
+  "typ": "akcje",
+  "rss": "https://strazacki.pl/feed/"
+ },
+ {
+  "nazwa": "CNBOP-PIB",
+  "kraj": "PL",
+  "typ": "badania",
+  "rss": "https://cnbop.pl/feed/"
+ },
+ {
+  "nazwa": "Akademia Pożarnicza",
+  "kraj": "PL",
+  "typ": "badania",
+  "rss": "https://apoz.edu.pl/feed/"
+ },
+ {
+  "nazwa": "Safety & Fire Technology (CNBOP)",
+  "kraj": "PL",
+  "typ": "badania",
+  "rss": "https://journals.uafm.edu.pl/stp/gateway/plugin/WebFeedGatewayPlugin/rss2"
+ },
+ {
+  "nazwa": "Fire Engineering",
+  "kraj": "USA",
+  "typ": "taktyka",
+  "rss": "https://www.fireengineering.com/feed/"
+ },
+ {
+  "nazwa": "Firefighter Nation",
+  "kraj": "USA",
+  "typ": "taktyka",
+  "rss": "https://www.firefighternation.com/feed/"
+ },
+ {
+  "nazwa": "Fire Apparatus Magazine",
+  "kraj": "USA",
+  "typ": "sprzet",
+  "rss": "https://www.fireapparatusmagazine.com/feed/"
+ },
+ {
+  "nazwa": "Firefighter Close Calls",
+  "kraj": "USA",
+  "typ": "akcje",
+  "rss": "https://www.firefighterclosecalls.com/feed/"
+ },
+ {
+  "nazwa": "Statter911",
+  "kraj": "USA",
+  "typ": "akcje",
+  "rss": "https://www.statter911.com/feed/"
+ },
+ {
+  "nazwa": "Fire Law Blog",
+  "kraj": "USA",
+  "typ": "prawo",
+  "rss": "https://firelawblog.com/feed/"
+ },
+ {
+  "nazwa": "Wildfire Today",
+  "kraj": "Świat",
+  "typ": "akcje",
+  "rss": "https://wildfiretoday.com/feed/"
+ },
+ {
+  "nazwa": "International Fire & Safety Journal",
+  "kraj": "Świat",
+  "typ": "technologie",
+  "rss": "https://internationalfireandsafetyjournal.com/feed/"
+ },
+ {
+  "nazwa": "Fire & Safety Journal Americas",
+  "kraj": "Świat",
+  "typ": "technologie",
+  "rss": "https://www.fireandsafetyjournalamericas.com/feed/"
+ },
+ {
+  "nazwa": "Feuerwehr-Magazin",
+  "kraj": "DE",
+  "typ": "akcje",
+  "rss": "https://www.feuerwehrmagazin.de/feed"
+ },
+ {
+  "nazwa": "NIST Fire",
+  "kraj": "USA",
+  "typ": "badania",
+  "rss": "https://www.nist.gov/news-events/fire/rss.xml"
+ },
+ {
+  "nazwa": "Fire Science Show (blog)",
+  "kraj": "Świat",
+  "typ": "badania",
+  "rss": "https://www.firescienceshow.com/feed/"
+ },
+ {
+  "nazwa": "Fire Science Show (podcast)",
+  "kraj": "Świat",
+  "typ": "badania",
+  "rss": "https://rss.buzzsprout.com/1735815.rss"
+ },
+ {
+  "nazwa": "Fire Geezer (blog pasjonata)",
+  "kraj": "USA",
+  "typ": "wiedza",
+  "rss": "https://www.firegeezer.com/feed/"
+ },
+ {
+  "nazwa": "IAFSS - nauka o pożarach",
+  "kraj": "Świat",
+  "typ": "badania",
+  "rss": "https://www.iafss.org/feed/"
+ },
+ {
+  "nazwa": "OFR Consultants - inżynieria pożarowa",
+  "kraj": "UK",
+  "typ": "wiedza",
+  "rss": "https://www.ofrconsultants.com/feed/"
+ },
+ {
+  "nazwa": "NIPV - holenderski instytut bezpieczeństwa",
+  "kraj": "NL",
+  "typ": "badania",
+  "rss": "https://nipv.nl/feed/"
+ },
+ {
+  "nazwa": "Pożarnik (YouTube)",
+  "kraj": "PL",
+  "typ": "wiedza",
+  "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpDcpQjn6nPF7YOjxEelBSA"
+ },
+ {
+  "nazwa": "Ochrona Przeciwpożarowa (kwartalnik)",
+  "kraj": "PL",
+  "typ": "wiedza",
+  "rss": "https://ochronaprzeciwpozarowa.pl/feed/"
+ }
+]
