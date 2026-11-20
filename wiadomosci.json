@@ -1,6 +1,96 @@
 {
- "aktualizacja": "2026-11-19",
+ "aktualizacja": "2026-11-20",
  "wydarzenia": [
+  {
+   "id": "2026-11-20-ohio-bodycam",
+   "data": "2026-11-20",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "ŚMIERĆ STRAŻAKA W PIWNICY",
+   "tytul": "Nagranie z kamery policjanta: strażacy uwięzieni w piwnicy płonącego domu",
+   "zajawka": "Nagranie z kamery noszonej przez policjanta pokazuje chaos po tym, jak w piwnicy domu w Ohio uwięzieni zostali dwaj strażacy. Jeden zginął.",
+   "tresc": [
+    "2 listopada w Ohio podczas pożaru domu zginął strażak Ryan Milligan z North Royalton, a strażak Andrew Protsman został poważnie ranny. Portal Firefighter Close Calls, powołując się na WKYC, opisał 19 listopada nagranie z kamery policjanta.",
+    "Na nagraniu słychać, jak właściciel domu ostrzega, że strop piwnicy znów wybuchł ogniem, a w środku są jeszcze dwaj strażacy. Policjanci pytają, czy da się podać prądownicę. Inny strażak - bez węża - wszedł szukać kolegów, ale wrócił, bo ich nie znalazł.",
+    "Według rozmów z nagrania strażacy byli przygnieceni gruzem po zawaleniu stropu piwnicy. Protsmana wydobyto jako pierwszego, potem Milligana. Milligan zmarł w szpitalu, Protsman był w stanie poważnym. Oficjalnych ustaleń co do przyczyn jeszcze nie ma - to relacja z nagrania."
+   ],
+   "wniosek": "Piwnica to pułapka: strop nad głową, ogień pod i nad strażakiem, a ratowanie zaczyna się od zera, gdy nikt nie ma linii gaśniczej.",
+   "praktyka": "Wchodząc do piwnicy - zawsze z linią gaśniczą i zapewnioną drogą odwrotu. Szybko meldować, gdzie jest zespół, żeby RIT wiedział, gdzie szukać.",
+   "tematy": [
+    "MAYDAY",
+    "piwnica",
+    "zawalenie"
+   ],
+   "powiazane": [
+    "Spalanie i pożar"
+   ],
+   "zrodla": [
+    [
+     "Firefighter Close Calls",
+     "https://www.firefighterclosecalls.com/bodycam-video-sheds-light-on-lodd-ohio/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-20-essen-wypadek-wozu",
+   "data": "2026-11-20",
+   "kraj": "Niemcy",
+   "etykieta": "MEDIA",
+   "naglowek": "WYPADEK W DRODZE DO ZDARZENIA",
+   "tytul": "Wóz strażacki z włączonymi sygnałami zderzył się z osobówką. Kobieta uwięziona we wraku",
+   "zajawka": "W Essen zastęp jechał do pożaru komina. Na skrzyżowaniu doszło do zderzenia z autem osobowym, kierująca została poważnie ranna.",
+   "tresc": [
+    "16 listopada w Essen zastęp zawodowej straży jechał do zgłoszenia o pożarze komina. Wóz MAN jechał jako pojazd uprzywilejowany.",
+    "Na skrzyżowaniu zderzył się z samochodem osobowym. Uderzenie było mocne, osobówka została mocno uszkodzona, a kierująca - uwięziona we wraku. Strażacy udzielili jej pomocy, odsunęli własny wóz i użyli sprzętu hydraulicznego. Kobieta trafiła do szpitala z poważnymi obrażeniami. Strażacy nie ucierpieli.",
+    "Okoliczności wyjaśnia policja - nie ma jeszcze ustaleń co do przyczyn."
+   ],
+   "wniosek": "Najniebezpieczniejszy moment akcji bywa w drodze do niej. Sygnały nie dają pierwszeństwa - tylko prawo do ostrożnego jego wymuszania.",
+   "praktyka": "Na skrzyżowaniu zwolnij do prędkości pozwalającej zatrzymać się i upewnij, że inni kierowcy cię widzą i słyszą. Dowódca i kierowca - kontakt wzrokowy, nie założenie.",
+   "tematy": [
+    "wypadek wozu",
+    "jazda uprzywilejowana"
+   ],
+   "powiazane": [
+    "Drogi pożarowe"
+   ],
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/akcje/swiat/jechali-do-pozaru-i-mieli-wypadek/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-20-essen-propan-baldeneysee",
+   "data": "2026-11-20",
+   "kraj": "Niemcy",
+   "etykieta": "MEDIA",
+   "naglowek": "PROPAN NA LEŚNEJ DRODZE",
+   "tytul": "Cysterna z 18 000 litrów propanu wisiała nad skarpą. Akcja trwała ponad 9 godzin",
+   "zajawka": "Straż w Essen opisała akcję, w której cysterna z propanem groziła stoczeniem się z wąskiej drogi leśnej nad jeziorem Baldeney.",
+   "tresc": [
+    "Feuerwehr-Magazin zapowiada w wydaniu 12/2026 relację z Essen: cysterna z 18 000 litrów propanu groziła zsunięciem się z wąskiej drogi leśnej nad jeziorem Baldeney.",
+    "Pozornie zwykłe zgłoszenie zamieniło się w złożoną akcję. Trwała ponad 9 godzin, a straż, urzędy i firmy holownicze musiały pracować ręka w rękę.",
+    "To tylko zapowiedź redakcji - pełny raport z akcji jest w płatnym wydaniu magazynu."
+   ],
+   "wniosek": "Rzadkie zdarzenia to te, do których nie ma rutyny. Gaz skroplony w pojeździe to gotowy scenariusz na współpracę wielu służb.",
+   "praktyka": "Przy cysternie z gazem na niestabilnym terenie: kontrola szczelności, strefa zagrożenia, wsparcie specjalistycznych firm do holowania i przeładunku - zanim ruszy cokolwiek.",
+   "tematy": [
+    "propan",
+    "cysterna",
+    "akcja specjalna"
+   ],
+   "powiazane": [
+    "Propan-butan",
+    "Strefy Ex i wybuch"
+   ],
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/bereit-fuer-das-ungewoehnliche-145978"
+    ]
+   ]
+  },
   {
    "id": "2026-11-18-bielsko-czad",
    "data": "2026-11-18",
@@ -711,6 +801,16 @@
    "p": "Co zrobić, gdy czujesz gaz w mieszkaniu?",
    "o": "Nie dotykać włączników, nie dzwonić w środku, zakręcić kurek, otworzyć okna, wyjść i zadzwonić z zewnątrz.",
    "data": "2026-11-19"
+  },
+  {
+   "p": "Co robi strażak wchodzący do piwnicy płonącego domu, zanim zacznie poszukiwania?",
+   "o": "Zabiera linię gaśniczą i zapewnia drogę odwrotu - bez węża nie ma jak się bronić przed ogniem pod stropem.",
+   "data": "2026-11-20"
+  },
+  {
+   "p": "Czy sygnały świetlne i dźwiękowe dają pierwszeństwo na skrzyżowaniu?",
+   "o": "Nie. Dają tylko możliwość jego uzyskania - po upewnieniu się, że inni kierowcy ustąpili.",
+   "data": "2026-11-20"
   }
  ],
  "raporty": [
