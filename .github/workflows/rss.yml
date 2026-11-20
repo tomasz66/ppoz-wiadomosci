@@ -1,0 +1,26 @@
+# Codziennie ok. 6:00 czasu polskiego zbiera nowe wpisy RSS do rss.json (bez AI, bez kosztów).
+# 4:00 UTC = 5:00 zimą / 6:00 latem; 5:00 UTC = 6:00 zimą / 7:00 latem - uruchamiamy o 4:30 UTC,
+# bo GitHub potrafi spóźnić start nawet o kilkadziesiąt minut.
+name: Zbierz RSS
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 skrypty/zbierz_rss.py
+      - name: Zapisz zmiany
+        run: |
+          git config user.name "zbieracz-rss"
+          git config user.email "actions@users.noreply.github.com"
+          git add rss.json
+          git diff --cached --quiet || git commit -m "Update RSS feed $(date -u +%F)"
+          git push
