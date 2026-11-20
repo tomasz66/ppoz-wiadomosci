@@ -12,10 +12,12 @@ Tomek - strażak PSP i inspektor ochrony ppoż., prowadzi szkolenia. Chce być s
 - Zero plotek. Projekt przepisu nigdy jako obowiązujące prawo.
 
 ## Krok 1 - pobierz kanały RSS (bez AI)
-Napisz krótki skrypt w Pythonie (tylko biblioteka standardowa), który pobiera kanały z pliku `zrodla.json` w tym repozytorium (User-Agent przeglądarki, timeout 20 s), bierze wpisy z ostatnich 30 godzin (RSS <item> i Atom <entry>) i wypisuje: źródło, data, tytuł, link, 280 znaków opisu. Błąd jednego kanału nie przerywa reszty.
+Napisz krótki skrypt w Pythonie (tylko biblioteka standardowa), który pobiera kanały z pliku `zrodla.json` w tym repozytorium (User-Agent zwykłej przeglądarki, timeout 20 s), bierze wpisy z ostatnich 30 godzin (RSS <item> i Atom <entry>) i wypisuje: źródło, data, tytuł, link, 280 znaków opisu. Błąd jednego kanału nie przerywa reszty.
+Kanały, które zwróciły błąd (403, SSL, zerwane połączenie, zły XML) - spróbuj jeszcze raz narzędziem WebFetch na adresie kanału.
+Jeśli wartościowych wpisów jest mniej niż 6 - poszerz okno do 72 godzin.
 
 ## Krok 2 - wybierz i sprawdź
-- 3-5 wydarzeń lub publikacji z najlepszymi wnioskami (akcje z problemami, MAYDAY, wypadki strażaków, raporty, badania, nietypowe pożary, czad, baterie). Mieszaj Polskę i świat. Dla każdego OTWÓRZ pełny artykuł. Strona blokuje dostęp - pomiń.
+- 3-5 wydarzeń lub publikacji z najlepszymi wnioskami (MINIMUM 3 - jeśli brakuje świeżych, weź z poszerzonego okna) (akcje z problemami, MAYDAY, wypadki strażaków, raporty, badania, nietypowe pożary, czad, baterie). Mieszaj Polskę i świat. Dla każdego OTWÓRZ pełny artykuł (curl z przeglądarkowym User-Agent albo WebFetch). Strona blokuje dostęp - wybierz inny temat.
 - Pomijaj: budżety, kadry, sprawy sądowe bez lekcji, reklamy, nagrody, wydarzenia już opisane w `wiadomosci.json` (sprawdź tytuły i linki).
 - Gdy w kanałach jest coś do sekcji pobocznych (przepisy, wyroki, nowości, badania, baterie, statystyki PSP) - dodaj tam.
 
@@ -34,24 +36,33 @@ Zachowaj strukturę pliku. Zmieniaj tylko to, co opisane niżej. Nie usuwaj kluc
 7. `przepisy`, `wyroki`, `nowosci`, `badania`, `baterie`, `faktmit`, `liczby`, `raporty`, `materialy` - dodawaj tylko z pewnych źródeł. `liczby` wyłącznie z danych PSP.
 8. `akcja_miesiaca` - w pierwszym dniu miesiąca wybierz najciekawsze polskie zdarzenie z poprzedniego miesiąca (jest w `wydarzenia`) i napisz omówienie: `{"id":"id wydarzenia","miesiac":"Grudzień 2026","analiza":["3 akapity"],"wnioski":["3 wnioski"],"zrodla":[[...]]}`.
 9. Nie ruszaj: `historia`, `sezon`, `dla_kazdego`, `wydarzenia_branzowe`, `wydarzenia_gdzie_szukac` - chyba że pojawi się nowe potwierdzone wydarzenie branżowe.
-10. Sprawdź poprawność JSON (`python3 -m json.tool wiadomosci.json`). Zrób commit i push do gałęzi `main` tego repozytorium. Wiadomość commita po angielsku, w trybie rozkazującym, np. „Update news for 2026-11-21”.
+10. Zapisuj plik tak samo jak jest sformatowany: `json.dump(d, f, ensure_ascii=False, indent=1)` - inaczej zmienia się cały plik. Sprawdź poprawność JSON (`python3 -m json.tool wiadomosci.json`). Zrób commit i push do gałęzi `main` tego repozytorium. Wiadomość commita po angielsku, w trybie rozkazującym, np. „Update news for 2026-11-21”.
 
-## Krok 4 - Telegram: tylko zajawki, bez PDF
+## Krok 4 - Telegram: zajawki jak osobisty czytnik RSS, bez PDF
 Zmienne środowiskowe: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID. Nigdy nie wypisuj tokenu. NIE wysyłaj PDF ani plików.
-Jedna wiadomość `sendMessage` (parse_mode=HTML, disable_web_page_preview=true), wygląd jak osobisty czytnik RSS:
+Jedna wiadomość `sendMessage` (parse_mode=HTML, disable_web_page_preview=true), do 3800 znaków:
 ```
 <b>Wiadomości PPOŻ · DD.MM.RRRR</b>
 
-<b>NADTYTUŁ</b> Tytuł wydarzenia
-Zajawka w 1 zdaniu.
+<b>NADTYTUŁ</b>
+<b>Tytuł wydarzenia</b>
+2-3 zdania: co się stało, gdzie, kiedy.
+<i>Wniosek:</i> 1 zdanie - czego to uczy.
 <a href="https://tomasz66.github.io/inspektor/#/wiadomosci/w/ID">Czytaj w aplikacji ›</a>
 
-(kolejne 2-4 wydarzenia tak samo)
+(3-5 wydarzeń tak samo, oddzielone pustą linią)
 
-Pytanie dnia: treść pytania (odpowiedź w aplikacji)
-<a href="https://tomasz66.github.io/inspektor/#/wiadomosci">Wszystkie wiadomości ›</a>
+<b>Krótko</b>
+• 3-5 ciekawostek po 1 zdaniu (sprzęt, szkolenia, przepisy) z linkiem do źródła
+
+<b>Tip dnia:</b> 1-2 zdania z sekcji tipy lub czywiesz
+
+<b>Pytanie dnia:</b> treść pytania
+Odpowiedź: <tg-spoiler>krótka odpowiedź</tg-spoiler>
+
+<a href="https://tomasz66.github.io/inspektor/#/wiadomosci">Wszystkie wiadomości w aplikacji ›</a>
 ```
-Jeśli nie udało się zapisać `wiadomosci.json` w repozytorium (brak uprawnień do push), linki „Czytaj” prowadzą do artykułu źródłowego zamiast do aplikacji.
+Jeśli zapis `wiadomosci.json` w repozytorium się nie udał (push odrzucony), linki „Czytaj” prowadzą do artykułu źródłowego zamiast do aplikacji, a na końcu wiadomości dopisz: „(aplikacja nie została zaktualizowana - błąd zapisu)”.
 Sprawdź "ok":true. Błąd - spróbuj ponownie, potem krótka wiadomość z opisem błędu.
 
 ## Na koniec
