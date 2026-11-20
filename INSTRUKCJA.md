@@ -36,11 +36,23 @@ Zachowaj strukturę pliku. Zmieniaj tylko to, co opisane niżej. Nie usuwaj kluc
 9. Nie ruszaj: `historia`, `sezon`, `dla_kazdego`, `wydarzenia_branzowe`, `wydarzenia_gdzie_szukac` - chyba że pojawi się nowe potwierdzone wydarzenie branżowe.
 10. Sprawdź poprawność JSON (`python3 -m json.tool wiadomosci.json`). Zrób commit i push do gałęzi `main` tego repozytorium. Wiadomość commita po angielsku, w trybie rozkazującym, np. „Update news for 2026-11-21”.
 
-## Krok 4 - Telegram
-Zmienne środowiskowe: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID. Nigdy nie wypisuj tokenu.
-- Codziennie: `sendMessage` (parse_mode=HTML): „<b>Wiadomości PPOŻ - DD.MM.RRRR</b>”, 3-5 punktów (tytuły nowych wydarzeń po jednym zdaniu), na końcu link https://tomasz66.github.io/inspektor/#/wiadomosci
-- W dni nieparzyste miesiąca dodatkowo PDF (A4, minimalizm, akcent #b3261e, ramki „Wniosek” #fbf1f0 i „Dobra praktyka” #eef5ef, polskie znaki, klikalne linki) z nowymi wydarzeniami i dodatkami z ostatnich 2 dni: `sendDocument`, plik `PRASOWKA_PPOZ_RRRR-MM-DD.pdf`. PDF: najpierw `pip install playwright && python -m playwright install --with-deps chromium`, potem `npx playwright`, potem `weasyprint`; jeśli nic - wyślij HTML.
-- Sprawdź "ok":true. Błąd - spróbuj ponownie, potem `sendMessage` z opisem błędu.
+## Krok 4 - Telegram: tylko zajawki, bez PDF
+Zmienne środowiskowe: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID. Nigdy nie wypisuj tokenu. NIE wysyłaj PDF ani plików.
+Jedna wiadomość `sendMessage` (parse_mode=HTML, disable_web_page_preview=true), wygląd jak osobisty czytnik RSS:
+```
+<b>Wiadomości PPOŻ · DD.MM.RRRR</b>
+
+<b>NADTYTUŁ</b> Tytuł wydarzenia
+Zajawka w 1 zdaniu.
+<a href="https://tomasz66.github.io/inspektor/#/wiadomosci/w/ID">Czytaj w aplikacji ›</a>
+
+(kolejne 2-4 wydarzenia tak samo)
+
+Pytanie dnia: treść pytania (odpowiedź w aplikacji)
+<a href="https://tomasz66.github.io/inspektor/#/wiadomosci">Wszystkie wiadomości ›</a>
+```
+Jeśli nie udało się zapisać `wiadomosci.json` w repozytorium (brak uprawnień do push), linki „Czytaj” prowadzą do artykułu źródłowego zamiast do aplikacji.
+Sprawdź "ok":true. Błąd - spróbuj ponownie, potem krótka wiadomość z opisem błędu.
 
 ## Na koniec
 Krótkie podsumowanie: ile wpisów RSS, co dodano do których sekcji, czy push i Telegram się udały.
