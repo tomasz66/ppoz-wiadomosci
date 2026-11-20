@@ -1492,5 +1492,34 @@
    "tekst": "Przed świętami: lampki choinkowe tylko sprawne, świece z dala od firan, a na stoiskach jarmarcznych tylko butla podłączona do urządzenia - zapas na zewnątrz."
   }
  ],
- "przeglad_pigulka": []
+ "przeglad_pigulka": [
+  {
+   "numer": "10/2026",
+   "data": "2026-11-02",
+   "link": "https://www.ppoz.pl/aktualne-wydanie",
+   "artykuly": [
+    {
+     "tytul": "Efekt czujki w operacyjnym zwierciadle",
+     "autor": "kpt. Maciej Piątek, JRG PSP Kraśnik",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Efekt-czujki-w-operacyjnym-zwierciadle/idn:3485",
+     "streszczenie": "Autor sprawdził, co zmieniły czujki w powiecie kraśnickim, gdzie od października 2024 r. zamontowano ich ponad 1200. Wyjazdów do czadu w sezonie grzewczym jest o ponad 285% więcej niż trzy sezony wcześniej, ale od 2023 r. nie było tam ani jednej ofiary śmiertelnej. Alarmy z czujek dymu rzadko są fałszywe. Latem przybyło zdarzeń z CO, głównie przez „cofkę” spalin.",
+     "wniosek": "Czujki ratują życie, ale zwiększają liczbę wyjazdów - edukacja mieszkańców (sygnały techniczne czujki, wietrzenie) może ograniczyć zbędne interwencje."
+    },
+    {
+     "tytul": "Termowizja w PSP",
+     "autor": "mł. kpt. Ksawery Łokietek, JRG 3 KM PSP Warszawa",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Termowizja-w-PSP/idn:3484",
+     "streszczenie": "Historia kamer termowizyjnych w PSP: od pierwszej kamery w 1994 r. do standardowego wyposażenia JRG. 9 lutego 2026 r. zatwierdzono program szkolenia doskonalącego „TKT” - 3 dni, 9 godzin teorii i 17 godzin praktyki w trenażerach. Od października 2025 r. obowiązuje standard taktycznej kamery, a w latach 2026-2028 instruktorzy mają objąć szkoleniem wszystkie województwa.",
+     "wniosek": "Kamera nie zastąpi wiedzy - trzeba umieć działać także bez niej, a szkolenie z pożarów wewnętrznych (GPW) jest warunkiem udziału w TKT."
+    },
+    {
+     "tytul": "Raj w ogniu albo piekło w raju",
+     "autor": "st. kpt. Renata Golly, KG PSP",
+     "link": "https://www.ppoz.pl/aktualne-wydanie/index/Raj-w-ogniu-albo-pieklo-w-raju/idn:3483",
+     "streszczenie": "19 czerwca 2026 r. spłonął kompleks hotelowy w Bayahíbe (Dominikana). Ogień szedł po palnych strzechach z roślin i w wietrze ok. 6 m/s objął ponad 100 pawilonów na ok. 7 ha. Ewakuowano ok. 1690 gości, jedna osoba zmarła. W akcji: 475 osób, 22 wozy, 8 cystern, 2 śmigłowce z koszami i 10 karetek pod jednym dowództwem.",
+     "wniosek": "Palne pokrycia dachów i małe odległości między budynkami to przepis na pożar powierzchniowy - liczy się zaopatrzenie wodne, plan ewakuacji wielu osób i jedno dowództwo."
+    }
+   ]
+  }
+ ]
 }
