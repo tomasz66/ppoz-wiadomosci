@@ -23,7 +23,7 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 KATALOG = Path(__file__).resolve().parent.parent
 
 # Pomijane tematy bez wartości dla inspektora (budżety, kadry, reklamy)
-POMIJAJ = re.compile(r"budget|budżet|sponsor|giveaway|award|nagrod|contract|przetarg|appoint|black week|sale\\b|\\bnames\\b|\\bhires\\b|\\bVP\\b|investor|top workplace|promot|nabory|nabór", re.I)
+POMIJAJ = re.compile(r"budget|budżet|sponsor|giveaway|award|nagrod|contract|przetarg|appoint|black week|sale\b|\bnames\b|\bhires\b|\bVP\b|investor|top workplace|promot|nabory|nabór", re.I)
 
 
 def pobierz(url):
