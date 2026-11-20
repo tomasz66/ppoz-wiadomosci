@@ -155,15 +155,6 @@
    "opis": "Fiaskiem zakończyły się plany likwidacji Wojskowej Straży Pożarnej funkcjonującej w 8 Batalionie Saperów w Dziwnowie."
   },
   {
-   "zrodlo": "Akademia Pożarnicza",
-   "kraj": "PL",
-   "typ": "badania",
-   "tytul": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r.",
-   "link": "https://apoz.edu.pl/dzisiaj-mialy-miejsce-uroczystosci-pogrzebowe-bryg-w-st-spocz-dr-hab-janusza-rybinskiego-wybitnego-naukowca-wieloletniego-dziekana-wydzialu-inzynierii-bezpieczenstwa-pozarowego-i-professora-eme/",
-   "data": "2026-11-19T16:46+00:00",
-   "opis": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r. Z wars"
-  },
-  {
    "zrodlo": "Remiza.pl",
    "kraj": "PL",
    "typ": "akcje",
@@ -659,15 +650,6 @@
    "opis": "A Maryland appeals court has reinstated a lawsuit filed by three municipalities, a volunteer fire company, and a resident challenging Prince George’s County Fire Chief Tiffany Green’s decision to remove career firefighters from several volunteer fire stations."
   },
   {
-   "zrodlo": "Akademia Pożarnicza",
-   "kraj": "PL",
-   "typ": "badania",
-   "tytul": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”",
-   "link": "https://apoz.edu.pl/w-akademii-pozarniczej-odbyla-sie-konferencja-naukowa-odpornosc-spoleczna-w-ochronie-ludnosci-i-obronie-cywilnej/",
-   "data": "2026-11-17T18:39+00:00",
-   "opis": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”. Konferencję otworzył Rektor-Komendant Akademii Pożarniczej nadbryg. dr hab. inż. Tomasz Klimczak, prof. uczelni. Przedstawiciele nauki, administ"
-  },
-  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -704,5 +686,7 @@
    "opis": "Siderise examines how the correct mechanical fixing of open state fireblocks helps maintain fire compartmentation, ventilation and drainage performance in rainscreen facades Horizontal open state mineral fibre fireblocks incorporating an intumescent strip are "
   }
  ],
- "bledy": []
+ "bledy": [
+  "Akademia Pożarnicza: URLError"
+ ]
 }
