@@ -141,6 +141,21 @@
   "nazwa": "Ochrona Przeciwpożarowa (kwartalnik)",
   "kraj": "PL",
   "typ": "wiedza",
-  "rss": "https://ochronaprzeciwpozarowa.pl/feed/"
+  "rss": "https://ochronaprzeciwpozarowa.pl/feed/",
+  "godzin": 2160
+ },
+ {
+  "nazwa": "Przegląd Pożarniczy (KG PSP)",
+  "kraj": "PL",
+  "typ": "wiedza",
+  "rss": "https://www.ppoz.pl/rss",
+  "godzin": 840
+ },
+ {
+  "nazwa": "Edufire",
+  "kraj": "PL",
+  "typ": "szkolenia",
+  "rss": "https://edufire.pl/feed/",
+  "godzin": 336
  }
 ]

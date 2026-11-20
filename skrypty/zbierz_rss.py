@@ -72,7 +72,7 @@ def wpisy(xml):
 
 def main():
     teraz = datetime.now(timezone.utc)
-    granica = teraz - timedelta(hours=GODZIN_WSTECZ)
+    # Źródła wydawane rzadko (miesięcznik, kwartalnik) mają w zrodla.json dłuższe okno „godzin”
     zrodla = json.loads((KATALOG / "zrodla.json").read_text(encoding="utf-8"))
     wynik, bledy = [], []
 
@@ -83,6 +83,7 @@ def main():
             bledy.append(f"{z['nazwa']}: {type(blad).__name__}")
             continue
         nowe = []
+        granica = teraz - timedelta(hours=z.get("godzin", GODZIN_WSTECZ))
         for tytul, link, data, opis in lista:
             kiedy = data_wpisu(data)
             if not tytul or not link or kiedy is None or kiedy.tzinfo is None or kiedy < granica or kiedy > teraz + timedelta(hours=1):

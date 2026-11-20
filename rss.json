@@ -1,5 +1,5 @@
 {
- "aktualizacja": "2026-11-20T10:58+00:00",
+ "aktualizacja": "2026-11-20T11:21+00:00",
  "wpisy": [
   {
    "zrodlo": "Fire & Safety Journal Americas",
@@ -153,6 +153,15 @@
    "link": "https://remiza.pl/nie-bedzie-likwidacji-wojskowej-strazy-pozarnej-w-dziwnowie/",
    "data": "2026-11-19T17:19+00:00",
    "opis": "Fiaskiem zakończyły się plany likwidacji Wojskowej Straży Pożarnej funkcjonującej w 8 Batalionie Saperów w Dziwnowie."
+  },
+  {
+   "zrodlo": "Akademia Pożarnicza",
+   "kraj": "PL",
+   "typ": "badania",
+   "tytul": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r.",
+   "link": "https://apoz.edu.pl/dzisiaj-mialy-miejsce-uroczystosci-pogrzebowe-bryg-w-st-spocz-dr-hab-janusza-rybinskiego-wybitnego-naukowca-wieloletniego-dziekana-wydzialu-inzynierii-bezpieczenstwa-pozarowego-i-professora-eme/",
+   "data": "2026-11-19T16:46+00:00",
+   "opis": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r. Z wars"
   },
   {
    "zrodlo": "Remiza.pl",
@@ -650,6 +659,15 @@
    "opis": "A Maryland appeals court has reinstated a lawsuit filed by three municipalities, a volunteer fire company, and a resident challenging Prince George’s County Fire Chief Tiffany Green’s decision to remove career firefighters from several volunteer fire stations."
   },
   {
+   "zrodlo": "Akademia Pożarnicza",
+   "kraj": "PL",
+   "typ": "badania",
+   "tytul": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”",
+   "link": "https://apoz.edu.pl/w-akademii-pozarniczej-odbyla-sie-konferencja-naukowa-odpornosc-spoleczna-w-ochronie-ludnosci-i-obronie-cywilnej/",
+   "data": "2026-11-17T18:39+00:00",
+   "opis": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”. Konferencję otworzył Rektor-Komendant Akademii Pożarniczej nadbryg. dr hab. inż. Tomasz Klimczak, prof. uczelni. Przedstawiciele nauki, administ"
+  },
+  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -684,9 +702,25 @@
    "link": "https://internationalfireandsafetyjournal.com/open-state-fireblock-install/",
    "data": "2026-11-17T12:04+00:00",
    "opis": "Siderise examines how the correct mechanical fixing of open state fireblocks helps maintain fire compartmentation, ventilation and drainage performance in rainscreen facades Horizontal open state mineral fibre fireblocks incorporating an intumescent strip are "
+  },
+  {
+   "zrodlo": "Edufire",
+   "kraj": "PL",
+   "typ": "szkolenia",
+   "tytul": "Współczesne zagrożenia pożarowe, zdrowie ratowników i rola edukacji – Łukasz Łaciok w podcaście „Laboratorium Bezpieczeństwa” – Centrum Naukowo Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego – Państwowy Instytut Badawczy",
+   "link": "https://edufire.pl/wspolczesne-zagrozenia-pozarowe-zdrowie-ratownikow-i-rola-edukacji-lukasz-laciok-w-podcascie-laboratorium-bezpieczenstwa-centrum-naukowo-badawcze-ochrony-przeciwpozarowe/",
+   "data": "2026-11-12T05:15+00:00",
+   "opis": "Jak zmieniają się współczesne zagrożenia pożarowe i czy ratownicy są przygotowani na nowe wyzwania? Dlaczego doskonalenie zawodowe nie powinno być jedynie formalnością? I wreszcie – co każdy strażak może zrobić, aby skuteczniej zadbać o własne zdrowie i bezpie"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Termowizja w PSP",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Termowizja-w-PSP/idn:3484",
+   "data": "2026-11-02T12:44+00:00",
+   "opis": "Kamery termowizyjne stały się powszechne w pożarnictwie już kilkanaście lat temu. Dzisiaj stanowią podstawowe wyposażenie wszystkich JRG w Polsce i wielu jednostek OSP. Jaka była historia termowizji?9 lutego 2026 r. komendant główny PSP"
   }
  ],
- "bledy": [
-  "Akademia Pożarnicza: URLError"
- ]
+ "bledy": []
 }
