@@ -27,43 +27,20 @@ Zachowaj strukturę pliku. Zmieniaj tylko to, co opisane niżej. Nie usuwaj kluc
 2. `wydarzenia` - nowe na POCZĄTEK listy. Każde:
    `{"id":"RRRR-MM-DD-krotka-nazwa","data":"RRRR-MM-DD","kraj":"Polska","etykieta":"MEDIA","naglowek":"KRÓTKI NADTYTUŁ WERSALIKAMI","tytul":"chwytliwy, ale prawdziwy tytuł","zajawka":"1-2 zdania","tresc":["akapit faktów","akapit faktów"],"wniosek":"czego to uczy","praktyka":"co konkretnie robić","tematy":["czad","MAYDAY"],"powiazane":["nazwa hasła z listy niżej"],"zrodla":[["Nazwa","https://..."]]}`
    Opcjonalnie `"analiza":["Nazwa raportu","https://..."]` gdy jest oficjalny raport. Gdy zdarzenie starsze niż artykuł - podaj datę zdarzenia w treści.
-   Usuń wydarzenia starsze niż 90 dni.
+   Wydarzenia starsze niż 30 dni PRZENIEŚ (nie usuwaj) na początek listy `wydarzenia` w pliku `archiwum.json` - patrz punkt 11.
    `powiazane` - tylko nazwy z tej listy (hasła z aplikacji): Butle LPG, Czujki i SSP, Drogi pożarowe, Elektryka i PWP, Ewakuacja, Fotowoltaika, Garaże, Gaśnice, Hydranty, IBP, Klasy odporności pożarowej, Strefy pożarowe, Kominy i kotłownie, Kontrole i mandaty, Lasy i żniwa, Materiały budowlane, Obciążenie ogniowe, Obowiązki właściciela, Oddymianie i drzwi ppoż., Odległości, Prace niebezpieczne, Przyczyny pożarów, Rozwiązania zamienne, Spalanie i pożar, Stacje paliw, Strefy Ex i wybuch, Szkolenia, Tryskacze, Woda do gaszenia, Wysokość budynku, ZL i kategorie, Wodór, Tlenek węgla (czad), Gaz ziemny (metan), Propan-butan, Acetylen, Benzyna i ciecze palne, Pyły, Akumulatory i baterie, Znaki i oświetlenie.
-3. `pytania` - dodaj 2 nowe na podstawie dzisiejszych wydarzeń: `{"p":"pytanie","o":"krótka odpowiedź","data":"RRRR-MM-DD"}`. Usuń starsze niż 60 dni, ale zostaw co najmniej 10.
-4. `terminy` - usuń minione. Dodaj nowy tylko, gdy w źródle jest konkretna data (przepis, nabór, konferencja): `{"data":"RRRR-MM-DD","tytul":"...","opis":"1 zdanie","wiecej":"2-3 zdania po ludzku","zrodla":[[...]]}`.
+3. `pytania` - dodaj 2 nowe na podstawie dzisiejszych wydarzeń: `{"p":"pytanie","o":"krótka odpowiedź","data":"RRRR-MM-DD"}`. Starsze niż 30 dni PRZENIEŚ do `archiwum.json` (lista `pytania`), ale w `wiadomosci.json` zostaw co najmniej 10.
+4. `terminy` - minione PRZENIEŚ do `archiwum.json` (lista `terminy`). Dodaj nowy tylko, gdy w źródle jest konkretna data (przepis, nabór, konferencja): `{"data":"RRRR-MM-DD","tytul":"...","opis":"1 zdanie","wiecej":"2-3 zdania po ludzku","zrodla":[[...]]}`.
 5. `obserwuje` - gdy w sprawie pojawiło się coś nowego: zaktualizuj `stan` i `ostatnio`. Nowa ważna sprawa w toku - dodaj (najwyżej 8 pozycji).
 6. Co 1-2 dni dodaj 1 pozycję do `czywiesz` (`{"tekst":"...","zrodlo":"..."}`) albo `tipy` (`{"tytul":"...","tresc":"...","przepis":"§ ... (tylko pewny)","dla":"inspektor" albo "strażak"}`) - ciekawą i sprawdzoną.
 7. `przepisy`, `wyroki`, `nowosci`, `badania`, `baterie`, `faktmit`, `liczby`, `raporty`, `materialy` - dodawaj tylko z pewnych źródeł. `liczby` wyłącznie z danych PSP.
 8. `akcja_miesiaca` - w pierwszym dniu miesiąca wybierz najciekawsze polskie zdarzenie z poprzedniego miesiąca (jest w `wydarzenia`) i napisz omówienie: `{"id":"id wydarzenia","miesiac":"Grudzień 2026","analiza":["3 akapity"],"wnioski":["3 wnioski"],"zrodla":[[...]]}`.
 9. Nie ruszaj: `historia`, `sezon`, `dla_kazdego`, `wydarzenia_branzowe`, `wydarzenia_gdzie_szukac` - chyba że pojawi się nowe potwierdzone wydarzenie branżowe.
-10. Zapisuj plik tak samo jak jest sformatowany: `json.dump(d, f, ensure_ascii=False, indent=1)` - inaczej zmienia się cały plik. Sprawdź poprawność JSON (`python3 -m json.tool wiadomosci.json`). Zrób commit i push do gałęzi `main` tego repozytorium. Wiadomość commita po angielsku, w trybie rozkazującym, np. „Update news for 2026-11-21”.
+11. BAZA WIEDZY - `archiwum.json`: nic z niego nie usuwaj. Przenoś tam (na początek odpowiedniej listy, bez duplikatów po `id`/`tytul`/`tekst`/`p`): wydarzenia starsze niż 30 dni, pytania starsze niż 30 dni, minione terminy, sprawy z `obserwuje` zakończone lub bez nowych informacji od 60 dni, a z list `tipy`, `czywiesz`, `faktmit`, `wyroki`, `przepisy`, `nowosci`, `badania`, `baterie` - najstarsze pozycje, gdy lista w `wiadomosci.json` przekroczy 15 (w `wiadomosci.json` zostaw 15 najnowszych). Do każdej przenoszonej pozycji bez daty dopisz `"zarchiwizowano":"RRRR-MM-DD"`.
+10. Zapisuj plik tak samo jak jest sformatowany: `json.dump(d, f, ensure_ascii=False, indent=1)` - inaczej zmienia się cały plik. Sprawdź poprawność JSON (`python3 -m json.tool wiadomosci.json`). Tak samo zapisuj `archiwum.json`. Zrób commit (oba pliki) i push do gałęzi `main` tego repozytorium. Wiadomość commita po angielsku, w trybie rozkazującym, np. „Update news for 2026-11-21”.
 
-## Krok 4 - Telegram: zajawki jak osobisty czytnik RSS, bez PDF
-Zmienne środowiskowe: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID. Nigdy nie wypisuj tokenu. NIE wysyłaj PDF ani plików.
-Jedna wiadomość `sendMessage` (parse_mode=HTML, disable_web_page_preview=true), do 3800 znaków:
-```
-<b>Wiadomości PPOŻ · DD.MM.RRRR</b>
-
-<b>NADTYTUŁ</b>
-<b>Tytuł wydarzenia</b>
-2-3 zdania: co się stało, gdzie, kiedy.
-<i>Wniosek:</i> 1 zdanie - czego to uczy.
-<a href="https://tomasz66.github.io/inspektor/#/wiadomosci/w/ID">Czytaj w aplikacji ›</a>
-
-(3-5 wydarzeń tak samo, oddzielone pustą linią)
-
-<b>Krótko</b>
-• 3-5 ciekawostek po 1 zdaniu (sprzęt, szkolenia, przepisy) z linkiem do źródła
-
-<b>Tip dnia:</b> 1-2 zdania z sekcji tipy lub czywiesz
-
-<b>Pytanie dnia:</b> treść pytania
-Odpowiedź: <tg-spoiler>krótka odpowiedź</tg-spoiler>
-
-<a href="https://tomasz66.github.io/inspektor/#/wiadomosci">Wszystkie wiadomości w aplikacji ›</a>
-```
-Jeśli zapis `wiadomosci.json` w repozytorium się nie udał (push odrzucony), linki „Czytaj” prowadzą do artykułu źródłowego zamiast do aplikacji, a na końcu wiadomości dopisz: „(aplikacja nie została zaktualizowana - błąd zapisu)”.
-Sprawdź "ok":true. Błąd - spróbuj ponownie, potem krótka wiadomość z opisem błędu.
+## Krok 4 - bez Telegrama
+Nie wysyłaj nic na Telegram ani nigdzie indziej. Tomek czyta wszystko w aplikacji.
 
 ## Na koniec
-Krótkie podsumowanie: ile wpisów RSS, co dodano do których sekcji, czy push i Telegram się udały.
+Krótkie podsumowanie: ile wpisów RSS, co dodano do których sekcji, czy push się udał.
