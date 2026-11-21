@@ -1,6 +1,102 @@
 {
- "aktualizacja": "2026-11-20",
+ "aktualizacja": "2026-11-21",
  "wydarzenia": [
+  {
+   "id": "2026-11-19-robbins-osha",
+   "data": "2026-11-19",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "WYBUCH SILOSU Z PYŁEM DRZEWNYM",
+   "tytul": "Silos wybuchł po godzinie akcji. Zginęło dwóch strażaków - teraz kary dla tartaku i remiz",
+   "zajawka": "Po majowym wybuchu w tartaku Robbins Lumber w stanie Maine amerykański urząd BHP nałożył ponad 54 tys. dolarów kar. Stan ukarał też 11 jednostek straży - za brak ewidencji ludzi i błędy ze sprzętem ochrony.",
+   "tresc": [
+    "15 maja 2026 r. około 10:05 zapalił się obszar, gdzie wióry pakuje się w worki, ogień przeszedł na pobliski silos. Silos był wypełniony w ok. 20% trocinami i wiórami. Instalacja gaśnicza nie zadziałała, bo na górze silosu temperatura nie osiągnęła progu uruchomienia.",
+    "Strażacy lali wodę do silosu i do pomieszczenia u jego podstawy. Według śledztwa federalnego dodawało to tlenu i wzbijało pył - powstała mieszanka wybuchowa. Około 11:00 silos wybuchł bez ostrzeżenia, wyrzucając pracowników i strażaków. Zginęli strażak Andrew Cross (27 l.) i zastępca komendanta Wayne Woodbury oraz współwłaściciel tartaku Alden Robbins, co najmniej 10 osób zostało rannych. W akcji brało udział prawie 300 strażaków z 46 jednostek.",
+    "Federalny urząd OSHA wskazał 5 naruszeń i ponad 54 tys. dol. kar dla firmy - szczegółów jeszcze nie ujawnił. Stanowy program BHP ukarał sześć jednostek za brak śledzenia, gdzie są strażacy, a pięć za problemy ze sprzętem ochrony indywidualnej, w tym aparatami oddechowymi. Kary (ok. 108 tys. dol.) w większości umorzono, by remizy mogły wydać pieniądze na poprawę bezpieczeństwa."
+   ],
+   "wniosek": "Pył w zamkniętym silosie to bomba. Woda lana na ślepo potrafi wzbić pył i dodać tlenu - zamiast gasić, przygotowuje wybuch.",
+   "praktyka": "Zanim zaczniesz lać wodę do silosu, zasobnika czy młyna z pyłem - dowódca ocenia ryzyko wybuchu pyłu, wycofuje ludzi ze strefy rażenia i ustala sposób gaszenia z obsługą zakładu. Ewidencja strażaków w strefie zagrożenia nie jest formalnością.",
+   "tematy": [
+    "pył",
+    "wybuch",
+    "silos",
+    "ewidencja"
+   ],
+   "powiazane": [
+    "Pyły",
+    "Strefy Ex i wybuch",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (za Bangor Daily News)",
+     "https://www.fireengineering.com/fire-safety/me-lumber-company-faces-54k-in-fines-over-deadly-blast/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-16-new-paltz-opony",
+   "data": "2026-11-16",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "BRAK WODY I LINIE NAD ZIEMIĄ",
+   "tytul": "Pożar hurtowni z setką opon: zerwane linie energetyczne i hydrant za daleko",
+   "zajawka": "W New Paltz (stan Nowy Jork) sprawa zaczęła się od wypadku przy słupie. Skończyła się pożarem magazynu bez dojazdu do wody.",
+   "tresc": [
+    "W poniedziałek 16 listopada 2026 r. rano straż z New Paltz jechała do wypadku, w którym auto uderzyło w słup. Potem doszło zgłoszenie o zerwanych liniach i pożarze domu, który strażacy szybko ugasili gaśnicą. O 9:32 w sklepie z wyposażeniem dla domowych piwowarów i win znaleźli gęsty dym, a około 9:50 ogień przebił się przez dach.",
+    "Do posesji nie dało się dojechać przez zerwane linie - jedna płonęła przy wjeździe. W pobliżu nie było hydrantu, a dojazd do najbliższego źródła blokowało zamknięte przejście pod autostradą. Wodę dowożono cysternami z liceum (2 mile w obie strony) i ze stawu (6 mil). W budynku było 200-300 opon, co - jak podała straż - pogorszyło pożar. Strażak doznał lekkiego urazu. 11 mieszkańców straciło dach nad głową. Następnego dnia rano doszło do rozgorzenia ognia na zgliszczach."
+   ],
+   "wniosek": "Zaopatrzenie w wodę to często największy problem akcji poza miastem. Do tego składowane opony i ponowne zapalenia ognisk po akcji.",
+   "praktyka": "Ćwicz transport wody: ustal z gminą miejsca czerpania wody i punkty dla cystern. Po akcji zostaw wartę lub zaplanuj kontrolę zgliszcz - rekindle po nocy to nie wyjątek.",
+   "tematy": [
+    "woda",
+    "opony",
+    "rekindle",
+    "linie energetyczne"
+   ],
+   "powiazane": [
+    "Woda do gaszenia",
+    "Hydranty",
+    "Drogi pożarowe",
+    "Obciążenie ogniowe"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/ny-firefighters-faced-significant-challenges-during-fire-that-also-involved-hundred-of-tires/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-16-rose-township-amunicja",
+   "data": "2026-11-16",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "WYBUCHY W BUDYNKU GOSPODARCZYM",
+   "tytul": "Eksplodowała amunicja w płonącej stodole. Strażacy nie mogli wejść - w środku był człowiek",
+   "zajawka": "W stanie Michigan strażacy zastali stodołę w ogniu i słyszeli wybuchy. Dopiero po ugaszeniu znaleźli w gruzach 68-latka.",
+   "tresc": [
+    "W poniedziałek około 13:08 straż z North Oakland County dostała zgłoszenie o pożarze stodoły (pole barn) w Rose Township, z informacją, że może tam być osoba. Po przyjeździe strażacy zastali obiekt w płomieniach i zobaczyli kilka wybuchów, które uniemożliwiły bezpieczne wejście.",
+    "Zamknięto pobliską drogę. Strażacy gasili ogień i chronili sąsiednie budynki. Dowiedzieli się, że w stodole przechowywano amunicję. Po ugaszeniu w zgliszczach znaleziono 68-letniego mężczyznę - nie żył. Przyczyna pożaru nie została podana."
+   ],
+   "wniosek": "Amunicja i inne materiały wybuchowe w budynku gospodarczym zmieniają całą taktykę. Czasem najlepszą decyzją jest odmowa wejścia i walka z ogniem z dystansu.",
+   "praktyka": "Przy pierwszych wybuchach - zatrzymaj wejście, wycofaj ludzi, zamknij strefę (droga, sąsiedzi) i dopiero potem decyduj o gaszeniu. Dla inspektora: pytaj o składowanie amunicji, butli i środków pirotechnicznych w obiektach gospodarczych.",
+   "tematy": [
+    "wybuch",
+    "amunicja",
+    "budynek gospodarczy"
+   ],
+   "powiazane": [
+    "Przyczyny pożarów",
+    "Strefy Ex i wybuch"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (za The Detroit News)",
+     "https://www.fireengineering.com/firefighting/explosions-hampered-firefighters-at-fatal-mi-barn-fire/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-20-ohio-bodycam",
    "data": "2026-11-20",
@@ -696,6 +792,17 @@
  ],
  "obserwuje": [
   {
+   "tytul": "Robbins Lumber (Maine) - wybuch silosu",
+   "stan": "OSHA: 5 naruszeń i ponad 54 tys. dol. kar dla firmy. Stan ukarał 11 jednostek straży (kary w większości umorzone). Szczegółów naruszeń jeszcze brak.",
+   "ostatnio": "2026-11-19",
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/fire-safety/me-lumber-company-faces-54k-in-fines-over-deadly-blast/"
+    ]
+   ]
+  },
+  {
    "tytul": "Nisko - dlaczego zginęło dwóch strażaków",
    "stan": "Pożar magazynu 16.10.2026, roty nadały sygnał RATUNEK. Przyczyna i przebieg nie są jeszcze oficjalnie ustalone.",
    "ostatnio": "2026-10-17",
@@ -752,6 +859,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Dlaczego woda lana do silosu z pyłem drzewnym może doprowadzić do wybuchu?",
+   "o": "Wzbija pył w powietrze i dodaje tlenu - powstaje mieszanka wybuchowa. Tak było w Robbins Lumber w maju 2026 (według śledztwa federalnego).",
+   "data": "2026-11-21"
+  },
+  {
+   "p": "Co zrobić, gdy w płonącym budynku gospodarczym słychać wybuchy?",
+   "o": "Nie wchodzić. Wycofać ludzi, zamknąć strefę i gasić z dystansu - w środku może być amunicja lub butle.",
+   "data": "2026-11-21"
+  },
   {
    "p": "Ile tlenku węgla zmierzyli strażacy w Bielsku-Białej już po przewietrzeniu mieszkania?",
    "o": "100 ppm. Wietrzenie nie pomaga, gdy piec dalej produkuje czad.",
@@ -1141,6 +1258,12 @@
  },
  "tipy": [
   {
+   "tytul": "Silos z pyłem - najpierw ocena ryzyka, potem woda",
+   "tresc": "Pył drzewny, zbożowy czy mączny w zamkniętym zbiorniku może wybuchnąć, gdy go wzbić. Strumień wody do silosu potrafi to zrobić - tak ustaliło śledztwo federalne po wybuchu w Robbins Lumber (Maine, 2026). Przed akcją porozmawiaj z obsługą zakładu i ustal strefę bezpieczną.",
+   "przepis": "",
+   "dla": "strażak"
+  },
+  {
    "tytul": "Test drzwi przeciwpożarowych w 5 sekund",
    "tresc": "Otwórz skrzydło na całą szerokość i puść. Ma się samo domknąć do zatrzasku. Jeśli staje w połowie albo trzaska - samozamykacz do regulacji. Klin pod drzwiami to najczęstsza usterka.",
    "przepis": "§ 4 ust. 1 pkt 15 rozp. 2010",
@@ -1226,20 +1349,6 @@
    "przepis": "",
    "dla": "strażak",
    "zrodlo": "Wedel, 19.11.2026"
-  },
-  {
-   "tytul": "Odwrót dwiema drogami",
-   "tresc": "Plan odwrotu oparty na jednym środku (śmigłowiec, jedna klatka, jedna brama) to brak planu.",
-   "przepis": "",
-   "dla": "strażak",
-   "zrodlo": "Raport Knowles Fire"
-  },
-  {
-   "tytul": "Radiotelefon: mniej kanałów w skanowaniu",
-   "tresc": "Raport z Knowles Fire zaleca najwyżej 16 kanałów - przy większej liczbie można przegapić wywołanie.",
-   "przepis": "",
-   "dla": "strażak",
-   "zrodlo": "Raport Knowles Fire"
   }
  ],
  "baterie": [

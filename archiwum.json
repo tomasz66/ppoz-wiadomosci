@@ -2,7 +2,24 @@
  "opis": "Baza wiedzy - wpisy przeniesione z wiadomosci.json. Nic stąd nie jest usuwane.",
  "wydarzenia": [],
  "pytania": [],
- "tipy": [],
+ "tipy": [
+  {
+   "tytul": "Odwrót dwiema drogami",
+   "tresc": "Plan odwrotu oparty na jednym środku (śmigłowiec, jedna klatka, jedna brama) to brak planu.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Raport Knowles Fire",
+   "zarchiwizowano": "2026-11-21"
+  },
+  {
+   "tytul": "Radiotelefon: mniej kanałów w skanowaniu",
+   "tresc": "Raport z Knowles Fire zaleca najwyżej 16 kanałów - przy większej liczbie można przegapić wywołanie.",
+   "przepis": "",
+   "dla": "strażak",
+   "zrodlo": "Raport Knowles Fire",
+   "zarchiwizowano": "2026-11-21"
+  }
+ ],
  "czywiesz": [],
  "faktmit": [],
  "wyroki": [],
