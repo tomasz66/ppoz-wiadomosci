@@ -11,6 +11,9 @@ Tomek - strażak PSP i inspektor ochrony ppoż., prowadzi szkolenia. Chce być s
 - Etykiety: MEDIA (informacja prasowa, przyczyna niepotwierdzona), RAPORT, BADANIE, PRODUCENT.
 - Zero plotek. Projekt przepisu nigdy jako obowiązujące prawo.
 
+## Krok 0 - odśwież nagłówki RSS (zapas dla GitHub Actions)
+Uruchom `python3 skrypty/zbierz_rss.py` - zapisze świeży `rss.json` (bez AI). Dołącz `rss.json` do commita w kroku 3.
+
 ## Krok 1 - pobierz kanały RSS (bez AI)
 Napisz krótki skrypt w Pythonie (tylko biblioteka standardowa), który pobiera kanały z pliku `zrodla.json` w tym repozytorium (User-Agent zwykłej przeglądarki, timeout 20 s), bierze wpisy z ostatnich 30 godzin (RSS <item> i Atom <entry>) i wypisuje: źródło, data, tytuł, link, 280 znaków opisu. Błąd jednego kanału nie przerywa reszty.
 Kanały, które zwróciły błąd (403, SSL, zerwane połączenie, zły XML) - spróbuj jeszcze raz narzędziem WebFetch na adresie kanału.
