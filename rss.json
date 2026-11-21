@@ -1,6 +1,258 @@
 {
- "aktualizacja": "2026-11-20T11:21+00:00",
+ "aktualizacja": "2026-11-21T10:03+00:00",
  "wpisy": [
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "PSP potrzebuje setek nowych etatów. Komendant ujawnił skalę problemu",
+   "link": "https://strazacki.pl/wiadomosci/psp-potrzebuje-setek-nowych-etatow-komendant-ujawnil-skale-problemu/",
+   "data": "2026-11-21T10:01+00:00",
+   "opis": "Ponad pół tysiąca dodatkowych etatów – takiego wzmocnienia PSP potrzebuje już dziś! Kadrowego wzmocnienia wymaga m. in. krakowska Państwowa Straż Pożarna. Komendant miejski PSP przedstawił zaskakujące wyliczenia podczas posiedzenia komisji Rady Miasta. Okazuje"
+  },
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Ponad 5 tys. litrów wody i autopompa 3300 l/min. Nowa Scania w OSP",
+   "link": "https://strazacki.pl/technika/ponad-5-tys-litrow-wody-i-autopompa-3300-l-min-nowa-scania-trafila-do-osp/",
+   "data": "2026-11-21T09:42+00:00",
+   "opis": "Strażacy zyskali potężny samochód ratowniczo-gaśniczy, a jego możliwości nie ograniczą się do działań ochotniczej jednostki. Nowa Scania w OSP z napędem 4×4 kosztowała niemal 1,6 mln zł, zabiera ponad 5 tys. litrów wody i dysponuje autopompą o wydajności 3300 "
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Surowsze przepisy na przejazdach kolejowych. Przepisy weszły w życie",
+   "link": "https://remiza.pl/surowsze-przepisy-na-przejazdach-kolejowych-przepisy-weszly-w-zycie/",
+   "data": "2026-11-21T09:03+00:00",
+   "opis": "Za cztery wykroczenia na przejazdach kolejowych grozi zatrzymanie prawa jazdy na trzy miesiące. Przepisy weszły w życie w sobotę 21 listopada."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "FIREFIGHTER INJURED IN CHIMNEY COLLAPSE AT FIRE REKINDLE – DEPT SUFFERS A SERIES OF INJURIES – KENTUCKY",
+   "link": "https://www.firefighterclosecalls.com/firefighter-injured-in-chimney-collapse-at-fire-rekindle-dept-suffers-a-series-of-injuries-kentucky/",
+   "data": "2026-11-20T23:22+00:00",
+   "opis": "A Leitchfield fireman was injured when a chimney collapsed on top of him. The incident happened at a reignition of the fire that claimed three homes and several acres of land in the Box Town section of Leitchfield on Wednesday afternoon. The Leitchfield Fire D"
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "THREE FIREFIGHTERS INJURED AT MOBILE HOME FIRE – KENTUCKY",
+   "link": "https://www.firefighterclosecalls.com/three-firefighters-injured-at-mobile-home-fire-kentucky/",
+   "data": "2026-11-20T23:18+00:00",
+   "opis": "BOWLING GREEN, Ky. (WBKO) &#8211; The Bowling Green Fire Department battled an early morning blaze at a mobile home park. It happened around 3:43 a.m. Friday morning when crews with the Bowling Green Fire Department were dispatched to a report of a fire at Hil"
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "SETTLEMENT AGREEMENT REACHED IN GARRETT RAMOS LODD",
+   "link": "https://www.firefighterclosecalls.com/settlement-agreement-reached-in-garrett-ramos-lodd/",
+   "data": "2026-11-20T21:15+00:00",
+   "opis": "The city of Rock Falls and two former fire officials have reached “a settlement in principle that resolves all claims” in their appeal of a $31.5 million verdict won by the widow of a Sterling firefighter who died fighting a Rock Falls house fire, according to"
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Dearborn Heights (MI) Breaks Ground on $10M Fire HQ",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/dearborn-heights-mi-breaks-ground-on-10m-fire-hq/",
+   "data": "2026-11-20T19:54+00:00",
+   "opis": "State and local officials and firefighters held a ceremonial groundbreaking for a new $10 million 17,500-square-foot fire department headquarters, replacing a structurally compromised station that is \"literally sinking.\""
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "St. Joseph (MO) FD Showcases Live-Burn Training Facility at Rosecrans Airport",
+   "link": "https://www.fireapparatusmagazine.com/firefighter-ppe/st-joseph-mo-fd-showcases-live-burn-training-facility-at-rosecrans-airport/",
+   "data": "2026-11-20T19:23+00:00",
+   "opis": "The St. Joseph Fire Department showcased its new live-burn training facility at Rosecrans Memorial Airport, and held a training exercise with a live fire."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Fairmont (WV) Taps Expiring ARPA Funding for New Fire Trucks",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/fairmont-wv-taps-expiring-arpa-funding-for-new-fire-trucks/",
+   "data": "2026-11-20T18:58+00:00",
+   "opis": "The City of Fairmont used the last of its American Rescue Plan Act (ARPA) funds to buy two new Sutphen custom pumpers."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Scania warta ponad dwa miliony złotych dla OSP Bielawa",
+   "link": "https://remiza.pl/scania-warta-ponad-dwa-miliony-zlotych-dla-osp-bielawa/",
+   "data": "2026-11-20T18:52+00:00",
+   "opis": "Ochotnicza Straż Pożarna w Bielawie w województwie mazowieckim wzbogaciła się o fabrycznie nowy ciężki wóz."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Glens Falls Unveils Plans for $27M public safety center at Former Rite Aid",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/glens-falls-unveils-plans-for-27m-public-safety-center-at-former-rite-aid/",
+   "data": "2026-11-20T18:13+00:00",
+   "opis": "The City of Glens Falls (NY) laid out its plans for a new public safety center to house its police and fire departments, costing $27 million completed by fall 2028."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Krakowska straż pożarna zabiega o etaty. Potrzebuje obsady dla nowej strażnicy",
+   "link": "https://remiza.pl/krakowska-straz-pozarna-zabiega-o-ponad-pol-tysiaca-dodatkowych-etatow/",
+   "data": "2026-11-20T16:45+00:00",
+   "opis": "Komenda Miejska Państwowej Straży Pożarnej w Krakowie zabiega o zwiększenie zatrudnienia. Jej komendant st. bryg. Arkadiusz Kielin szacuje, że potrzeba około 580 dodatkowych etatów, i wskazuje na trudności z zapewnieniem obsady planowanej strażnicy na południu"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "TSF-W für Mützingen: Allradantrieb und bis zu 60 cm Wattiefe",
+   "link": "https://www.feuerwehrmagazin.de/ausdenwehren/tsf-w-fuer-muetzingen-allradantrieb-und-bis-zu-60-cm-wattiefe-145991",
+   "data": "2026-11-20T15:53+00:00",
+   "opis": "Mützingen (NI) – Auf einem Fahrgestell Iveco Daily 72C180 4&#215;4 basiert das Tragkraftspritzenfahrzeug mit Wassertank TSF-W der FF Mützingen im Kreis Lüchow-Dannenberg. „Mit dem TSF-W ersetzen wir ein fast 30 Jahre altes Löschgruppenfahrzeug ..."
+  },
+  {
+   "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
+   "kraj": "NL",
+   "typ": "badania",
+   "tytul": "Studenten behalen MCPM-diploma na bijzonder opleidingstraject",
+   "link": "https://nipv.nl/nieuws/studenten-behalen-mcpm-diploma-na-bijzonder-opleidingstraject",
+   "data": "2026-11-20T15:42+00:00",
+   "opis": "Zes studenten hebben vrijdag 20 november hun Master of Crisis and Public Order Management (MCPM)-diploma ontvangen. Daarmee heeft de achtste lichting de masteropleiding MCPM afgerond Het bericht Studenten behalen MCPM-diploma na bijzonder opleidingstraject ver"
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "FoamPro Launches Next Generation 1600 and 2000 Series, Its First All-New Foam Proportioning System in Decades",
+   "link": "https://www.fireapparatusmagazine.com/industry-news/foampro-launches-next-generation-1600-and-2000-series-its-first-all-new-foam-proportioning-system-in-decades/",
+   "data": "2026-11-20T15:06+00:00",
+   "opis": "The FoamPro Next Generation 1600 &#038; 2000 Series offers a simplified, no-manual-priming interface with dedicated controls for foam injection, off-board pickup, on-board tank fill, and flush."
+  },
+  {
+   "zrodlo": "Firefighter Nation",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Mandatory Overtime, Fireground Drones, and the Cost of Poor Planning",
+   "link": "https://www.firefighternation.com/fire-leadership/mandatory-overtime-fireground-drones-and-the-cost-of-poor-planning/",
+   "data": "2026-11-20T15:01+00:00",
+   "opis": "Hosts Chris Scott and Stephanie White discuss whether fire departments should eliminate mandatory overtime. Sponsored by Dreamseat."
+  },
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Scania zastąpiła Scanie – ochotnicy wymienili GCBA",
+   "link": "https://strazacki.pl/technika/scania-zastapila-scanie-wymiana-ciezkich-gasniczych-w-osp/",
+   "data": "2026-11-20T15:00+00:00",
+   "opis": "Ochotnicza Straż Pożarna w Bielawie (woj. mazowieckie) wzbogaciła się o fabrycznie nowy ciężki samochód ratowniczo-gaśniczy. Do podziału bojowego jednostki trafiła trzyosiowa Scania P450 z napędem 6&#215;6 i silnikiem o mocy 450 koni mechanicznych. Samochód wy"
+  },
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Nowe mikrobusy dla PSP. Strażacy szykują pojazdy do ewakuacji i działań kryzysowych",
+   "link": "https://strazacki.pl/wiadomosci/nowe-mikrobusy-dla-psp-strazacy-szykuja-pojazdy-do-ewakuacji-i-dzialan-kryzysowych/",
+   "data": "2026-11-20T14:59+00:00",
+   "opis": "PSP chce wzmocnić flotę pojazdów przeznaczonych do przewozu osób. Nowe mikrobusy dla PSP zamawiają komendy w Obornikach, Chodzieży i Krakowie. Łącznie chodzi o trzy pojazdy, które mają wspierać strażaków podczas ewakuacji ludności oraz reagowania na sytuacje k"
+  },
+  {
+   "zrodlo": "Firefighter Nation",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Crews from Hometown Pulled OH Firefighter from Fire That Claimed His Life, Chief Says",
+   "link": "https://www.firefighternation.com/news/north-royalton-oh-firefighter-from-fire-that-claimed-his-life-chief-says/",
+   "data": "2026-11-20T14:36+00:00",
+   "opis": "North Royalton firefighter Ryan Milligan was removed from the fire that took his life by a crew from Seven Hills, where he had lived since childhood."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Nowa remiza OSP Wschowa. Burmistrz pokazał pierwsze wizualizacje",
+   "link": "https://remiza.pl/nowa-remiza-osp-wschowa-burmistrz-pokazal-pierwsze-wizualizacje/",
+   "data": "2026-11-20T13:57+00:00",
+   "opis": "Burmistrz Wschowy Konrad Antkowiak przedstawił koncepcję nowej remizy dla miejscowej Ochotniczej Straży Pożarnej."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "ONE FIREFIGHTER KILLED AND SEVERAL OTHER FIREFIGHTERS CRITICALLY INJURED IN WALL COLLAPSE DURING FACTORY FIRE – CONESTOGA CORK FACTORY – LANCASTER, PENNSYLVANIA – NOVEMBER 19, 1870",
+   "link": "https://www.firefighterclosecalls.com/one-firefighter-killed-and-several-other-firefighters-critically-injured-in-wall-collapse-during-factory-fire-conestoga-cork-factory-lancaster-pennsylvania-november-19-1870/",
+   "data": "2026-11-20T13:00+00:00",
+   "opis": "One Firefighter Killed and Several Other Firefighters Critically Injured in Wall Collapse During Factory Fire – Conestoga Cork Factory – Lancaster, Pennsylvania – November 19, 1870 Submitted by Rick DeGroot On November 19, 1870, Volunteer Fireman Jeremiah Reit"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Riegelstellung verhindert Übergreifen auf angrenzendes Wohnhaus",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/riegelstellung-verhindert-uebergreifen-auf-angrenzendes-wohnhaus-145983",
+   "data": "2026-11-20T12:43+00:00",
+   "opis": "Köln (NW) – In Köln-Sülz hat die Feuerwehr bei einem Fahrzeugbrand ein Übergreifen der Flammen auf ein direkt angrenzendes Wohnhaus verhindert. Die zuerst eintreffenden Einsatzkräfte bauten dafür eine Riegelstellung auf, am Gebäude wurden keine ..."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Boy, 7, Dies in Detroit House Fire; Family Critically Injured",
+   "link": "https://www.fireengineering.com/firefighting/boy-7-dies-in-detroit-house-fire-family-critically-injured/",
+   "data": "2026-11-20T11:57+00:00",
+   "opis": "A Detroit house fire resulted in the death of a 7-year-old boy and critical injuries to family members. The fire's cause remains under investigation by the Detroit Fire Department."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "ME Lumber Company Faces $54K in Fines Over Deadly Blast",
+   "link": "https://www.fireengineering.com/fire-safety/me-lumber-company-faces-54k-in-fines-over-deadly-blast/",
+   "data": "2026-11-20T11:44+00:00",
+   "opis": "Robbins Lumber faces over $54,000 in fines from OSHA for violations tied to a May explosion and fire that killed three, injured several, and exposed safety lapses at its Maine lumber yard."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "New Chief Named for Cleveland (OH) Division of Fire",
+   "link": "https://www.fireengineering.com/firefighting/fire-leadership/new-chief-named-for-cleveland-oh-division-of-fire/",
+   "data": "2026-11-20T11:05+00:00",
+   "opis": "Cleveland appointed Brendan McNamara, a 30-year veteran, as fire chief. He has led emergency operations, prioritized firefighter wellness, and fostered community partnerships."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Officers Enter Smoke-Filled MI Home, Rescue Six from Fire",
+   "link": "https://www.fireengineering.com/firefighting/officers-enter-smoke-filled-mi-home-rescue-six-from-fire/",
+   "data": "2026-11-20T10:50+00:00",
+   "opis": "Six people and three pets were rescued from a Shelby Township house fire."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Check Your Equipment Daily",
+   "link": "https://www.fireengineering.com/firefighting/check-your-equipment-daily/",
+   "data": "2026-11-20T10:31+00:00",
+   "opis": "Check your equipment, and check it thoroughly. Frank Viscuso on the importance of checking equipment in this excerpt from 35 Things Every Firefighter Must Know and Do."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "NY Firefighters Faced ‘Significant Challenges’ During Fire That Also Involved Hundred of Tires",
+   "link": "https://www.fireengineering.com/firefighting/ny-firefighters-faced-significant-challenges-during-fire-that-also-involved-hundred-of-tires/",
+   "data": "2026-11-20T10:04+00:00",
+   "opis": "A fire at Pantano’s Wine supply store in New Paltz displaced 11 residents and challenged firefighters due to downed power lines, lack of hydrants, and stored tires. The cause remains under investigation."
+  },
   {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
@@ -38,31 +290,13 @@
    "opis": "Niezidentyfikowany obiekt latający spadł w piątek rano na pole przy lesie w Nowym Lipowcu w powiecie biłgorajskim na Lubelszczyźnie."
   },
   {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "1713 syren alarmowych, tylko 674 dostępne przez całą dobę. Czy modernizacja będzie skuteczna?",
-   "link": "https://strazacki.pl/artykuly/1713-syren-alarmowych-tylko-674-dostepne-przez-cala-dobe-czy-modernizacja-bedzie-skuteczna/",
-   "data": "2026-11-20T08:17+00:00",
-   "opis": "Artykuł 1713 syren alarmowych, tylko 674 dostępne przez całą dobę. Czy modernizacja będzie skuteczna? pochodzi z serwisu Strazacki.pl portal o straży pożarnej ."
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowe mikrobusy dla PSP. Strażacy szykują pojazdy do ewakuacji i działań kryzysowych",
-   "link": "https://strazacki.pl/wiadomosci/nowe-mikrobusy-dla-psp-strazacy-szykuja-pojazdy-do-ewakuacji-i-dzialan-kryzysowych/",
-   "data": "2026-11-20T06:46+00:00",
-   "opis": "PSP chce wzmocnić flotę pojazdów przeznaczonych do przewozu osób. Nowe mikrobusy dla PSP zamawiają komendy w Obornikach, Chodzieży i Krakowie. Łącznie chodzi o trzy pojazdy, które mają wspierać strażaków podczas ewakuacji ludności oraz reagowania na sytuacje k"
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Ponad 5 tys. litrów wody i autopompa 3300 l/min. Nowa Scania w OSP",
-   "link": "https://strazacki.pl/technika/ponad-5-tys-litrow-wody-i-autopompa-3300-l-min-nowa-scania-trafila-do-osp/",
-   "data": "2026-11-20T06:34+00:00",
-   "opis": "Strażacy zyskali potężny samochód ratowniczo-gaśniczy, a jego możliwości nie ograniczą się do działań ochotniczej jednostki. Nowa Scania w OSP z napędem 4×4 kosztowała niemal 1,6 mln zł, zabiera ponad 5 tys. litrów wody i dysponuje autopompą o wydajności 3300 "
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Explosions Hampered Firefighters at Fatal MI Barn Fire",
+   "link": "https://www.fireengineering.com/firefighting/explosions-hampered-firefighters-at-fatal-mi-barn-fire/",
+   "data": "2026-11-20T08:14+00:00",
+   "opis": "A 68-year-old man died in a Rose Township pole barn fire with explosions due to stored ammunition. The cause is under investigation. Firefighters worked to extinguish the fire and protect nearby structures."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -74,13 +308,40 @@
    "opis": "Ulm (BW) – Die meisten Einsätze folgen bekannten Mustern. Heikel sind oft jene, die wir nur selten erleben. Für sie gibt es keine Routine, nur Vorbereitung. Wer weiß, was ihn erwarten kann, bleibt auch dann handlungsfähig, wenn die Lage ..."
   },
   {
+   "zrodlo": "Firefighter Nation",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "PA Bomb Squad Responds After Man Finds ‘Missile-Type’ Device",
+   "link": "https://www.firefighternation.com/firefighting/pa-bomb-squad-responds-after-man-finds-missile-type-device/",
+   "data": "2026-11-20T05:47+00:00",
+   "opis": "A man found a missile-type device in Bath, drove it to Lehigh Township, and police called the bomb squad. Officials said it was 1930s military ordnance and safe to remove."
+  },
+  {
+   "zrodlo": "Firefighter Nation",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "FoamPro Launches Next Generation 1600 and 2000 Series, Its First All-New Foam Proportioning System in Decades",
+   "link": "https://www.firefighternation.com/industry-news/foampro-launches-next-generation-1600-and-2000-series-its-first-all-new-foam-proportioning-system-in-decades/",
+   "data": "2026-11-20T05:44+00:00",
+   "opis": "The FoamPro Next Generation 1600 &#038; 2000 Series offers a simplified, no-manual-priming interface with dedicated controls for foam injection, off-board pickup, on-board tank fill, and flush."
+  },
+  {
    "zrodlo": "Fire Engineering",
    "kraj": "USA",
    "typ": "taktyka",
-   "tytul": "Fire Kills Nearly All Animals at CA Hospital Building",
-   "link": "https://www.fireengineering.com/firefighting/fire-kills-nearly-all-animals-at-ca-hospital-building/",
-   "data": "2026-11-20T04:52+00:00",
-   "opis": "A fire destroyed the Stanislaus Wildlife Care Center hospital in Hughson, killing most animals inside."
+   "tytul": "New Lexington (KY) Fire Chief Named",
+   "link": "https://www.fireengineering.com/firefighting/fire-leadership/new-lexington-ky-fire-chief-named/",
+   "data": "2026-11-20T05:21+00:00",
+   "opis": "Joey Harris, a Lexington native with 25 years in the fire department and broad leadership experience, will become the fire chief of Lexington in January."
+  },
+  {
+   "zrodlo": "Firefighter Nation",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Ex-Fire Chief Pleads No Contest in CA Felony Embezzlement Case",
+   "link": "https://www.firefighternation.com/fire-leadership/ex-fire-chief-pleads-no-contest-in-ca-felony-embezzlement-case/",
+   "data": "2026-11-20T05:06+00:00",
+   "opis": "Former UC Davis fire chief Nathan Trauernicht pleaded no contest to misappropriating public funds and grand theft. His conviction was suspended under a deferred judgment."
   },
   {
    "zrodlo": "Fire Law Blog",
@@ -122,19 +383,10 @@
    "zrodlo": "Fire Apparatus Magazine",
    "kraj": "USA",
    "typ": "sprzet",
-   "tytul": "Dekalb County (GA) rig involved in fatal crash",
+   "tytul": "Dekalb County (GA) Rig Involved in Fatal Crash",
    "link": "https://www.fireapparatusmagazine.com/fire-apparatus/dekalb-county-ga-rig-involved-in-fatal-crash/",
    "data": "2026-11-19T21:55+00:00",
    "opis": "A Dekalb County fire truck conducting blocking operations was involved in a deadly crash early on November 18 on a highway east of Atlanta."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "The Emergency Response Guidebook, Part 3",
-   "link": "https://www.fireengineering.com/technical-rescue/firefighter-hazmat/the-emergency-response-guidebook-part-3/",
-   "data": "2026-11-19T19:46+00:00",
-   "opis": "Just like any other tool, the Emergency Response Guidebook (ERG) is only useful insofar as firefighters have trained on it. Dave Donohue on what firefighters should be familiar with."
   },
   {
    "zrodlo": "Firefighter Nation",
@@ -155,15 +407,6 @@
    "opis": "Fiaskiem zakończyły się plany likwidacji Wojskowej Straży Pożarnej funkcjonującej w 8 Batalionie Saperów w Dziwnowie."
   },
   {
-   "zrodlo": "Akademia Pożarnicza",
-   "kraj": "PL",
-   "typ": "badania",
-   "tytul": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r.",
-   "link": "https://apoz.edu.pl/dzisiaj-mialy-miejsce-uroczystosci-pogrzebowe-bryg-w-st-spocz-dr-hab-janusza-rybinskiego-wybitnego-naukowca-wieloletniego-dziekana-wydzialu-inzynierii-bezpieczenstwa-pozarowego-i-professora-eme/",
-   "data": "2026-11-19T16:46+00:00",
-   "opis": "Dzisiaj miały miejsce uroczystości pogrzebowe bryg. w st. spocz. dr. hab. Janusza Rybińskiego, wybitnego naukowca, wieloletniego Dziekana Wydziału Inżynierii Bezpieczeństwa Pożarowego i Professora Emeritus Akademii Pożarniczej. Zmarł 6 listopada 2026 r. Z wars"
-  },
-  {
    "zrodlo": "Remiza.pl",
    "kraj": "PL",
    "typ": "akcje",
@@ -180,15 +423,6 @@
    "link": "https://www.feuerwehrmagazin.de/nachrichten/rheinland-pfalz-plant-dankespraemie-fuer-feuerwehrleute-145970",
    "data": "2026-11-19T15:34+00:00",
    "opis": "Mainz (RP) – Rheinland-Pfalz will langjähriges Engagement von Feuerwehrleuten künftig mit einer Dankesprämie würdigen. Dafür sieht der Entwurf des Doppelhaushalts 2027/2028, den das Kabinett am Dienstag beschlossen hat, jährlich 1,3 Millionen ..."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "OSP w budżecie Podlaskiego. Kwota bez zmian",
-   "link": "https://remiza.pl/osp-w-budzecie-podlaskiego-kwota-bez-zmian/",
-   "data": "2026-11-19T14:35+00:00",
-   "opis": "Kolejny rok z rzędu samorząd województwa podlaskiego przeznaczy mniej pieniędzy dla ochotniczych straży pożarnych."
   },
   {
    "zrodlo": "Strazacki.pl",
@@ -218,33 +452,6 @@
    "opis": "On this episode of Igniting the Shift Within, Dr. Brooke Bartlett discusses moral injury in first responders and how it differs from PTSD and burnout. Sponsored by Dreamseat."
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Tactical Decision Game: Attached Garage Fire",
-   "link": "https://www.fireengineering.com/firefighter-training/tdg-14-attached-garage-fire-a/",
-   "data": "2026-11-19T13:53+00:00",
-   "opis": "Check out a tactical decision game from Ted Nee and Phil Jose that challenges your decision making and size-up on an attached garage fire."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Settlement Offer Over SC Firefighter’s Death Comes With Demand for Firings, Public Apologies",
-   "link": "https://www.fireengineering.com/firefighting/settlement-offer-over-sc-firefighters-death-comes-with-demand-for-firings-public-apologies/",
-   "data": "2026-11-19T13:42+00:00",
-   "opis": "The Irmo Fire District offered to settle a lawsuit over firefighter James Muller’s 2023 death."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Podkarpackie samorządy zrobiły zrzutkę dla Państwowej Straży Pożarnej",
-   "link": "https://remiza.pl/podkarpackie-samorzady-zrobily-zrzutke-dla-panstwowej-strazy-pozarnej/",
-   "data": "2026-11-19T13:17+00:00",
-   "opis": "Samorządy z województwa podkarpackiego przekazały środki z ochrony ludności i obrony cywilnej na wsparcie komend Państwowej Straży Pożarnej."
-  },
-  {
    "zrodlo": "Firefighter Close Calls",
    "kraj": "USA",
    "typ": "akcje",
@@ -261,33 +468,6 @@
    "link": "https://www.firefighterclosecalls.com/two-firefighters-fatally-injured-by-toxic-fumes-during-two-alarm-arson-fire-in-discount-store-jamaica-queens-new-york-november-191975/",
    "data": "2026-11-19T13:00+00:00",
    "opis": "Two Firefighters Fatally Injured By Toxic Fumes During Two-Alarm Arson Fire in a Discount Store – Jamaica, Queens, New York – November 19, 1975 Submitted by Rick DeGroot On November 19, 1975, FDNY Captain Raymond Koehler of Engine 286 and Fireman John Flanagan"
-  },
-  {
-   "zrodlo": "Firefighter Nation",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "IL Fire Protection District Moves to Fire Lieutenant for Investigation Harassment and Retaliation",
-   "link": "https://www.firefighternation.com/fire-leadership/management/il-fire-protection-district-moves-to-fire-lieutenant-for-investigation-harassment-and-retaliation/",
-   "data": "2026-11-19T12:26+00:00",
-   "opis": "Orland Fire Protection District officials are beginning termination proceedings for a fire lieutenant accused of harassment and retaliation."
-  },
-  {
-   "zrodlo": "Firefighter Nation",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Settlement Offer in SC Firefighter Death Lawsuit Includes Fire Chief Termination, Public Apologies",
-   "link": "https://www.firefighternation.com/news/settlement-offer-over-sc-firefighters-death-comes-with-demand-for-firings-public-apologies/",
-   "data": "2026-11-19T12:22+00:00",
-   "opis": "The Irmo Fire District offered to settle a lawsuit over firefighter James Muller’s 2023 death."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Boat Engulfed in Flames at MD Marina, One Person Injured",
-   "link": "https://www.fireengineering.com/firefighting/boat-engulfed-in-flames-at-md-marina-one-person-injured/",
-   "data": "2026-11-19T12:13+00:00",
-   "opis": "A boat fire in Dundalk spread to a pier and fuel pumps at Anchor Bay East Marina."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -308,33 +488,6 @@
    "opis": "Hundreds of dormant New Mexico infrastructure projects could forfeit more than $98 million under a new use-it-or-lose-it law."
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "CT Street Sweeper Bursts into Flame",
-   "link": "https://www.fireengineering.com/firefighting/ct-street-sweeper-bursts-into-flame/",
-   "data": "2026-11-19T11:48+00:00",
-   "opis": "A street sweeper caught fire in Trumbull Wednesday morning."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "NY Firefighters Battle Fires in Mixed-Use Building",
-   "link": "https://www.fireengineering.com/firefighting/ny-firefighters-battle-fires-in-mixed-use-building/",
-   "data": "2026-11-19T11:45+00:00",
-   "opis": "North Tonawanda firefighters responded to a commercial building fire at 314 Oliver St. on Tuesday night; the same building had a fire the previous day."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Army Plans to Detonate Five Tons of Bomb-Making Chemicals in IA",
-   "link": "https://www.fireengineering.com/technical-rescue/firefighter-hazmat/army-plans-to-detonate-five-tons-of-bomb-making-chemicals-in-ia/",
-   "data": "2026-11-19T11:32+00:00",
-   "opis": "The U.S. Army plans to detonate five tons of unstable bomb-making chemicals at the Iowa Army Ammunition Plant, prompting evacuations and environmental concerns over lead dust exposure."
-  },
-  {
    "zrodlo": "Fire Apparatus Magazine",
    "kraj": "USA",
    "typ": "sprzet",
@@ -342,15 +495,6 @@
    "link": "https://www.fireapparatusmagazine.com/fire-apparatus/new-heavy-rescue-ambulance-included-in-hudson-oh-spending-priorities/",
    "data": "2026-11-19T11:09+00:00",
    "opis": "Hudson approved a five-year capital plan with $201.8 million in projects."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Mesa (AZ) Voters OK Public Safety Borrowing; Land for New Stations, Radio Upgrades Included",
-   "link": "https://www.fireapparatusmagazine.com/news/mesa-az-voters-ok-public-safety-borrowing-land-for-new-stations-radio-upgrades-included/",
-   "data": "2026-11-19T11:05+00:00",
-   "opis": "Mesa voters approved two bond measures for public safety and transportation."
   },
   {
    "zrodlo": "Fire & Safety Journal Americas",
@@ -407,15 +551,6 @@
    "opis": "SafeEVAC, a safety technology company that helps facilities coordinate emergency response as conditions change, today announced that it is now Lumexus. &#8220;The new name reflects how our platform has grown beyond evacuation into a connected system that links"
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Pożar kontenera z akumulatorami na DK11 w Chludowie",
-   "link": "https://remiza.pl/pozar-kontenera-z-akumulatorami-na-dk11-w-chludowie/",
-   "data": "2026-11-19T09:24+00:00",
-   "opis": "Na drodze krajowej nr 11 w Chludowie pod Poznaniem doszło do pożaru kontenera z akumulatorami. Do akcji skierowano cztery zastępy straży pożarnej oraz policję."
-  },
-  {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
    "typ": "technologie",
@@ -443,24 +578,6 @@
    "opis": "Jeden źle zaparkowany samochód może kosztować kogoś życie. Strażacy nie mogą czekać, aż kierowca wróci po swoje auto i odblokuje wyjazd z garażu. Gmina Sękowa ostrzega mieszkańców i zapowiada zdecydowane działania wobec osób, które zastawiają drogę pojazdom ra"
   },
   {
-   "zrodlo": "Firefighter Nation",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Crestline Ambulances Unveils Updated CCL 150 Type III & Type I",
-   "link": "https://www.firefighternation.com/industry-news/crestline-ambulances-unveils-updated-ccl-150-type-iii-type-i/",
-   "data": "2026-11-19T06:25+00:00",
-   "opis": "Crestline Ambulances updated its CCL 150 Type III and Type I ambulances with comfort, storage, climate control, and patient-care improvements."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Crestline Ambulances Unveils Updated CCL 150 Type III & Type I",
-   "link": "https://www.fireapparatusmagazine.com/industry-news/crestline-ambulances-unveils-updated-ccl-150-type-iii-type-i/",
-   "data": "2026-11-19T06:04+00:00",
-   "opis": "Crestline Ambulances updated its CCL 150 Type III and Type I ambulances with comfort, storage, climate control, and patient-care improvements."
-  },
-  {
    "zrodlo": "Fire Law Blog",
    "kraj": "USA",
    "typ": "prawo",
@@ -470,33 +587,6 @@
    "opis": "A former Baltimore City Fire Department paramedic has filed suit against the city claiming he was terminated for refusing to shave his beard in violation of his Muslim religious beliefs. The suit alleges the department repeatedly denied his requests for a reli"
   },
   {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "SIX BUFFALO FIREFIGHTERS INJURED IN MAYDAY AT FIRE WITH RESCUE OF CHILD – NEW YORK",
-   "link": "https://www.firefighterclosecalls.com/six-buffalo-firefighters-injured-in-mayday-at-fire-with-rescue-of-child-new-york/",
-   "data": "2026-11-19T00:42+00:00",
-   "opis": "Six Buffalo firefighters were injured and an 11-year-old girl was rescued from the second floor of a burning home after a Mayday was called during a fierce fire on Scoville Avenue Monday afternoon. The fire broke out at 138 Scoville Ave. at about 3:30 p.m., wh"
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "FIREFIGHTER SUFFERS BURNS AT DUPLEX FIRE – OHIO",
-   "link": "https://www.firefighterclosecalls.com/firefighter-suffers-burns-at-duplex-fire-ohio/",
-   "data": "2026-11-19T00:30+00:00",
-   "opis": "CANTON, Ohio (WOIO) &#8211; A Canton firefighter was injured Tuesday night while battling flames at a duplex, according to the Canton Fire Department. Around 10:30 p.m., crews responded to a two-story, side-by-side duplex in the 800 block of 9th Street NW and "
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "FIREFIGHTER INJURED AT FATAL FIRE – NEW YORK",
-   "link": "https://www.firefighterclosecalls.com/firefighter-injured-at-fatal-fire-new-york/",
-   "data": "2026-11-19T00:26+00:00",
-   "opis": "Federal investigators are now leading the investigation into a Schenectady house fire that claimed the life of a 4-year-old girl, as city officials revealed new details Wednesday about the challenging rescue effort complicated by conflicting reports, extreme h"
-  },
-  {
    "zrodlo": "Wildfire Today",
    "kraj": "Świat",
    "typ": "akcje",
@@ -504,42 +594,6 @@
    "link": "https://wildfiretoday.com/devastating-grand-canyon-wildfire-worsened-by-leadership-issues-new-report-finds/",
    "data": "2026-11-19T00:18+00:00",
    "opis": "A review of the 2025 Dragon Bravo Fire that destroyed dozens of historic structures in the Grand Canyon National Park&#8217;s North Rim was released on Tuesday, and Department of Interior appointed reviewers didn&#8217;t hold back on leadership&#8217;s numerou"
-  },
-  {
-   "zrodlo": "Firefighter Nation",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Eldridge (IA) to Ask State Auditor for Investigation Into Eldridge Volunteer Fire Company",
-   "link": "https://www.firefighternation.com/fire-leadership/management/eldridge-ia-to-ask-state-auditor-for-investigation-into-eldridge-volunteer-fire-company/",
-   "data": "2026-11-18T19:47+00:00",
-   "opis": "Eldridge City Council voted 4-1 to ask the state auditor to investigate the Eldridge Volunteer Fire Company after it refused to provide 2025 and 2026 financial records."
-  },
-  {
-   "zrodlo": "Firefighter Nation",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Firefighters, Community Members Work Together to Rescue Disabled PA Woman and Her Dog",
-   "link": "https://www.firefighternation.com/firefighting/firefighters-community-members-work-together-to-rescue-disabled-pa-woman-and-her-dog/",
-   "data": "2026-11-18T19:44+00:00",
-   "opis": "A propane leak caused a fire in Gresham, and York County responders and neighbors rescued a wheelchair-bound woman and her dog from the burning home."
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Martwa kobieta w łazience – strażacy apelują",
-   "link": "https://strazacki.pl/akcje/martwa-kobieta-w-lazience-strazacy-apeluja/",
-   "data": "2026-11-18T18:44+00:00",
-   "opis": "25-letnia kobieta to ofiara śmiertelna zatrucia tlenkiem węgla w Bielsku-Białej. Do tragedii doszło dziś, 18 listopada br., około czwartej rano. Służby ratownicze otrzymały zgłoszenie o nieprzytomnej kobiecie znalezionej w łazience. Zespół Ratownictwa Medyczne"
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowa remiza OSP Łąg. Uzgodniono koncepcję budynku",
-   "link": "https://remiza.pl/nowa-remiza-osp-lag-uzgodniono-koncepcje-budynku/",
-   "data": "2026-11-18T18:27+00:00",
-   "opis": "Przygotowania do budowy nowej remizy OSP Łąg w gminie Czersk przeszły kolejny etap. Po rozmowach ze strażakami i mieszkańcami wypracowano ostateczny wariant koncepcji budynku."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -558,15 +612,6 @@
    "link": "https://nipv.nl/nieuws/uhd-blussysteem-geeft-brandweer-aanvullend-handelingsperspectief-bij-branden-met-elektrische-trucks",
    "data": "2026-11-18T14:11+00:00",
    "opis": "Met een ultra hogedruk (UHD) snij- en blussysteem kan de brandweer een thermal runaway in het batterijpakket van een elektrische vrachtwagen onder controle brengen. Dat blijkt uit twee praktijkexperimenten van het BITET-consortium. De resultaten bieden de bran"
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "THREE FIREFIGHTERS KILLED IN FLASHOVER DURING NINE-ALARM CELLAR FIRE IN FIVE-STORY LOFT BUILDING – 463 BROADWAY, MANHATTAN, NEW YORK – NOVEMBER 18, 1960 – FDNY DIVISION 7 NEWSLETTER MARCH 2016",
-   "link": "https://www.firefighterclosecalls.com/three-firefighters-killed-in-flashover-during-nine-alarm-cellar-fire-in-five-story-loft-building-463-broadway-manhattan-new-york-november-18-1960-fdny-division-7-newsletter-march-2016/",
-   "data": "2026-11-18T13:15+00:00",
-   "opis": "Three Firefighters Killed in Flashover During Nine-Alarm Cellar Fire in Five-Story Loft Building – 463 Broadway, Manhattan, New York – November 18, 1960 – FDNY Division 7 Newsletter March 2016 Submitted by Rick DeGroot On November 18, 1960, FDNY Lieutenant Joh"
   },
   {
    "zrodlo": "International Fire & Safety Journal",
@@ -596,15 +641,6 @@
    "opis": "Pierce Manufacturing’s Industrial Park Plant in Wisconsin has received OSHA’s highest workplace safety recognition, becoming the 11th Oshkosh Corporation facility to achieve VPP Star status Pierce Manufacturing has announced that its Industrial Park Plant (IPP"
   },
   {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Colorado Springs (CO) Fire Department Adds Three New Apparatus",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/colorado-springs-co-fire-department-adds-three-new-apparatus/",
-   "data": "2026-11-18T12:02+00:00",
-   "opis": "Colorado Springs Fire Department added two engines and a ladder truck while leaders said aging equipment, rising costs, and long wait times are straining the fleet and budget."
-  },
-  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -623,87 +659,6 @@
    "opis": ""
   },
   {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "WATCH VIDEO | Shanksville (PA) Puts New Engine in Service, Retires 9/11 Rig",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/watch-video-shanksville-pa-puts-new-engine-in-service-retires-9-11-rig/",
-   "data": "2026-11-18T11:18+00:00",
-   "opis": "Shanksville Volunteer Fire Department put its new Spartan engine into service Sunday, replacing a 1993 unit with 9/11 history."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "FL Governments Brace for Looming Property Tax Cut",
-   "link": "https://www.fireapparatusmagazine.com/news/fl-governments-brace-for-looming-property-tax-cut/",
-   "data": "2026-11-18T11:11+00:00",
-   "opis": "Florida local governments are bracing for revenue losses after voters approved a permanent homeowner property tax cuts."
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Löschfahrzeug kollidiert mit Pkw – Frau schwer verletzt",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/loeschfahrzeug-kollidiert-mit-pkw-frau-schwer-verletzt-145940",
-   "data": "2026-11-18T05:42+00:00",
-   "opis": "Essen (NW) – Bei einem Verkehrsunfall im Essener Westviertel ist am Montag eine Frau schwer verletzt worden. Ein Löschfahrzeug LF der Berufsfeuerwehr Essen kollidierte während einer Einsatzfahrt mit einem Pkw. Die fünf Feuerwehrangehörigen in ..."
-  },
-  {
-   "zrodlo": "Fire Law Blog",
-   "kraj": "USA",
-   "typ": "prawo",
-   "tytul": "Maryland Appeals Court Reinstates Lawsuit Challenging Firefighter Staffing Cuts",
-   "link": "https://firelawblog.com/2026/11/17/maryland-appeals-court-reinstates-lawsuit-challenging-firefighter-staffing-cuts/",
-   "data": "2026-11-17T22:37+00:00",
-   "opis": "A Maryland appeals court has reinstated a lawsuit filed by three municipalities, a volunteer fire company, and a resident challenging Prince George’s County Fire Chief Tiffany Green’s decision to remove career firefighters from several volunteer fire stations."
-  },
-  {
-   "zrodlo": "Akademia Pożarnicza",
-   "kraj": "PL",
-   "typ": "badania",
-   "tytul": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”",
-   "link": "https://apoz.edu.pl/w-akademii-pozarniczej-odbyla-sie-konferencja-naukowa-odpornosc-spoleczna-w-ochronie-ludnosci-i-obronie-cywilnej/",
-   "data": "2026-11-17T18:39+00:00",
-   "opis": "W Akademii Pożarniczej odbyła się konferencja naukowa „Odporność społeczna w ochronie ludności i obronie cywilnej”. Konferencję otworzył Rektor-Komendant Akademii Pożarniczej nadbryg. dr hab. inż. Tomasz Klimczak, prof. uczelni. Przedstawiciele nauki, administ"
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Warum Feuerwehren für die Bundeswehr wichtig sind",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/warum-feuerwehren-fuer-die-bundeswehr-wichtig-sind-145934",
-   "data": "2026-11-17T16:09+00:00",
-   "opis": "Rastatt (BW) – Sabotage an Versorgungsleitungen, Drohnen über sensiblen Anlagen, Cyberangriffe: Welche Rolle spielen Feuerwehren beim Schutz kritischer Infrastruktur, und wie müssen sie mit der Bundeswehr zusammenarbeiten? Darüber spricht ..."
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Metallbrand: Brandbekämpfung mit Wasser nicht möglich",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/metallbrand-brandbekaempfung-mit-wasser-nicht-moeglich-145929",
-   "data": "2026-11-17T13:12+00:00",
-   "opis": "Altena (NW) – In einem metallverarbeitenden Betrieb im Märkischen Kreis sind am Samstag zwei von vier Elementen einer Filteranlage in Brand geraten. Weil Metallspäne brannten, konnte die Feuerwehr kein Wasser zum Löschen einsetzen. Stattdessen ..."
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Global fire safety equipment market forecast to reach $86.24bn by 2034",
-   "link": "https://internationalfireandsafetyjournal.com/fire-safety-equipment-market/",
-   "data": "2026-11-17T12:17+00:00",
-   "opis": "The global fire safety equipment market is projected to grow from $45.75bn in 2025 to $86.24bn by 2034, driven by infrastructure investment, stricter safety regulations and demand for connected protection systems. According to Polaris Market Research, the glob"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Open state fireblock installation: Why fixings matter",
-   "link": "https://internationalfireandsafetyjournal.com/open-state-fireblock-install/",
-   "data": "2026-11-17T12:04+00:00",
-   "opis": "Siderise examines how the correct mechanical fixing of open state fireblocks helps maintain fire compartmentation, ventilation and drainage performance in rainscreen facades Horizontal open state mineral fibre fireblocks incorporating an intumescent strip are "
-  },
-  {
    "zrodlo": "Edufire",
    "kraj": "PL",
    "typ": "szkolenia",
@@ -720,7 +675,45 @@
    "link": "https://www.ppoz.pl/aktualne-wydanie/index/Termowizja-w-PSP/idn:3484",
    "data": "2026-11-02T12:44+00:00",
    "opis": "Kamery termowizyjne stały się powszechne w pożarnictwie już kilkanaście lat temu. Dzisiaj stanowią podstawowe wyposażenie wszystkich JRG w Polsce i wielu jednostek OSP. Jaka była historia termowizji?9 lutego 2026 r. komendant główny PSP"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Raj w ogniu albo piekło w raju",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Raj-w-ogniu-albo-pieklo-w-raju/idn:3483",
+   "data": "2026-11-02T12:35+00:00",
+   "opis": "Republika Dominikańska, zajmująca około dwóch trzecich wyspy Haiti, od lat pozostaje jednym z najważniejszych kierunków turystycznych Karaibów. W 2025 r. kraj odwiedziło rekordowe 11,7 mln osób, w tym ponad 8,8 mln turystów, którzy"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Strażacka misja na piechotę",
+   "link": "https://www.ppoz.pl/czytelnia/w-ogniu-pytan/Strazacka-misja-na-piechote/idn:3482",
+   "data": "2026-11-02T12:23+00:00",
+   "opis": "Rozmowa z kpt. Przemysławem Rogalewiczem – dowódcą operacyjnym modułu GFFF Wrocław, kierownikiem Sekcji Odwodów Operacyjnych i Ćwiczeń w KW PSP we Wrocławiu, nieetatowym dowódcą GFFF Wrocław oraz zastępcą dowódcy GFFF-V Wrocław,"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Słowo wstępne 10/2026",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Slowo-wstepne-102026/idn:3481",
+   "data": "2026-11-02T12:20+00:00",
+   "opis": "W październikowym numerze zapraszamy do lektury wywiadu z kpt. Przemysławem Rogalewiczem, dowódcą operacyjnym modułu GFFF Wrocław, czterokrotnym uczestnikiem działań modułów Państwowej Straży Pożarnej poza granicami kraju. Nasz"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Efekt czujki w operacyjnym zwierciadle",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Efekt-czujki-w-operacyjnym-zwierciadle/idn:3485",
+   "data": "2026-11-02T08:02+00:00",
+   "opis": "Obowiązujące przepisy ochrony przeciwpożarowej mają za zadanie minimalizować ryzyko powstania i/lub rozprzestrzenienia się zagrożenia. Są one regularnie aktualizowane na podstawie doświadczeń z tragicznych zdarzeń, wyników czynności"
   }
  ],
- "bledy": []
+ "bledy": [
+  "Akademia Pożarnicza: URLError"
+ ]
 }
