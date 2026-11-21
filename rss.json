@@ -1,13 +1,40 @@
 {
- "aktualizacja": "2026-11-21T10:03+00:00",
+ "aktualizacja": "2026-11-21T12:55+00:00",
  "wpisy": [
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Strażacy z OSP Gniechowice już w nowej remizie",
+   "link": "https://remiza.pl/strazacy-z-osp-gniechowice-juz-w-nowej-remizie/",
+   "data": "2026-11-21T12:40+00:00",
+   "opis": "Strażacy - ochotnicy z jednostki OSP Gniechowice na początku listopada przeprowadzili się do nowej remizy."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Firefighter Mentorship: Asking Why, Learning from LODD Reports, and Sharing Experience",
+   "link": "https://www.fireengineering.com/firefighting/fire-leadership/firefighter-mentorship-asking-why-learning-from-lodd-reports-and-sharing-experience/",
+   "data": "2026-11-21T12:12+00:00",
+   "opis": "What makes a good mentor in the fire service? Hosts Jerry Knapp and Tim Pillsworth talk with James “Ski” Smielewski about his experience across volunteer, military, and career firefighting. Sponsored by The Fire Store."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Elevated Impalement Rescue: Tech Rescue Solutions for Engine Companies",
+   "link": "https://www.fireengineering.com/firefighter-training/training-minutes/elevated-impalement-rescue-tech-rescue-solutions-for-engine-companies/",
+   "data": "2026-11-21T12:04+00:00",
+   "opis": "How can an engine company manage an elevated impalement rescue when truck or rescue company resources are delayed or unavailable?"
+  },
   {
    "zrodlo": "Strazacki.pl",
    "kraj": "PL",
    "typ": "akcje",
    "tytul": "PSP potrzebuje setek nowych etatów. Komendant ujawnił skalę problemu",
    "link": "https://strazacki.pl/wiadomosci/psp-potrzebuje-setek-nowych-etatow-komendant-ujawnil-skale-problemu/",
-   "data": "2026-11-21T10:01+00:00",
+   "data": "2026-11-21T11:32+00:00",
    "opis": "Ponad pół tysiąca dodatkowych etatów – takiego wzmocnienia PSP potrzebuje już dziś! Kadrowego wzmocnienia wymaga m. in. krakowska Państwowa Straż Pożarna. Komendant miejski PSP przedstawił zaskakujące wyliczenia podczas posiedzenia komisji Rady Miasta. Okazuje"
   },
   {
@@ -16,8 +43,17 @@
    "typ": "akcje",
    "tytul": "Ponad 5 tys. litrów wody i autopompa 3300 l/min. Nowa Scania w OSP",
    "link": "https://strazacki.pl/technika/ponad-5-tys-litrow-wody-i-autopompa-3300-l-min-nowa-scania-trafila-do-osp/",
-   "data": "2026-11-21T09:42+00:00",
+   "data": "2026-11-21T11:30+00:00",
    "opis": "Strażacy zyskali potężny samochód ratowniczo-gaśniczy, a jego możliwości nie ograniczą się do działań ochotniczej jednostki. Nowa Scania w OSP z napędem 4×4 kosztowała niemal 1,6 mln zł, zabiera ponad 5 tys. litrów wody i dysponuje autopompą o wydajności 3300 "
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Volvo z OSP Komprachcice nie przeszło badania. Wraca Star 244",
+   "link": "https://remiza.pl/volvo-z-osp-komprachcice-nie-przeszlo-badania-wraca-star-244/",
+   "data": "2026-11-21T11:02+00:00",
+   "opis": "Samochód ratowniczo-gaśniczy Ochotniczej Straży Pożarnej w Komprachcicach pod Opolem nie przeszedł badania technicznego."
   },
   {
    "zrodlo": "Remiza.pl",
@@ -27,6 +63,24 @@
    "link": "https://remiza.pl/surowsze-przepisy-na-przejazdach-kolejowych-przepisy-weszly-w-zycie/",
    "data": "2026-11-21T09:03+00:00",
    "opis": "Za cztery wykroczenia na przejazdach kolejowych grozi zatrzymanie prawa jazdy na trzy miesiące. Przepisy weszły w życie w sobotę 21 listopada."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Crews from Hometown Pulled OH Firefighter from Fire That Claimed His Life, Chief Says",
+   "link": "https://www.fireengineering.com/firefighting/north-royalton-oh-firefighter-from-fire-that-claimed-his-life-chief-says/",
+   "data": "2026-11-21T03:07+00:00",
+   "opis": "North Royalton firefighter Ryan Milligan was removed from the fire that took his life by a crew from Seven Hills, where he had lived since childhood."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "NY Firefighters Faced ‘Significant Challenges’ During Fire That Also Involved Hundred of Tires",
+   "link": "https://www.fireengineering.com/firefighting/ny-firefighters-faced-significant-challenges-during-fire-that-also-involved-hundred-of-tires/",
+   "data": "2026-11-21T02:04+00:00",
+   "opis": "A fire at Pantano’s Wine supply store in New Paltz displaced 11 residents and challenged firefighters due to downed power lines, lack of hydrants, and stored tires. The cause remains under investigation."
   },
   {
    "zrodlo": "Firefighter Close Calls",
@@ -236,24 +290,6 @@
    "opis": "Six people and three pets were rescued from a Shelby Township house fire."
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Check Your Equipment Daily",
-   "link": "https://www.fireengineering.com/firefighting/check-your-equipment-daily/",
-   "data": "2026-11-20T10:31+00:00",
-   "opis": "Check your equipment, and check it thoroughly. Frank Viscuso on the importance of checking equipment in this excerpt from 35 Things Every Firefighter Must Know and Do."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "NY Firefighters Faced ‘Significant Challenges’ During Fire That Also Involved Hundred of Tires",
-   "link": "https://www.fireengineering.com/firefighting/ny-firefighters-faced-significant-challenges-during-fire-that-also-involved-hundred-of-tires/",
-   "data": "2026-11-20T10:04+00:00",
-   "opis": "A fire at Pantano’s Wine supply store in New Paltz displaced 11 residents and challenged firefighters due to downed power lines, lack of hydrants, and stored tires. The cause remains under investigation."
-  },
-  {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
    "typ": "technologie",
@@ -290,15 +326,6 @@
    "opis": "Niezidentyfikowany obiekt latający spadł w piątek rano na pole przy lesie w Nowym Lipowcu w powiecie biłgorajskim na Lubelszczyźnie."
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Explosions Hampered Firefighters at Fatal MI Barn Fire",
-   "link": "https://www.fireengineering.com/firefighting/explosions-hampered-firefighters-at-fatal-mi-barn-fire/",
-   "data": "2026-11-20T08:14+00:00",
-   "opis": "A 68-year-old man died in a Rose Township pole barn fire with explosions due to stored ammunition. The cause is under investigation. Firefighters worked to extinguish the fire and protect nearby structures."
-  },
-  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -326,15 +353,6 @@
    "opis": "The FoamPro Next Generation 1600 &#038; 2000 Series offers a simplified, no-manual-priming interface with dedicated controls for foam injection, off-board pickup, on-board tank fill, and flush."
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "New Lexington (KY) Fire Chief Named",
-   "link": "https://www.fireengineering.com/firefighting/fire-leadership/new-lexington-ky-fire-chief-named/",
-   "data": "2026-11-20T05:21+00:00",
-   "opis": "Joey Harris, a Lexington native with 25 years in the fire department and broad leadership experience, will become the fire chief of Lexington in January."
-  },
-  {
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
@@ -351,15 +369,6 @@
    "link": "https://firelawblog.com/2026/11/19/baltimore-firefighters-file-flsa-suit-over-mandatory-ems-assignments/",
    "data": "2026-11-20T00:23+00:00",
    "opis": "Three Baltimore City firefighters have filed a class and collective action lawsuit against the Baltimore City Fire Department and the city alleging violations of the Fair Labor Standards Act stemming from a requirement that newly hired firefighters complete 1,"
-  },
-  {
-   "zrodlo": "Wildfire Today",
-   "kraj": "Świat",
-   "typ": "akcje",
-   "tytul": "Building wildfire resilience in the Indian Himalayas",
-   "link": "https://wildfiretoday.com/building-wildfire-resilience-in-the-indian-himalayas/",
-   "data": "2026-11-19T23:56+00:00",
-   "opis": "By Amit Kumar Verma Each spring, smoke rising above the Himalayan foothills signals the return of a familiar emergency. Forest departments mobilize crews, communities protect homes and grazing areas, and public attention turns briefly toward fire. Once the mon"
   },
   {
    "zrodlo": "Firefighter Close Calls",
@@ -396,24 +405,6 @@
    "link": "https://www.firefighternation.com/news/with-measles-spreading-do-you-need-a-booster-shot/",
    "data": "2026-11-19T18:44+00:00",
    "opis": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?"
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nie będzie likwidacji Wojskowej Straży Pożarnej w Dziwnowie",
-   "link": "https://remiza.pl/nie-bedzie-likwidacji-wojskowej-strazy-pozarnej-w-dziwnowie/",
-   "data": "2026-11-19T17:19+00:00",
-   "opis": "Fiaskiem zakończyły się plany likwidacji Wojskowej Straży Pożarnej funkcjonującej w 8 Batalionie Saperów w Dziwnowie."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Łukasz Kunek pozostaje przewodniczącym ‘FLORIANA’",
-   "link": "https://remiza.pl/lukasz-kunek-pozostaje-przewodniczacym-floriana/",
-   "data": "2026-11-19T15:37+00:00",
-   "opis": "Związek Zawodowy Strażaków ‘FLORIAN’ podczas krajowego zjazdu delegatów wybrał nowe władze."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -587,15 +578,6 @@
    "opis": "A former Baltimore City Fire Department paramedic has filed suit against the city claiming he was terminated for refusing to shave his beard in violation of his Muslim religious beliefs. The suit alleges the department repeatedly denied his requests for a reli"
   },
   {
-   "zrodlo": "Wildfire Today",
-   "kraj": "Świat",
-   "typ": "akcje",
-   "tytul": "Devastating Grand Canyon wildfire worsened by leadership issues, new report finds",
-   "link": "https://wildfiretoday.com/devastating-grand-canyon-wildfire-worsened-by-leadership-issues-new-report-finds/",
-   "data": "2026-11-19T00:18+00:00",
-   "opis": "A review of the 2025 Dragon Bravo Fire that destroyed dozens of historic structures in the Grand Canyon National Park&#8217;s North Rim was released on Tuesday, and Department of Interior appointed reviewers didn&#8217;t hold back on leadership&#8217;s numerou"
-  },
-  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -612,51 +594,6 @@
    "link": "https://nipv.nl/nieuws/uhd-blussysteem-geeft-brandweer-aanvullend-handelingsperspectief-bij-branden-met-elektrische-trucks",
    "data": "2026-11-18T14:11+00:00",
    "opis": "Met een ultra hogedruk (UHD) snij- en blussysteem kan de brandweer een thermal runaway in het batterijpakket van een elektrische vrachtwagen onder controle brengen. Dat blijkt uit twee praktijkexperimenten van het BITET-consortium. De resultaten bieden de bran"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Ranger adds two fire and security businesses",
-   "link": "https://internationalfireandsafetyjournal.com/ranger-fire-and-security-2/",
-   "data": "2026-11-18T12:36+00:00",
-   "opis": "Ranger Fire and Security has added two fire and security businesses to its portfolio, with Abacus Fire and Security and AGF Fire Protection joining Ranger Fire and Security has announced two new strategic partnerships with Abacus Fire and Security and AGF Fire"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Axis AX from Advanced chosen to protect Automall North Tower in Jeddah",
-   "link": "https://internationalfireandsafetyjournal.com/axis-ax-from-advanced/",
-   "data": "2026-11-18T12:30+00:00",
-   "opis": "A high-performance Axis AX fire alarm system from Advanced is being installed at the North Tower of Jeddah’s landmark Automall development, delivering intelligent fire detection and life safety protection across the major government-operated facility The nine-"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Pierce Manufacturing earns OSHA safety recognition",
-   "link": "https://internationalfireandsafetyjournal.com/pierce-osha-recognition/",
-   "data": "2026-11-18T12:24+00:00",
-   "opis": "Pierce Manufacturing’s Industrial Park Plant in Wisconsin has received OSHA’s highest workplace safety recognition, becoming the 11th Oshkosh Corporation facility to achieve VPP Star status Pierce Manufacturing has announced that its Industrial Park Plant (IPP"
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Hoflader in Vollbrand: 120 Kühe können im Stall bleiben",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/hoflader-in-vollbrand-120-kuehe-koennen-im-stall-bleiben-145946",
-   "data": "2026-11-18T12:02+00:00",
-   "opis": "Lehrte (NI) – In einem Rinderstall in Immensen (Region Hannover) hat am Dienstagabend ein Hoflader gebrannt. Die Flammen hatten bereits auf das Gebäude übergegriffen. Trotzdem konnten die rund 120 Kühe nach Angaben der Feuerwehr während des ..."
-  },
-  {
-   "zrodlo": "CNBOP-PIB",
-   "kraj": "PL",
-   "typ": "badania",
-   "tytul": "Laboratorium Bezpieczeństwa #11: Pożary, historia i strategia. Czego przeszłość uczy nas o bezpieczeństwie?",
-   "link": "https://cnbop.pl/laboratorium-bezpieczenstwa-11-pozary-historia-i-strategia-czego-przeszlosc-uczy-nas-o-bezpieczenstwie/",
-   "data": "2026-11-18T11:37+00:00",
-   "opis": ""
   },
   {
    "zrodlo": "Edufire",
@@ -714,6 +651,7 @@
   }
  ],
  "bledy": [
-  "Akademia Pożarnicza: URLError"
+  "Akademia Pożarnicza: URLError",
+  "Wildfire Today: ParseError"
  ]
 }
