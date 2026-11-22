@@ -1,6 +1,128 @@
 {
- "aktualizacja": "2026-11-21",
+ "aktualizacja": "2026-11-22",
  "wydarzenia": [
+  {
+   "id": "2026-11-22-north-royalton-ratownicy",
+   "data": "2026-11-22",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "RATOWNICY BEZ APARATÓW W DYMIE",
+   "tytul": "Czterej ratownicy wbiegli do płonącego domu na wstrzymanym oddechu. Wyciągnęli dwóch strażaków",
+   "zajawka": "Szef straży z Seven Hills opisał, jak ratownicy medyczni bez aparatów oddechowych wydobyli z piwnicy zespół, który nadał MAYDAY.",
+   "tresc": [
+    "Do pożaru domu przy Royalton Road w Ohio 2 listopada zadysponowano straże z North Royalton, Broadview Heights i Brecksville. Ryan Milligan (36 l.) i Andrew Protsman jako pierwsi weszli do ataku. Potem padł komunikat MAYDAY - dwóch strażaków w dole.",
+    "Jak relacjonuje Fire Engineering, komendant straży z Seven Hills David Higginbotham powiedział na posiedzeniu rady miasta, że wezwano karetkę z jego miasta. Czterej ratownicy mieli przywieźć nosze i sprzęt ALS. Zobaczyli, że obaj strażacy wciąż są w środku, więc wbiegli bez aparatów, na wstrzymanym oddechu. Najpierw wynieśli Protsmana. Dwóch z nich założyło potem aparaty i wróciło po Milligana. Milligan zmarł.",
+    "Według stanowego Urzędu Marszałka Pożarowego ogień zaczął się przy wyczystce kominka na parterze, w piwnicy domu. Nie wiadomo, dlaczego strażacy z miejsca zdarzenia nie weszli wcześniej. Burmistrz czeka na raporty NIOSH i stanowe - na razie nie ma oficjalnych ustaleń. To relacja z posiedzenia rady, nie raport."
+   ],
+   "wniosek": "Gdy pada MAYDAY, każdy chce ratować. Ale ratownik bez aparatu może zostać kolejną ofiarą - tu skończyło się dobrze, ale to nie jest wzorzec.",
+   "praktyka": "Szkol RIT i zadania ratowników z karetek na miejscu pożaru: kto wchodzi, w jakim sprzęcie, kto go zabezpiecza. Zasada: bez ochrony dróg oddechowych nie wchodzimy do dymu.",
+   "tematy": [
+    "MAYDAY",
+    "piwnica",
+    "RIT"
+   ],
+   "powiazane": [
+    "Spalanie i pożar",
+    "Szkolenia"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/north-royalton-oh-firefighter-from-fire-that-claimed-his-life-chief-says/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-22-leitchfield-dogaszanie",
+   "data": "2026-11-22",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "KOMIN SPADŁ NA STRAŻAKA",
+   "tytul": "Dogaszanie po pożarze: komin runął na strażaka przy wtórnym zapaleniu",
+   "zajawka": "W Kentucky spalony dom zapalił się ponownie dzień po pożarze. Przy dogaszaniu na strażaka spadł komin.",
+   "tresc": [
+    "W środę w dzielnicy Box Town w Leitchfield (Kentucky) pożar zniszczył trzy domy i kilka akrów terenu. W czwartek, tuż przed 20:00, jeden ze spalonych domów zapalił się ponownie. Straż wróciła na miejsce.",
+    "Gdy strażak polewał zgliszcza wodą, spadł na niego komin. Został przewieziony do szpitala, opatrzony i wypisany - uraz nogi. Portal Firefighter Close Calls zauważa, że to kolejny wypadek w tej jednostce: w lipcu dwóch strażaków zostało rannych w Big Clifty, a jeden poważnie, gdy zawaliły się schody."
+   ],
+   "wniosek": "Po pożarze konstrukcja jest osłabiona, a ugaszone nie znaczy bezpieczne. Ściany, kominy i schody mogą spaść bez ostrzeżenia - zwłaszcza po wtórnym zapaleniu.",
+   "praktyka": "Przy dogaszaniu zgliszczy utrzymuj strefę zawalenia wokół kominów i ścian szczytowych. Do ich zalewania używaj prądownic z bezpiecznej odległości, a nie z pozycji pod murem.",
+   "tematy": [
+    "dogaszanie",
+    "zawalenie",
+    "wtórne zapalenie"
+   ],
+   "powiazane": [
+    "Kominy i kotłownie",
+    "Spalanie i pożar"
+   ],
+   "zrodla": [
+    [
+     "Firefighter Close Calls",
+     "https://www.firefighterclosecalls.com/firefighter-injured-in-chimney-collapse-at-fire-rekindle-dept-suffers-a-series-of-injuries-kentucky/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-22-ntsb-retardanty",
+   "data": "2026-11-22",
+   "kraj": "USA",
+   "etykieta": "RAPORT",
+   "naglowek": "RETARDANT NISZCZY SAMOLOTY",
+   "tytul": "NTSB: nowy retardant do gaszenia z powietrza korodował samoloty gaśnicze",
+   "zajawka": "Amerykańska NTSB wydała dwa zalecenia po tym, jak środek na bazie chlorku magnezu uszkodził konstrukcję dwóch samolotów gaśniczych.",
+   "tresc": [
+    "NTSB badała dwa duże samoloty gaśnicze, BAE-146 (Neptune Aviation) i MD-87 (Aero Air), użyte w 2023 r. w ocenie nowego retardantu na bazie chlorku magnezu, prowadzonej przez Służbę Leśną USA. Po sezonie inspekcje wykazały rozległą korozję: skrzydeł, kadłuba, złączy elektrycznych, linek sterowniczych i silników. Podobne samoloty bez nowego środka tego nie miały.",
+    "Według NTSB Służba Leśna opierała się głównie na testach korozji pojedynczych próbek metalu. Nie sprawdzano połączeń materiałów w konstrukcji samolotu ani skutków mieszania różnych retardantów. Służba zawiesiła kwalifikację środka w maju 2024 r. i skreśliła go z listy w grudniu 2024 r., ale NTSB uznała, że to nie usuwa problemu w procedurze kwalifikacji.",
+    "Zalecenie AIR-26-06: opracować pełniejsze testy korozyjne razem z operatorami i producentami i wpisać je w wymogi kwalifikacji retardantów."
+   ],
+   "wniosek": "Środek gaśniczy musi gasić i nie niszczyć sprzętu. Test na samej próbce metalu nie zastępuje testu na prawdziwej konstrukcji.",
+   "praktyka": "Przy zakupie lub zmianie środka gaśniczego pytaj o badania kompatybilności z materiałami sprzętu i z innymi środkami. Nie mieszaj środków bez zgody producenta.",
+   "tematy": [
+    "retardanty",
+    "korozja",
+    "lotnictwo gaśnicze"
+   ],
+   "powiazane": [
+    "Spalanie i pożar"
+   ],
+   "zrodla": [
+    [
+     "Fire & Safety Journal Americas",
+     "https://fireandsafetyjournalamericas.com/ntsb-corrosion-tests-retardants/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-22-attalla-podklady",
+   "data": "2026-11-22",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "POŻAR BIOMASY",
+   "tytul": "Pożar zakładu rozdrabniającego podkłady kolejowe: 24 jednostki, ewakuacja i tlenie przez dni",
+   "zajawka": "W Alabamie pożar zakładu biomasy zadymił miasto. Ogień opanowano w kilka godzin, ale materiał dalej tli się i trzeba go rozgarniać maszynami.",
+   "tresc": [
+    "W czwartek 19 listopada o 4:22 zgłoszono pożar zakładu Omaha Track w Attalla (Alabama), który przerabia zużyte podkłady kolejowe na zrębki biomasy. Do akcji skierowano 24 jednostki straży. Firma podała, że ogień opanowano ok. 10:00. Wprowadzono czasową ewakuację w promieniu mili, odwołano zajęcia w szkołach, a ulicę Pleasant Valley zamknięto.",
+    "W piątek materiał nadal tlił się. Miasto poinformowało, że sprowadza ciężki sprzęt, żeby rozgarniać i rozdzielać hałdy, by całkiem je ugasić. Przyczyna jest w trakcie badania, firma nie podaje domysłów."
+   ],
+   "wniosek": "Duże hałdy biomasy i zrębków gaszą się godzinami lub dniami - ogień siedzi głęboko, a woda z góry tylko pomaga częściowo.",
+   "praktyka": "Inspektor w zakładzie z hałdami biomasy: ustal wysokości pryzm, odstępy, dostęp dla maszyn i zaopatrzenie w wodę. Plan pożarowy powinien uwzględniać rozgarnianie hałdy ciężkim sprzętem.",
+   "tematy": [
+    "biomasa",
+    "hałdy",
+    "dogaszanie"
+   ],
+   "powiazane": [
+    "Obciążenie ogniowe",
+    "Woda do gaszenia",
+    "Obowiązki właściciela"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/massive-north-al-fire-contained-cause-under-investigation/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-19-robbins-osha",
    "data": "2026-11-19",
@@ -792,6 +914,17 @@
  ],
  "obserwuje": [
   {
+   "tytul": "North Royalton (Ohio) - śmierć strażaka Ryana Milligana",
+   "stan": "Pożar 2.11.2026, MAYDAY w piwnicy. Czekamy na raporty NIOSH i stanowego Urzędu Marszałka Pożarowego. Zakres akcji ratowników z Seven Hills opisany, przyczyny śmierci jeszcze nie ogłoszono.",
+   "ostatnio": "2026-11-22",
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/north-royalton-oh-firefighter-from-fire-that-claimed-his-life-chief-says/"
+    ]
+   ]
+  },
+  {
    "tytul": "Robbins Lumber (Maine) - wybuch silosu",
    "stan": "OSHA: 5 naruszeń i ponad 54 tys. dol. kar dla firmy. Stan ukarał 11 jednostek straży (kary w większości umorzone). Szczegółów naruszeń jeszcze brak.",
    "ostatnio": "2026-11-19",
@@ -859,6 +992,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Czy ratownik medyczny bez aparatu oddechowego może wejść do zadymionego budynku po poszkodowanego strażaka?",
+   "o": "Nie powinien - bez ochrony dróg oddechowych sam staje się ofiarą. W Ohio taka akcja się udała, ale to ryzyko, nie wzór. Wchodzi RIT w aparatach.",
+   "data": "2026-11-22"
+  },
+  {
+   "p": "Dlaczego po ugaszeniu pożaru trzeba pilnować zgliszczy?",
+   "o": "Bo może dojść do wtórnego zapalenia, a osłabione kominy, ściany i schody mogą się zawalić. W Kentucky komin spadł na strażaka przy dogaszaniu.",
+   "data": "2026-11-22"
+  },
   {
    "p": "Dlaczego woda lana do silosu z pyłem drzewnym może doprowadzić do wybuchu?",
    "o": "Wzbija pył w powietrze i dodaje tlenu - powstaje mieszanka wybuchowa. Tak było w Robbins Lumber w maju 2026 (według śledztwa federalnego).",
