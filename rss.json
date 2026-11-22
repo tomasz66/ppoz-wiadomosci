@@ -1,14 +1,59 @@
 {
- "aktualizacja": "2026-11-22T05:12+00:00",
+ "aktualizacja": "2026-11-22T12:47+00:00",
  "wpisy": [
   {
-   "zrodlo": "Wildfire Today",
-   "kraj": "Świat",
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
    "typ": "akcje",
-   "tytul": "The dark side of leadership",
-   "link": "https://wildfiretoday.com/the-dark-side-of-leadership/",
-   "data": "2026-11-22T03:18+00:00",
-   "opis": "By Michael DeGrosky When I was a leadership studies master’s student, faculty reserved the word leader for people doing positive, constructive things. My professors certainly weren’t alone. Indeed, models that most influence the practice of leadership almost e"
+   "tytul": "Syreny są, ale nie zawsze działają. Niepokojące dane o alarmowaniu OSP",
+   "link": "https://strazacki.pl/wiadomosci/syreny-sa-ale-nie-zawsze-dzialaja-niepokojace-dane-o-alarmowaniu-osp/",
+   "data": "2026-11-22T11:58+00:00",
+   "opis": "Ponad 22 tys. syren alarmowych znajduje się w polskim systemie ostrzegania ludności. Problem w tym, że miliony mieszkańców pozostają poza ich modelowanym zasięgiem, a część urządzeń nie pozwala na całodobowe zdalne uruchomienie. Modernizacja obejmuje również i"
+  },
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Pieniądze na sprzęt OSP i remonty remiz. Wnioski można składać już od poniedziałku",
+   "link": "https://strazacki.pl/wiadomosci/pieniadze-na-sprzet-i-remonty-remiz-gminy-moga-skladac-wnioski-juz-od-poniedzialku/",
+   "data": "2026-11-22T11:57+00:00",
+   "opis": "Aż 12,6 mln zł trafi na wsparcie Ochotniczych Straży Pożarnych na Mazowszu. Samorządy będą mogły ubiegać się o pieniądze zarówno na nowy sprzęt OSP, jak i remonty oraz modernizacje strażnic. Nabór rusza już w poniedziałek, 23 listopada, zatem czasu na przygoto"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Nowy trenażer RIT na poligonie Akademii Pożarniczej",
+   "link": "https://remiza.pl/nowy-trenazer-rit-na-poligonie-akademii-pozarniczej/",
+   "data": "2026-11-22T11:56+00:00",
+   "opis": "Na poligon Akademii Pożarniczej trafił nowy trenażer, który będzie wykorzystywany podczas szkoleń z zakresu RIT."
+  },
+  {
+   "zrodlo": "Strazacki.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Gaśnica proszkowa nie zawsze będzie najlepszym wyborem. Tego błędu lepiej nie popełniać!",
+   "link": "https://strazacki.pl/safety-tips/gasnica-proszkowa-kiedy-tak-kiedy-nie/",
+   "data": "2026-11-22T11:56+00:00",
+   "opis": "Gaśnica proszkowa to jeden z najpopularniejszych sprzętów przeciwpożarowych w polskich domach, samochodach i zakładach pracy. Jest stosunkowo tania, uniwersalna i skuteczna w przypadku wielu rodzajów pożarów. Jednak wbrew pozorom nie można używać jej do gaszen"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Pożar hałdy złomu w Porcie Gdańsk. W akcji 30 zastępów",
+   "link": "https://remiza.pl/pozar-haldy-zlomu-w-porcie-gdansk-w-akcji-30-zastepow/",
+   "data": "2026-11-22T10:27+00:00",
+   "opis": "Strażacy przez całą noc gasili hałdę złomu na terenie Portu Gdańsk. W niedzielę rano opanowali pożar i przystąpili do dogaszania pogorzeliska."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Pożar domu w Trzciance. Zginęły trzy osoby, w tym 12-letni chłopiec",
+   "link": "https://remiza.pl/pozar-domu-w-trzciance-zginely-trzy-osoby-w-tym-12-letni-chlopiec/",
+   "data": "2026-11-22T08:25+00:00",
+   "opis": "Trzy osoby zginęły w nocnym pożarze domu w Trzciance w województwie wielkopolskim. Wśród ofiar jest dwunastoletni chłopiec."
   },
   {
    "zrodlo": "Firefighter Nation",
@@ -245,15 +290,6 @@
    "opis": "The City of Fairmont used the last of its American Rescue Plan Act (ARPA) funds to buy two new Sutphen custom pumpers."
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Scania warta ponad dwa miliony złotych dla OSP Bielawa",
-   "link": "https://remiza.pl/scania-warta-ponad-dwa-miliony-zlotych-dla-osp-bielawa/",
-   "data": "2026-11-20T18:52+00:00",
-   "opis": "Ochotnicza Straż Pożarna w Bielawie w województwie mazowieckim wzbogaciła się o fabrycznie nowy ciężki wóz."
-  },
-  {
    "zrodlo": "Fire Apparatus Magazine",
    "kraj": "USA",
    "typ": "sprzet",
@@ -261,15 +297,6 @@
    "link": "https://www.fireapparatusmagazine.com/the-fire-station/glens-falls-unveils-plans-for-27m-public-safety-center-at-former-rite-aid/",
    "data": "2026-11-20T18:13+00:00",
    "opis": "The City of Glens Falls (NY) laid out its plans for a new public safety center to house its police and fire departments, costing $27 million completed by fall 2028."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Krakowska straż pożarna zabiega o etaty. Potrzebuje obsady dla nowej strażnicy",
-   "link": "https://remiza.pl/krakowska-straz-pozarna-zabiega-o-ponad-pol-tysiaca-dodatkowych-etatow/",
-   "data": "2026-11-20T16:45+00:00",
-   "opis": "Komenda Miejska Państwowej Straży Pożarnej w Krakowie zabiega o zwiększenie zatrudnienia. Jej komendant st. bryg. Arkadiusz Kielin szacuje, że potrzeba około 580 dodatkowych etatów, i wskazuje na trudności z zapewnieniem obsady planowanej strażnicy na południu"
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -333,15 +360,6 @@
    "link": "https://www.firefighternation.com/news/north-royalton-oh-firefighter-from-fire-that-claimed-his-life-chief-says/",
    "data": "2026-11-20T14:36+00:00",
    "opis": "North Royalton firefighter Ryan Milligan was removed from the fire that took his life by a crew from Seven Hills, where he had lived since childhood."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowa remiza OSP Wschowa. Burmistrz pokazał pierwsze wizualizacje",
-   "link": "https://remiza.pl/nowa-remiza-osp-wschowa-burmistrz-pokazal-pierwsze-wizualizacje/",
-   "data": "2026-11-20T13:57+00:00",
-   "opis": "Burmistrz Wschowy Konrad Antkowiak przedstawił koncepcję nowej remizy dla miejscowej Ochotniczej Straży Pożarnej."
   },
   {
    "zrodlo": "Firefighter Close Calls",
@@ -434,15 +452,6 @@
    "opis": "Three Baltimore City firefighters have filed a class and collective action lawsuit against the Baltimore City Fire Department and the city alleging violations of the Fair Labor Standards Act stemming from a requirement that newly hired firefighters complete 1,"
   },
   {
-   "zrodlo": "Wildfire Today",
-   "kraj": "Świat",
-   "typ": "akcje",
-   "tytul": "Building wildfire resilience in the Indian Himalayas",
-   "link": "https://wildfiretoday.com/building-wildfire-resilience-in-the-indian-himalayas/",
-   "data": "2026-11-19T23:56+00:00",
-   "opis": "By Amit Kumar Verma Each spring, smoke rising above the Himalayan foothills signals the return of a familiar emergency. Forest departments mobilize crews, communities protect homes and grazing areas, and public attention turns briefly toward fire. Once the mon"
-  },
-  {
    "zrodlo": "Firefighter Close Calls",
    "kraj": "USA",
    "typ": "akcje",
@@ -486,105 +495,6 @@
    "link": "https://www.feuerwehrmagazin.de/nachrichten/rheinland-pfalz-plant-dankespraemie-fuer-feuerwehrleute-145970",
    "data": "2026-11-19T15:34+00:00",
    "opis": "Mainz (RP) – Rheinland-Pfalz will langjähriges Engagement von Feuerwehrleuten künftig mit einer Dankesprämie würdigen. Dafür sieht der Entwurf des Doppelhaushalts 2027/2028, den das Kabinett am Dienstag beschlossen hat, jährlich 1,3 Millionen ..."
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Brutalny atak na strażaka. Stracił dużo krwi, policja szuka nożownika",
-   "link": "https://strazacki.pl/wiadomosci/brutalny-atak-nozownika-na-strazaka-osp-stracil-duzo-krwi-policja-szuka-napastnika/",
-   "data": "2026-11-19T14:32+00:00",
-   "opis": "Brutalny atak na strażaka! Wyszedł tylko na spacer z psem. Chwilę później doszło do brutalnego ataku, który mógł zakończyć się tragedią. Strażak ochotnik został ugodzony ostrym narzędziem przez nieznanego mężczyznę. Obrażenia okazały się poważne – druh stracił"
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Dotacja na strażnicę- pieniądze na świetlicę. NIK wskazała poważne nieprawidłowości",
-   "link": "https://strazacki.pl/wiadomosci/dotacja-na-straznice-pieniadze-na-swietlice-nik-wskazala-powazne-nieprawidlowosci/",
-   "data": "2026-11-19T14:31+00:00",
-   "opis": "Dotacja na strażnicę- pieniądze na świetlicę. Pieniądze miały trafić na ochronę przeciwpożarową, ale część z nich wykorzystano niezgodnie z przeznaczeniem. Najwyższa Izba Kontroli wykazała nieprawidłowości w finansowaniu OSP, wypłacie ekwiwalentów i kierowaniu"
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Großbrand in Lagerhalle: Glutnester unter abgehängter Decke",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/grossbrand-in-lagerhalle-glutnester-unter-abgehaengter-decke-145963",
-   "data": "2026-11-19T12:08+00:00",
-   "opis": "Wedel (SH) – Im Kreis Pinneberg hat die Feuerwehr in der Nacht zu Mittwoch einen Großbrand in einer leerstehenden Lagerhalle bekämpft, die sich bereits im Rückbau befand. Das Dach der rund 1.800 Quadratmeter großen Halle konnte gehalten werden; ..."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "New Santa Fe (NM) Fire Station Among Hundreds of Projects at Risk of Losing State Funding",
-   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/new-santa-fe-nm-fire-station-among-hundreds-of-projects-at-risk-of-losing-state-funding/",
-   "data": "2026-11-19T11:51+00:00",
-   "opis": "Hundreds of dormant New Mexico infrastructure projects could forfeit more than $98 million under a new use-it-or-lose-it law."
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "IAFF firefighters win U.S. elections in 2026 midterms",
-   "link": "https://fireandsafetyjournalamericas.com/iaff-firefighters-us-elections/",
-   "data": "2026-11-19T10:55+00:00",
-   "opis": "More than 20 IAFF members will hold public office following the 2026 U.S. midterm elections, according to the union, with firefighters winning seats in Congress, state legislatures and local government. The results include a U.S. House victory for Pennsylvania"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Chilean MINVU wildfire plan targets 250-meter urban–rural risk zones",
-   "link": "https://fireandsafetyjournalamericas.com/wildfire-plan-urban-rural-zones/",
-   "data": "2026-11-19T10:44+00:00",
-   "opis": "The Ministry of Housing and Urban Development (MINVU) has unveiled a wildfire prevention plan that seeks to incorporate urban–rural interface risk zones into local and intermunicipal regulatory plans for the first time. The 2026–2027 plan focuses on critical 2"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "BRINC Drones launches new iOS App to improve first responder situational awareness",
-   "link": "https://internationalfireandsafetyjournal.com/brinc-first-responder-app/",
-   "data": "2026-11-19T10:22+00:00",
-   "opis": "BRINC has released the BRINC LiveOps iOS app, bringing drone-powered situational awareness directly to first responders wherever they are. The app gives authorized users access to live drone video, agency-wide drone operations, real-time airspace conditions an"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Addressing the engineering skills shortage",
-   "link": "https://internationalfireandsafetyjournal.com/engineering-skills-shortage/",
-   "data": "2026-11-19T10:16+00:00",
-   "opis": "With skilled engineers increasingly difficult to recruit and retain, Ranger Fire &#38; Security is investing in employee benefits, career development and apprenticeships to strengthen its workforce and support long-term growth The engineering skills shortage i"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "NTSB urges tougher corrosion tests for aerial firefighting retardants",
-   "link": "https://fireandsafetyjournalamericas.com/ntsb-corrosion-tests-retardants/",
-   "data": "2026-11-19T10:10+00:00",
-   "opis": "The National Transportation Safety Board (NTSB) has called for stronger corrosion testing of aerial firefighting retardants after investigators found extensive damage on two large airtankers used in a 2023 evaluation. The board issued two safety recommendation"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "SafeEVAC is now Lumexus, connecting detection, verification and evacuation guidance across buildings",
-   "link": "https://fireandsafetyjournalamericas.com/lumexus-detection-verification/",
-   "data": "2026-11-19T09:53+00:00",
-   "opis": "SafeEVAC, a safety technology company that helps facilities coordinate emergency response as conditions change, today announced that it is now Lumexus. &#8220;The new name reflects how our platform has grown beyond evacuation into a connected system that links"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Firetrace outlines its approach to engineering and application expertise",
-   "link": "https://fireandsafetyjournalamericas.com/firetrace-engineering-expertise/",
-   "data": "2026-11-19T09:00+00:00",
-   "opis": "Fire protection is rarely simple. The nature of the hazard, how equipment operates, the surrounding environment and the consequences of an incident all inform the appropriate protection approach. For Firetrace International, that understanding is central to ho"
   },
   {
    "zrodlo": "Edufire",
@@ -642,6 +552,7 @@
   }
  ],
  "bledy": [
-  "Akademia Pożarnicza: URLError"
+  "Akademia Pożarnicza: URLError",
+  "Wildfire Today: ParseError"
  ]
 }
