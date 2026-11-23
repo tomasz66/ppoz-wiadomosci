@@ -1,6 +1,98 @@
 {
- "aktualizacja": "2026-11-22",
+ "aktualizacja": "2026-11-23",
  "wydarzenia": [
+  {
+   "id": "2026-11-22-trzcianka-pozar-domu",
+   "data": "2026-11-22",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "TRZCIANKA - POŻAR DOMU SZEREGOWEGO",
+   "tytul": "Nocny pożar w Trzciance: zginęli dziadkowie i 12-letni wnuk",
+   "zajawka": "Ogień objął dom w zabudowie szeregowej. Strażacy od początku wiedzieli, że w środku mogą być trzy osoby, ale płomienie nie pozwoliły wejść.",
+   "tresc": [
+    "Zgłoszenie wpłynęło po godzinie 1 w nocy z 21 na 22 listopada. Pierwsze zastępy zastały w ogniu budynek mieszkalny w zabudowie szeregowej. Zagrożone były też sąsiednie domy.",
+    "Ratownicy mieli informację, że w środku mogą być trzy osoby. Intensywność pożaru i rozwinięte płomienie uniemożliwiły dotarcie do wnętrza. W kulminacyjnym momencie gasiło 13 zastępów. Po opanowaniu ognia strażacy znaleźli trzy ciała: 59-letniej kobiety, 63-letniego mężczyzny i 12-letniego chłopca. Według mediów to dziadkowie i wnuk.",
+    "Przyczyna pożaru nie została podana w źródle. To informacja prasowa, nie ustalenia śledztwa."
+   ],
+   "wniosek": "W zabudowie szeregowej pożar od razu zagraża sąsiadom, a w rozwiniętym pożarze domu o przeżyciu decydują pierwsze minuty - zanim ktokolwiek zdąży zadzwonić pod 112.",
+   "praktyka": "Przy szkoleniach z domowego bezpieczeństwa: czujki dymu na każdej kondygnacji i w drodze ewakuacji, plan wyjścia znany także dzieciom, zamknięte drzwi do pokoju z pożarem. W ocenie ryzyka domów szeregowych pamiętaj o przenoszeniu ognia przez dach i ściany działowe.",
+   "tematy": [
+    "pożar domu",
+    "ofiary śmiertelne",
+    "czujki"
+   ],
+   "powiazane": [
+    "Czujki i SSP",
+    "Ewakuacja",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Strazacki.pl",
+     "https://strazacki.pl/akcje/tragiczny-pozar-w-trzciance-zginely-trzy-osoby/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-22-brooklyn-zawalenie-fdny",
+   "data": "2026-11-22",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "BROOKLYN - ZAWALENIE BUDYNKU",
+   "tytul": "Zawalony budynek w Brooklynie: pięć kroków, które pozwoliły wyciągnąć ludzi żywych",
+   "zajawka": "Trzypiętrowy budynek osunął się na sąsiedni plac budowy. FDNY pracowało 14 godzin według planu z podręcznika zawaleń.",
+   "tresc": [
+    "11 listopada 2026 trzypiętrowy budynek przy Flatbush Ave. zawalił się na sąsiedni wykop budowy. Według relacji New York Daily News zginęło osiem osób, w tym dwoje dzieci, a 17 zostało rannych.",
+    "Dowódcy FDNY, bracia Downey, opisali pracę według pięciu kroków: 1) rozpoznanie i ocena, 2) ratowanie poszkodowanych z powierzchni, 3) przeszukanie i podparcie pustek, 4) selektywne usuwanie gruzu, 5) ponowna ocena bezpieczeństwa. Według ich szacunku setki strażaków ręcznie usunęły około 300 ton gruzu w ciągu 14 godzin.",
+    "Spod gruzów wydobyto żywych ludzi, m.in. kobietę w ciąży ukrytą w pustce. Podczas podpierania pustek strażacy pilnowali, by nie poruszyć gruzu poniżej - każde przesunięcie elementu może wywołać wtórne osunięcie. Miasto zdecydowało o rozbiórce sąsiedniego budynku z odsłoniętymi mieszkaniami, a przyczyny zawalenia bada się. To relacja prasowa - oficjalnych ustaleń przyczyn brak."
+   ],
+   "wniosek": "Przy zawaleniu liczy się kolejność, a nie tempo: najpierw rozpoznanie, potem powierzchnia, pustki, dopiero na końcu gruz.",
+   "praktyka": "Przećwicz ze swoim zespołem schemat działań przy zawaleniu (rozpoznanie, powierzchnia, pustki, gruz, ponowna ocena). Zawsze zakładaj wtórne osunięcie i pilnuj stanu sąsiednich budynków.",
+   "tematy": [
+    "zawalenie",
+    "poszukiwanie w gruzach"
+   ],
+   "powiazane": [
+    "Prace niebezpieczne"
+   ],
+   "zrodla": [
+    [
+     "Firefighter Nation (NY Daily News)",
+     "https://www.firefighternation.com/fire-leadership/fdny-brothers-who-led-rescue-at-brooklyn-ny-building-collapse-used-their-fathers-playbook/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-21-palisades-wyrok",
+   "data": "2026-11-21",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "PALISADES - PODPALENIE, KTÓRE PRZETRWAŁO POD ZIEMIĄ",
+   "tytul": "Wyrok za Palisades: ogień z 1 stycznia tlił się w korzeniach i wrócił 7 stycznia",
+   "zajawka": "Federalna ława przysięgłych uznała mężczyznę za winnego podpalenia, które doprowadziło do pożaru Palisades. Zginęło 12 osób.",
+   "tresc": [
+    "Jonathan Rinderknecht (30 l.) został uznany za winnego dwóch zarzutów: zniszczenia mienia przez ogień i podpalenia. Według oskarżenia podpalił las 1 stycznia 2025 (pożar Lachman). Ogień przetrwał niezauważony głęboko w systemie korzeniowym i 7 stycznia rozwinął się w pożar Palisades. Pożar zabił 12 osób i zniszczył całe dzielnice Los Angeles i Malibu.",
+    "Pierwszy proces w czerwcu zakończył się brakiem jednomyślności (10 do 2 za uniewinnieniem). Drugi jury obradowało trzy dni. W dowodach były dane z telefonu, zdjęcia, kamery wykrywania pożarów i eksperci, którzy wykluczyli inne źródła zapłonu, np. fajerwerki. Obrona kwestionowała miejsce początku pożaru i zabezpieczenie terenu. Wyrok zapadnie 17 marca 2027, kara od 5 do 20 lat za każdy zarzut.",
+    "To relacja AP o wyroku pierwszej instancji; obrona zapowiada rozważenie wszystkich opcji, w tym odwołania."
+   ],
+   "wniosek": "Pożar leśny można uznać za ugaszony, a ogień nadal tli się pod ziemią w korzeniach i potrafi wrócić po kilku dniach, zwłaszcza przy wietrze.",
+   "praktyka": "Po pożarach terenów leśnych i trawiastych sprawdzaj pogorzelisko także pod ziemią i w korzeniach (kamera termowizyjna, ponowne obejścia). Zabezpieczaj miejsce, żeby dochodzenie mogło ustalić miejsce powstania.",
+   "tematy": [
+    "pożar lasu",
+    "dogaszanie",
+    "podpalenie"
+   ],
+   "powiazane": [
+    "Lasy i żniwa",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (AP)",
+     "https://www.fireengineering.com/firefighting/wildland-firefighting/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-22-north-royalton-ratownicy",
    "data": "2026-11-22",
@@ -989,9 +1081,30 @@
      "https://www.brusselstimes.com/2407725/five-injured-following-christmas-market-fire-in-wallonia"
     ]
    ]
+  },
+  {
+   "tytul": "Zawalenie budynku w Brooklynie (Flatbush Ave.)",
+   "stan": "Zginęło osiem osób, 17 rannych. Przyczyna zawalenia w trakcie badania, wytoczono pozwy, miasto rozbiera sąsiedni budynek.",
+   "ostatnio": "2026-11-23",
+   "zrodla": [
+    [
+     "Firefighter Nation (NY Daily News)",
+     "https://www.firefighternation.com/fire-leadership/fdny-brothers-who-led-rescue-at-brooklyn-ny-building-collapse-used-their-fathers-playbook/"
+    ]
+   ]
   }
  ],
  "pytania": [
+  {
+   "p": "Dlaczego pożar lasu może wrócić po kilku dniach od ugaszenia?",
+   "o": "Bo ogień potrafi tlić się głęboko w korzeniach i ściółce, niewidoczny na powierzchni. Wiatr wznieca go na nowo. Według AP tak było z pożarem Palisades (1 i 7 stycznia 2025).",
+   "data": "2026-11-23"
+  },
+  {
+   "p": "Jakie są etapy działań przy zawaleniu budynku wg FDNY?",
+   "o": "Rozpoznanie, ratowanie z powierzchni, przeszukanie i podparcie pustek, selektywne usuwanie gruzu, ponowna ocena bezpieczeństwa.",
+   "data": "2026-11-23"
+  },
   {
    "p": "Czy ratownik medyczny bez aparatu oddechowego może wejść do zadymionego budynku po poszkodowanego strażaka?",
    "o": "Nie powinien - bez ochrony dróg oddechowych sam staje się ofiarą. W Ohio taka akcja się udała, ale to ryzyko, nie wzór. Wchodzi RIT w aparatach.",
@@ -1401,6 +1514,12 @@
  },
  "tipy": [
   {
+   "tytul": "Gaśnica proszkowa - kiedy nie",
+   "tresc": "Proszek ABC nie nadaje się do płonącego tłuszczu na patelni (rozpryskuje ogień - tu klasa F lub koc gaśniczy), do metali (klasa D) ani do drogiej elektroniki (osad niszczy sprzęt - lepsza CO2). Przy urządzeniach pod napięciem sprawdź na etykiecie dopuszczalne napięcie i minimalną odległość gaszenia.",
+   "przepis": "",
+   "dla": "inspektor"
+  },
+  {
    "tytul": "Silos z pyłem - najpierw ocena ryzyka, potem woda",
    "tresc": "Pył drzewny, zbożowy czy mączny w zamkniętym zbiorniku może wybuchnąć, gdy go wzbić. Strumień wody do silosu potrafi to zrobić - tak ustaliło śledztwo federalne po wybuchu w Robbins Lumber (Maine, 2026). Przed akcją porozmawiaj z obsługą zakładu i ustal strefę bezpieczną.",
    "przepis": "",
@@ -1485,13 +1604,6 @@
    "przepis": "",
    "dla": "strażak",
    "zrodlo": "Bielsko-Biała, 18.11.2026"
-  },
-  {
-   "tytul": "Nad sufitem jest drugie pomieszczenie",
-   "tresc": "Przy dogaszaniu sprawdzaj termowizją przestrzeń nad sufitem podwieszanym i w ścianach.",
-   "przepis": "",
-   "dla": "strażak",
-   "zrodlo": "Wedel, 19.11.2026"
   }
  ],
  "baterie": [
