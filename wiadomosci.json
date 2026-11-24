@@ -1,6 +1,96 @@
 {
- "aktualizacja": "2026-11-23",
+ "aktualizacja": "2026-11-24",
  "wydarzenia": [
+  {
+   "id": "2026-11-24-gdansk-halda-zlomu",
+   "data": "2026-11-23",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "GDAŃSK - POŻAR HAŁDY ZŁOMU",
+   "tytul": "Hałda złomu płonie w gdańskim porcie od soboty: ogień siedzi głęboko w środku",
+   "zajawka": "Akcja trwa od 21 listopada. Żurawie z chwytakami przerzucają złom warstwa po warstwie, żeby dobrać się do zarzewi.",
+   "tresc": [
+    "Zgłoszenie o pożarze hałdy złomu na placu między ulicami Handlową i Chodackiego strażacy dostali 21 listopada. Gasi PSP i Portowa Straż Pożarna, pomagają statki gaśnicze i Zakładowa Straż Pożarna ORLEN.",
+    "Zarzewia ognia są głęboko wewnątrz składowiska, więc woda z góry nie wystarcza. Obsługa portu podstawia specjalistyczne żurawie z chwytakami, które przerzucają kolejne warstwy złomu. W poniedziałek rano mieszkańcy dostali alert RCB: ograniczyć pobyt na zewnątrz i nie otwierać okien z powodu zadymienia. W dogaszaniu brało udział 23 zastępy i około 50 ratowników. Przyczyna pożaru nie została podana."
+   ],
+   "wniosek": "Pożar głęboko w hałdzie to praca dla ciężkiego sprzętu, nie dla samych prądów wody. Trzeba rozebrać składowisko, żeby dotrzeć do ognia.",
+   "praktyka": "Jeśli odpowiadasz za plac ze złomem lub odpadami: pilnuj wysokości i wielkości pryzm, odstępów między nimi i dojazdów dla sprzętu. Ustal z lokalną strażą, kto ma ciężki sprzęt do rozbierania pryzm.",
+   "tematy": [
+    "złom",
+    "dogaszanie",
+    "zadymienie",
+    "alert RCB"
+   ],
+   "powiazane": [
+    "Przyczyny pożarów",
+    "Drogi pożarowe"
+   ],
+   "zrodla": [
+    [
+     "Strażacki.pl",
+     "https://strazacki.pl/akcje/pozar-w-gdanskim-porcie-akcja-strazakow-trwa-od-soboty/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-24-indonezja-fabryka-cukierkow",
+   "data": "2026-11-22",
+   "kraj": "Indonezja",
+   "etykieta": "MEDIA",
+   "naglowek": "INDONEZJA - POŻAR FABRYKI CUKIERKÓW",
+   "tytul": "Pożar fabryki w Indonezji: pracownicy mówią, że alarm nie zadziałał, 34 osoby zaginione",
+   "zajawka": "W sobotę spłonęła trzypiętrowa fabryka PT Fonusa Agung Mulia w prowincji Banten. W środku było około 300 pracowników.",
+   "tresc": [
+    "Według AP pożar wybuchł w sobotę po południu. Strażacy walczyli z ogniem około 14 godzin. Wewnątrz było około 300 osób, z czego 63 miało przebywać na najbardziej dotkniętym drugim piętrze, gdzie ogień mógł zacząć się w urządzeniu chłodzącym. Uratowano 29 pracowników, a w poniedziałek ratownicy mieli 26 worków z ludzkimi szczątkami do identyfikacji. Szukano jeszcze 34 osób.",
+    "Pracownicy powiedzieli lokalnym mediom, że syreny nie włączyły się, choć w zakładzie robiono ćwiczenia ewakuacyjne. O pożarze dowiadywali się od współpracowników. Związki zawodowe chcą audytu przestrzegania przepisów BHP. To relacje pracowników, przyczyna i bilans nie są jeszcze oficjalnie potwierdzone."
+   ],
+   "wniosek": "Ćwiczenia ewakuacyjne nic nie dadzą, jeśli system alarmowy nie zadziała w realnym pożarze.",
+   "praktyka": "Sprawdzaj w zakładzie, czy alarm jest słyszalny na każdym piętrze, a przy ćwiczeniach testuj też sam sygnał, nie tylko wyjście ludzi. Zadbaj o co najmniej dwie drogi ewakuacji z hal produkcyjnych na górnych kondygnacjach.",
+   "tematy": [
+    "ewakuacja",
+    "alarm",
+    "zakład produkcyjny"
+   ],
+   "powiazane": [
+    "Ewakuacja",
+    "Czujki i SSP"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (AP)",
+     "https://www.fireengineering.com/firefighting/indonesian-rescuers-race-to-find-34-missing-workers-after-a-deadly-candy-factory-fire/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-24-st-louis-drabina-awaria",
+   "data": "2026-11-23",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "ST. LOUIS - AWARIA DRABINY",
+   "tytul": "Z drabiny mechanicznej odpadł zestaw z działkiem wodnym. Strażaka uratowała uprząż",
+   "zajawka": "Podczas pożaru pustego kościoła w St. Louis oderwał się zespół rurociągu wodnego i działko na szczycie drabiny.",
+   "tresc": [
+    "Strażak pracował na szczycie 125-stopowej drabiny Smeal z 2009 roku (jednostka rezerwowa), gdy zauważył, że zespół rurociągu wodnego i działka zaczyna się odrywać. Zawołał o natychmiastowe wyłączenie, ale zespół odpadł od drabiny.",
+    "Według komendanta straży Dennisa Jenkersona przed upadkiem uratowała go uprząż asekuracyjna. Pojazd niedawno przeszedł zewnętrzną inspekcję. Przyczyna awarii jest badana, może to potrwać od jednego do dwóch miesięcy."
+   ],
+   "wniosek": "Zaliczona inspekcja nie gwarantuje, że sprzęt wytrzyma pracę pod obciążeniem wody. Strażak na koszu jest ostatnią linią obrony.",
+   "praktyka": "Zawsze zakładaj uprząż asekuracyjną na drabinie, a po przeglądach rezerwowych pojazdów sprawdzaj połączenia nośne przed pierwszym użyciem. Komendę o wstrzymaniu pracy ćwicz tak, by działała bez dyskusji.",
+   "tematy": [
+    "drabina mechaniczna",
+    "sprzęt",
+    "asekuracja"
+   ],
+   "powiazane": [
+    "Prace niebezpieczne"
+   ],
+   "zrodla": [
+    [
+     "Fire Apparatus Magazine",
+     "https://www.fireapparatusmagazine.com/fire-apparatus/ladder-trucks/st-louis-investigates-failure-of-aerial-ladder-during-fire/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-22-trzcianka-pozar-domu",
    "data": "2026-11-22",
@@ -811,6 +901,17 @@
  ],
  "nowosci": [
   {
+   "tytul": "USA: baterie e-hulajnóg i e-rowerów z obowiązkowymi normami",
+   "tresc": "Senat USA przyjął 19 listopada 2026 ustawę H.R. 973, która czyni obowiązkowymi dotąd dobrowolne normy bezpieczeństwa baterii litowo-jonowych w e-rowerach, e-hulajnogach, deskorolkach i monocyklach. Według CPSC z takimi pożarami wiązano 533 ofiary w latach 2017-2024. To prawo amerykańskie, nie polskie.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "Fire & Safety Journal Americas",
+     "https://fireandsafetyjournalamericas.com/lithium-ion-battery-safety/"
+    ]
+   ]
+  },
+  {
    "tytul": "Robot gaśniczy w zwykłej miejskiej straży",
    "tresc": "Jednostka w Glinde (Niemcy) dostała obok dwóch nowych wozów robota gaśniczego. Roboty schodzą z dużych miast do mniejszych jednostek.",
    "etykieta": "MEDIA",
@@ -1006,6 +1107,17 @@
  ],
  "obserwuje": [
   {
+   "tytul": "Indonezja - pożar fabryki cukierków (Banten)",
+   "stan": "34 osoby zaginione, 26 worków ze szczątkami do identyfikacji. Pracownicy mówią, że alarm nie zadziałał. Przyczyna nieustalona, związki chcą audytu BHP.",
+   "ostatnio": "2026-11-23",
+   "zrodla": [
+    [
+     "Fire Engineering (AP)",
+     "https://www.fireengineering.com/firefighting/indonesian-rescuers-race-to-find-34-missing-workers-after-a-deadly-candy-factory-fire/"
+    ]
+   ]
+  },
+  {
    "tytul": "North Royalton (Ohio) - śmierć strażaka Ryana Milligana",
    "stan": "Pożar 2.11.2026, MAYDAY w piwnicy. Czekamy na raporty NIOSH i stanowego Urzędu Marszałka Pożarowego. Zakres akcji ratowników z Seven Hills opisany, przyczyny śmierci jeszcze nie ogłoszono.",
    "ostatnio": "2026-11-22",
@@ -1024,17 +1136,6 @@
     [
      "Fire Engineering",
      "https://www.fireengineering.com/fire-safety/me-lumber-company-faces-54k-in-fines-over-deadly-blast/"
-    ]
-   ]
-  },
-  {
-   "tytul": "Nisko - dlaczego zginęło dwóch strażaków",
-   "stan": "Pożar magazynu 16.10.2026, roty nadały sygnał RATUNEK. Przyczyna i przebieg nie są jeszcze oficjalnie ustalone.",
-   "ostatnio": "2026-10-17",
-   "zrodla": [
-    [
-     "Polsat News",
-     "https://www.polsatnews.pl/wiadomosc/2026-10-17/strazacy-nadali-sygnal-ratunek-nowe-informacje-po-tragedii-w-nisku/"
     ]
    ]
   },
@@ -1095,6 +1196,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Co zrobić, gdy ogień siedzi głęboko w hałdzie złomu lub odpadów?",
+   "o": "Rozebrać składowisko ciężkim sprzętem (żurawie z chwytakami, koparki) i dogaszać warstwami. Sama woda z góry nie dociera do zarzewi.",
+   "data": "2026-11-24"
+  },
+  {
+   "p": "Co sprawdzić poza samą ewakuacją, żeby ćwiczenia ewakuacyjne miały sens?",
+   "o": "Czy sygnał alarmowy faktycznie włącza się i jest słyszalny na każdym piętrze, np. w hali produkcyjnej.",
+   "data": "2026-11-24"
+  },
   {
    "p": "Dlaczego pożar lasu może wrócić po kilku dniach od ugaszenia?",
    "o": "Bo ogień potrafi tlić się głęboko w korzeniach i ściółce, niewidoczny na powierzchni. Wiatr wznieca go na nowo. Według AP tak było z pożarem Palisades (1 i 7 stycznia 2025).",

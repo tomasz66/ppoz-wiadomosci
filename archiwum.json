@@ -35,7 +35,20 @@
  "nowosci": [],
  "badania": [],
  "baterie": [],
- "obserwuje": [],
+ "obserwuje": [
+  {
+   "tytul": "Nisko - dlaczego zginęło dwóch strażaków",
+   "stan": "Pożar magazynu 16.10.2026, roty nadały sygnał RATUNEK. Przyczyna i przebieg nie są jeszcze oficjalnie ustalone.",
+   "ostatnio": "2026-10-17",
+   "zrodla": [
+    [
+     "Polsat News",
+     "https://www.polsatnews.pl/wiadomosc/2026-10-17/strazacy-nadali-sygnal-ratunek-nowe-informacje-po-tragedii-w-nisku/"
+    ]
+   ],
+   "zarchiwizowano": "2026-11-24"
+  }
+ ],
  "terminy": [],
  "przeglad_pigulka": []
 }
