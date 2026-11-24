@@ -1,14 +1,302 @@
 {
- "aktualizacja": "2026-11-24T05:12+00:00",
+ "aktualizacja": "2026-11-24T15:09+00:00",
  "wpisy": [
   {
-   "zrodlo": "Strazacki.pl",
+   "zrodlo": "Remiza.pl",
    "kraj": "PL",
    "typ": "akcje",
-   "tytul": "Koniec z jednakowym zakresem zadań dla każdej OSP? Co zmienia profilowanie OSP?",
-   "link": "https://strazacki.pl/wiadomosci/koniec-z-jednakowym-zakresem-zadan-dla-kazdej-osp-co-zmienia-profilowanie-osp/",
-   "data": "2026-11-24T04:39+00:00",
-   "opis": "Strażacy ochotnicy mogą stanąć przed dużą zmianą. Państwowa Straż Pożarna rozwija koncepcję profilowania OSP, która zakłada przypisanie wybranym jednostkom konkretnych specjalizacji. W praktyce oznacza to nowe obowiązki: od ewakuacji mieszkańców, przez dostarc"
+   "tytul": "Karetka z pacjentką utknęła na oblodzonej drodze w Mesznej",
+   "link": "https://remiza.pl/karetka-z-pacjentka-utknela-na-oblodzonej-drodze-w-mesznej/",
+   "data": "2026-11-24T14:19+00:00",
+   "opis": "Trudne warunki drogowe utrudniły pracę zespołu ratownictwa medycznego. Do pomocy wezwano strażaków, a transport pacjentki do szpitala przejęła druga karetka."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "More on Stock Rigs, Preconstruction Meetings",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/more-on-stock-rigs-preconstruction-meetings/",
+   "data": "2026-11-24T13:18+00:00",
+   "opis": "This episode offers practical considerations for fire departments planning their next apparatus purchase."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "PUMP OPERATOR CRUSHED BY FALLING WALL AT FURNITURE FACTORY FIRE – BERKEY & GAY FURNITURE COMPANY FIRE – GRAND RAPIDS, MICHIGAN – NOVEMBER 24, 1943",
+   "link": "https://www.firefighterclosecalls.com/pump-operator-crushed-by-falling-wall-at-furniture-factory-fire-berkey-gay-furniture-company-fire-grand-rapids-michigan-november-24-1943/",
+   "data": "2026-11-24T13:00+00:00",
+   "opis": "Pump Operator Crushed by Falling Wall at Furniture Factory Fire – Berkey &#38; Gay Furniture Company Fire – Grand Rapids, Michigan – November 24, 1943 Submitted by Rick DeGroot On November 24, 1943, Grand Rapids Fireman Louis Coleman of Engine 12 died from the"
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Hong Kong advances fire safety reforms following Tai Po fire",
+   "link": "https://internationalfireandsafetyjournal.com/asia-fire-safety-reforms/",
+   "data": "2026-11-24T12:58+00:00",
+   "opis": "Chief Executive John Lee has called for fire safety reforms and tighter oversight of building maintenance projects as the Government progresses reforms following the Wang Fuk Court fire Hong Kong’s Government has outlined progress on a series of systemic refor"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "OSP Janów Podlaski wygrała w sądzie. Karty nadal zablokowane",
+   "link": "https://remiza.pl/osp-janow-podlaski-wygrala-w-sadzie-karty-nadal-zablokowane/",
+   "data": "2026-11-24T12:56+00:00",
+   "opis": "Sąd stwierdził nieważność zarządzenia dotyczącego gospodarki paliwowej, ale strażacy z OSP Janów Podlaski nadal nie mogą korzystać z kart flotowych. Burmistrz odmawia ich odblokowania, wskazując między innymi na brak umowy z jednostką. Tymczasem jego zastępca "
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "NFFF aligns Memorial criteria with federal cancer standard",
+   "link": "https://fireandsafetyjournalamericas.com/nfff-cancer-standard/",
+   "data": "2026-11-24T12:39+00:00",
+   "opis": "The National Fallen Firefighters Foundation has revised its eligibility criteria for recognising firefighters who die from occupational cancer, with the new standard applying from May 2028 The National Fallen Firefighters Foundation (NFFF) has revised its crit"
+  },
+  {
+   "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
+   "kraj": "NL",
+   "typ": "badania",
+   "tytul": "Ammoniak vraagt om voorbereiding op risico’s in de hele keten",
+   "link": "https://nipv.nl/nieuws/ammoniak-vraagt-om-voorbereiding-op-risicos-in-de-hele-keten",
+   "data": "2026-11-24T12:30+00:00",
+   "opis": "De mogelijke groei van ammoniak als energiedrager maakt een goede voorbereiding op incidenten belangrijker. Niet omdat de risico’s nieuw zijn, maar omdat grote incidenten vaker kunnen voorkomen. Het bericht Ammoniak vraagt om voorbereiding op risico&#8217;s in"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Fünf Tote in Wohnung: CO-Warnmelder lösen bereits bei Türöffnung aus",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034",
+   "data": "2026-11-24T12:27+00:00",
+   "opis": "Kehl (BW) – Nach einer Türöffnung im Ortenaukreis haben Einsatzkräfte am Montag fünf Tote in einer Wohnung gefunden. Kaum hatten Feuerwehrangehörige die Tür geöffnet, schlugen deren Kohlenmonoxid-Warnmelder an. Wegen der Gasbelastung musste die ..."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "BATTALION CHIEF ON LEAVE AFTER FIRING TRAINING ROUNDS DURING ROPE RESCUE CLASS – FLORIDA",
+   "link": "https://www.firefighterclosecalls.com/battalion-chief-on-leave-after-firing-training-rounds-during-rope-rescue-class-florida/",
+   "data": "2026-11-24T12:18+00:00",
+   "opis": "ST. JOHNS COUNTY, Fla. — A St. Johns County Fire Rescue battalion chief is on paid leave and under investigation after an internal incident report says he fired two rounds from a gun near firefighters during an October training session. Action News Jax’s Ben B"
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "A Blast at a Hot Pot Eatery in Vietnam’s Capital Hanoi Kills Six and Injures More Than a Dozen",
+   "link": "https://www.fireengineering.com/firefighting/a-blast-at-a-hot-pot-eatery-in-vietnams-capital-hanoi-kills-six-and-injures-more-than-a-dozen/",
+   "data": "2026-11-24T12:04+00:00",
+   "opis": "An explosion at a Hanoi hot pot eatery, likely caused by a gas leak, killed six, injured over 14, damaged nearby homes, and left residents displaced."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "San Jose (CA) Resident, Firefighter Injured in Two-Alarm House Fire",
+   "link": "https://www.fireengineering.com/firefighting/san-jose-ca-resident-firefighter-injured-in-two-alarm-house-fire/",
+   "data": "2026-11-24T12:02+00:00",
+   "opis": "A two-alarm house fire in San Jose injured a resident and firefighter, who were hospitalized with non-life-threatening injuries."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Two Killed in WA House Fire",
+   "link": "https://www.fireengineering.com/firefighting/two-killed-in-wa-house-fire/",
+   "data": "2026-11-24T11:53+00:00",
+   "opis": "Two people in their 60s died in an Aberdeen house fire."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Ruszyły wybory do Samorządu Studenckiego Akademii Pożarniczej",
+   "link": "https://remiza.pl/ruszyly-wybory-do-samorzadu-studenckiego-akademii-pozarniczej/",
+   "data": "2026-11-24T11:47+00:00",
+   "opis": "W Akademii Pożarniczej rozpoczęły się wybory do samorządu, który reprezentuje społeczność studencką wobec władz uczelni."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "THREE FIREFIGHTERS INJURED AT ROW HOUSE FIRE – PENNSLYVANIA",
+   "link": "https://www.firefighterclosecalls.com/three-firefighters-injured-at-row-house-fire-pennslyvania/",
+   "data": "2026-11-24T11:38+00:00",
+   "opis": "Charred and broken roofs, and boarded-up windows Monday served as a visual reminder of a fire that devastated half a block of row homes in Allentown just 24 hours earlier. Seven homes on the 700 block of Tilghman Street contained significant structural damage "
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Moving Water: Standardization and Rural Firefighting",
+   "link": "https://www.fireapparatusmagazine.com/podcasts/moving-water-standardization-and-rural-firefighting/",
+   "data": "2026-11-24T11:33+00:00",
+   "opis": "This episode explores the role of apparatus and equipment standardization in rural firefighting."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Downed Power Line Hindered Rescue in OH LODD Fire",
+   "link": "https://www.fireengineering.com/firefighting/downed-power-line-hindered-rescue-of-north-royalton-oh-firefighters/",
+   "data": "2026-11-24T11:07+00:00",
+   "opis": "Firefighters battled a Broadview Heights house fire where two North Royalton firefighters were trapped, leaving one fatally injured."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Fire Destroys Six Hotels in Zanzibar’s Popular Nungwi Beach Area",
+   "link": "https://www.fireengineering.com/firefighting/fire-destroys-six-hotels-in-zanzibars-popular-nungwi-beach-area/",
+   "data": "2026-11-24T11:04+00:00",
+   "opis": "A fire on Zanzibar’s Nungwi Beach engulfed six hotels, injuring workers and forcing about 180 tourists to evacuate."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "US Congress passes bill to strengthen lithium-ion battery safety",
+   "link": "https://internationalfireandsafetyjournal.com/bill-battery-safety/",
+   "data": "2026-11-24T11:04+00:00",
+   "opis": "The bipartisan legislation will require mandatory federal battery safety standards for lithium-ion batteries used in e-bikes, e-scooters and other micromobility devices, aiming to reduce fire risks to communities and firefighters The US Congress has passed leg"
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Fire Closes Boston Restaurant",
+   "link": "https://www.fireengineering.com/firefighting/fire-closes-boston-restaurant/",
+   "data": "2026-11-24T11:01+00:00",
+   "opis": "A two-alarm fire caused heavy damage to Michelin-recommended Bar Volpe in Boston."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Advanced acquires Baldwin Boxall to expand life-safety offering",
+   "link": "https://internationalfireandsafetyjournal.com/advanced-buys-baldwin-boxall/",
+   "data": "2026-11-24T10:59+00:00",
+   "opis": "The acquisition brings together Advanced’s fire detection expertise with Baldwin Boxall’s specialist voice alarm and emergency communication systems, strengthening its integrated life-safety portfolio Advanced, a provider of fire detection and life-safety syst"
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Two Dead in Seminole (FL) House Fire",
+   "link": "https://www.fireengineering.com/firefighting/two-dead-in-seminole-fl-house-fire/",
+   "data": "2026-11-24T10:58+00:00",
+   "opis": "Two elderly people were found dead after a fire at a home in Seminole's Chateaux de Bardmoor community."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Fire safety training for emerging risks",
+   "link": "https://internationalfireandsafetyjournal.com/fire-safety-training/",
+   "data": "2026-11-24T10:56+00:00",
+   "opis": "Britannia Fire Managing Director Andy Spence explains how the company is expanding its fire safety training programme through FIA-certified CPD courses, factory visits and immersive technology to help professionals address emerging industry challenges The fire"
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Lynnfield (MA) Cuts Ribbon for Renovated Town Facilities, Including Fire Station",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/lynnfield-ma-cuts-ribbon-for-renovated-town-facilities-including-fire-station/",
+   "data": "2026-11-24T10:55+00:00",
+   "opis": "Lynnfield officials marked the completion of Town Hall, police, and fire station renovations."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Chesapeake (VA) Breaks Ground on New Public Safety Training Facility",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/chesapeake-va-breaks-ground-on-new-public-safety-training-facility/",
+   "data": "2026-11-24T10:52+00:00",
+   "opis": "Chesapeake broke ground on a $150 million public safety training academy, set to open in 2029 and replace aging police, fire, and sheriff training facilities."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Henry County (VA) Supervisors Weigh $1.1M Apparatus Purchase",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/henry-county-va-supervisors-weigh-1-1m-apparatus-purchase/",
+   "data": "2026-11-24T10:48+00:00",
+   "opis": "Henry County supervisors will consider buying a $1.14 million fire truck, along with other budget and county business."
+  },
+  {
+   "zrodlo": "Fire Apparatus Magazine",
+   "kraj": "USA",
+   "typ": "sprzet",
+   "tytul": "Spencer Builds Rescue-Pumper for Blackshear (GA) Fire Department",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/spencer-builds-rescue-pumper-for-blackshear-ga-fire-department/",
+   "data": "2026-11-24T10:25+00:00",
+   "opis": "The Blackshear (GA) Fire Department wanted to replace a 2000 rescue-pumper, and went with Spencer Manufacturing Inc. for its new vehicle."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Zderzenie osobówki z ciężarówką na DK60. Tragiczne skutki",
+   "link": "https://remiza.pl/zderzenie-osobowki-z-ciezarowka-na-dk60-tragiczne-skutki/",
+   "data": "2026-11-24T09:58+00:00",
+   "opis": "Do tragicznego w skutkach wypadku doszło w nocy z poniedziałku na wtorek na drodze krajowej nr 60. Zginął młody mężczyzna."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Indonesia Factory Fire Death Toll Hits 26; Most Died Trying to Reach Emergency Exit",
+   "link": "https://www.fireengineering.com/fire-safety/indonesia-factory-fire-death-toll-hits-26-most-died-trying-to-reach-emergency-exit/",
+   "data": "2026-11-24T09:44+00:00",
+   "opis": "A fire at an Indonesian candy factory killed 26 workers, mostly on the second floor near the emergency exit."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "NFFF aligns Memorial criteria with federal cancer standard",
+   "link": "https://internationalfireandsafetyjournal.com/nfff-federal-cancer-standard/",
+   "data": "2026-11-24T08:48+00:00",
+   "opis": "The National Fallen Firefighters Foundation has revised its eligibility criteria for recognising firefighters who die from occupational cancer, with the new standard applying from May 2028 The National Fallen Firefighters Foundation (NFFF) has revised its crit"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Śmiertelny wypadek w Warszówce. Zginęły dwie osoby",
+   "link": "https://remiza.pl/smiertelny-wypadek-w-warszowce-zginely-dwie-osoby/",
+   "data": "2026-11-24T08:18+00:00",
+   "opis": "Dwie osoby zginęły w wypadku drogowym w powiecie otwockim w województwie mazowieckim. Okoliczności zdarzenia ustalają policjanci pod nadzorem prokuratora."
+  },
+  {
+   "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
+   "kraj": "NL",
+   "typ": "badania",
+   "tytul": "Veel belangstelling voor industriële veiligheid op Brandweerevent 2026",
+   "link": "https://nipv.nl/nieuws/veel-belangstelling-voor-industriele-veiligheid-op-brandweerevent-2026",
+   "data": "2026-11-24T06:00+00:00",
+   "opis": "Ook dit jaar nam het LEC Industriële Veiligheid deel aan het Brandweerevent en waren zij met een stand op het Inspiratieplein vertegenwoordigd. Het bericht Veel belangstelling voor industriële veiligheid op Brandweerevent 2026 verscheen eerst op Nederlands Ins"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Innovationen für den Bevölkerungsschutz",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/innovationen-fuer-den-bevoelkerungsschutz-146027",
+   "data": "2026-11-24T05:59+00:00",
+   "opis": "München (BY) – Themen des Zivil- und Katastrophenschutzes sind zurück im Bewusstsein. Vielerorts beschäftigen sich Feuerwehren und andere Behörden und Organisationen mit Sicherheitsaufgaben (BOS) mit neuen Herausforderungen. In der bayerischen ..."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "THREE FIREFIGHTERS INJURED IN PENNSYLVANIA ROW HOME FIRE",
+   "link": "https://www.firefighterclosecalls.com/three-firefighters-injured-in-pennsylvania-row-home-fire/",
+   "data": "2026-11-24T05:12+00:00",
+   "opis": "Charred and broken roofs, and boarded-up windows Monday served as a visual reminder of a fire that devastated half a block of row homes in Allentown just 24 hours earlier. Seven homes on the 700 block of Tilghman Street contained significant structural damage "
   },
   {
    "zrodlo": "Fire Law Blog",
@@ -45,33 +333,6 @@
    "link": "https://www.firefighterclosecalls.com/three-chicago-firefighters-hurt-at-house-fire-illnois/",
    "data": "2026-11-23T23:35+00:00",
    "opis": "CHICAGO (WLS) &#8212; Three Chicago firefighters were hurt as they battled a house fire in the Back of the Yards neighborhood on Monday. Firefighters responded to a two-story house in the 4800-block of South Damen Avenue as they battled the fire at about 12:30"
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowy ciężki gaśniczy w OSP Kleszczów",
-   "link": "https://strazacki.pl/technika/nowy-ciezki-gasniczy-w-osp-kleszczow/",
-   "data": "2026-11-23T22:36+00:00",
-   "opis": "Artykuł Nowy ciężki gaśniczy w OSP Kleszczów pochodzi z serwisu Strazacki.pl portal o straży pożarnej ."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Amtrak Train Collides with Semi in Louisiana, Injuring Five",
-   "link": "https://www.fireengineering.com/technical-rescue/vehicle-extrication/amtrak-train-collides-with-semi-in-louisiana-injuring-five/",
-   "data": "2026-11-23T22:03+00:00",
-   "opis": "An Amtrak train carrying 95 passengers partially derailed after colliding with a semitruck carrying a bulldozer near Lafayette, LA, injuring five people with minor injuries reported."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Training, Strategy, and Tactics: From Operational Doctrine to Workflow",
-   "link": "https://www.fireengineering.com/firefighting/structural-firefighting/training-strategy-and-tactics-from-operational-doctrine-to-workflow/",
-   "data": "2026-11-23T20:12+00:00",
-   "opis": "Gerard Mann discusses how operational doctrine can be put into action on the fireground through training, strategy, and firefighting tactics."
   },
   {
    "zrodlo": "Fire Law Blog",
@@ -119,15 +380,6 @@
    "opis": "Marcin Górny i Mateusz Adamski zajęli drugie miejsce w jubileuszowym 50. Rajdzie Cieszyńska Barbórka. Strażacka załoga, startująca Renault Clio Rally3, przez znaczną część rywalizacji prowadziła w klasyfikacji generalnej, a o zwycięstwie zdecydował dopiero ost"
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Strażacy ze Świętoszowa ćwiczyli gaszenie pożaru cysterny i ewakuację rannych",
-   "link": "https://remiza.pl/strazacy-ze-swietoszowa-cwiczyli-gaszenie-pozaru-cysterny-i-ewakuacje-rannych/",
-   "data": "2026-11-23T16:16+00:00",
-   "opis": "Podczas manewrów GALLANT CHEETAH-26 strażacy z 10 Brygady Kawalerii Pancernej w Świętoszowie ćwiczyli prowadzenie akcji ratowniczej w lesie."
-  },
-  {
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
@@ -144,15 +396,6 @@
    "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehrmann-weckt-schlafenden-bewohner-in-verrauchter-wohnung-146017",
    "data": "2026-11-23T15:49+00:00",
    "opis": "Mainz (RP) – Auf dem Hof der Feuerwache 2 hat ein Feuerwehrmann am Sonntagmorgen einen Rauchwarnmelder aus einem Mehrfamilienhaus in der Nachbarstraße gehört und zugleich deutlichen Brandgeruch wahrgenommen. In der stark verrauchten ..."
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Pożar w gdańskim porcie – akcja strażaków trwa od soboty",
-   "link": "https://strazacki.pl/akcje/pozar-w-gdanskim-porcie-akcja-strazakow-trwa-od-soboty/",
-   "data": "2026-11-23T15:00+00:00",
-   "opis": "1400 metrów kwadratowych to powierzchnia pożaru, do którego doszło na terenie Portu Gdańsk. Akcja gaśnicza trwa od 21 listopada br. Tego dnia strażacy otrzymali zgłoszenie o pożarze hałdy złomu na placu zlokalizowanym pomiędzy ulicami Handlową i Chodackiego. W"
   },
   {
    "zrodlo": "International Fire & Safety Journal",
@@ -182,15 +425,6 @@
    "opis": "Pullman firefighters said limited staffing stretched emergency responders during a multiunit apartment fire."
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowy regulamin dla podchorążych Akademii Pożarniczej. Zmiany weszły w życie",
-   "link": "https://remiza.pl/nowy-regulamin-dla-podchorazych-akademii-pozarniczej-zmiany-weszly-w-zycie/",
-   "data": "2026-11-23T13:51+00:00",
-   "opis": "Rektor-Komendant Akademii Pożarniczej wydał nowe zarządzenie dotyczące regulaminu służby kandydackiej. Zastąpiło one dokument z 2024 roku."
-  },
-  {
    "zrodlo": "International Fire & Safety Journal",
    "kraj": "Świat",
    "typ": "technologie",
@@ -200,24 +434,6 @@
    "opis": "KiddeFenwal has received A2P System Certification from France’s CNPP for its NATURA™ inert gas fire suppression system, supporting its adoption across data centres, energy storage facilities and power generation applications. KiddeFenwal has secured Assurance "
   },
   {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Setki alarmów bez wyjazdu. Czy problem z wyjazdowością OSP jest coraz większy?",
-   "link": "https://strazacki.pl/wiadomosci/setki-alarmow-bez-wyjazdu-czy-problem-z-wyjazdowoscia-osp-jest-coraz-wiekszy/",
-   "data": "2026-11-23T13:16+00:00",
-   "opis": "Strażacki samochód stoi w garażu, syrena alarmowa wyje, ale brakuje ludzi, którzy mogliby ruszyć do akcji. To nie scenariusz filmu, lecz problem, z którym mierzą się ochotnicze straże pożarne. Na Warmii i Mazurach w ciągu jednego roku odnotowano aż 625 przypad"
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Nowe SWD dla PSP. Czy tym razem system nadąży za potrzebami strażaków?",
-   "link": "https://strazacki.pl/wiadomosci/nowe-swd-dla-psp-czy-tym-razem-system-nadazy-za-potrzebami-strazakow/",
-   "data": "2026-11-23T13:15+00:00",
-   "opis": "System, który ma wspierać przyjmowanie zgłoszeń, dysponowanie zastępów i koordynowanie akcji ratowniczych, przechodzi ważne zmiany. PSP stawia na nowe SWD, integrację danych i Moduł Świadomości Operacyjnej. To ambitny plan, ale pojawia się kluczowe pytanie: cz"
-  },
-  {
    "zrodlo": "Firefighter Close Calls",
    "kraj": "USA",
    "typ": "akcje",
@@ -225,15 +441,6 @@
    "link": "https://www.firefighterclosecalls.com/firefighter-injured-during-rapid-fire-progression-in-abandoned-structure-dies-six-days-later-atlanta-georgia-novemebr-23-2006-niosh-firefighter-fatality-report-f2007-02/",
    "data": "2026-11-23T13:15+00:00",
    "opis": "Firefighter Injured During Rapid Fire Progression in Abandoned Structure Dies Six Days Later – Atlanta, Georgia &#8211; November 23, 2006 &#8211; NIOSH Firefighter Fatality Report F2007-02 Submitted by Rick DeGroot On November 23, 2006, Atlanta Firefighter Ste"
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "FIRE LIEUTENANT KILLED IN BACKDRAFT DURING ROW HOUSE BASEMENT FIRE – BALTIMORE, MARYLAND – NOVEMBER 22, 1985",
-   "link": "https://www.firefighterclosecalls.com/fire-lieutenant-killed-in-backdraft-during-row-house-basement-fire-baltimore-maryland-november-22-1985/",
-   "data": "2026-11-23T13:00+00:00",
-   "opis": "Fire Lieutenant Killed in Backdraft During Row House Basement Fire – Baltimore, Maryland – November 22, 1985 Submitted by Rick DeGroot On November 22, 1985, Baltimore Fire Lieutenant Nelson K. Taylor of Engine 8 was caught in a backdraft while battling a fire "
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -252,33 +459,6 @@
    "link": "https://www.fireapparatusmagazine.com/fire-apparatus/ladder-trucks/st-louis-investigates-failure-of-aerial-ladder-during-fire/",
    "data": "2026-11-23T12:18+00:00",
    "opis": "A St. Louis firefighter escaped injury when an aerial ladder’s waterway assembly and master stream nozzle broke away during a fire response at a vacant church."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "PA Fire Damages Eight Row Homes, Displaces 42 Residents",
-   "link": "https://www.fireengineering.com/firefighting/pa-fire-damages-eight-row-homes-displaces-42-residents/",
-   "data": "2026-11-23T11:58+00:00",
-   "opis": "A fire damaged up to eight row homes in Allentown, displacing 42 people and causing multiple roof collapses."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Młody kierowca uderzył w słup. Był pijany",
-   "link": "https://remiza.pl/mlody-kierowca-uderzyl-w-slup-byl-pijany/",
-   "data": "2026-11-23T11:52+00:00",
-   "opis": "Uderzeniem w słup zakończył swoją podróż pewien 22-letni mężczyzna. Do zdarzenia doszło w miniony piątek w Gorzowie Wielkopolskim."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Indonesian Rescuers Race to Find 34 Missing Workers After a Deadly Candy Factory Fire",
-   "link": "https://www.fireengineering.com/firefighting/indonesian-rescuers-race-to-find-34-missing-workers-after-a-deadly-candy-factory-fire/",
-   "data": "2026-11-23T11:42+00:00",
-   "opis": "A deadly fire at a candy factory in Banten killed many workers and raised concerns about workplace safety standards and emergency preparedness."
   },
   {
    "zrodlo": "Fire & Safety Journal Americas",
@@ -308,15 +488,6 @@
    "opis": "Lawrence Township supervisors approved grant applications for three fire station generators and other municipal improvements."
   },
   {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Elkhart (IN) Borrows $45M for Construction of Public Safety Building",
-   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/elkhart-in-borrows-45m-for-construction-of-public-safety-building/",
-   "data": "2026-11-23T10:47+00:00",
-   "opis": "Elkhart City Council approved financing for a new consolidated Public Safety Center for police, fire, and 911 departments."
-  },
-  {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
    "typ": "technologie",
@@ -326,42 +497,6 @@
    "opis": "Flooding after wildfires can cause greater economic damage than the fires themselves, according to research examining the wider costs of U.S. wildfires. Researchers at the nonprofit Conservation Economics Institute analyzed studies covering 29 U.S. wildfires a"
   },
   {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Computer-Aided Dispatch Snags Delay New Spokane (WA) Fire Dispatch Center",
-   "link": "https://www.fireapparatusmagazine.com/equipment/radio-communication-tools/computer-aided-dispatch-snags-delay-new-spokane-wa-fire-dispatch-center/",
-   "data": "2026-11-23T10:38+00:00",
-   "opis": "Spokane's shift from county 911 to its own dispatch system is delayed at least three months."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Tribe Donates $500,000 Toward New Corning (CA) Ladder Truck",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/tribe-donates-500000-toward-new-corning-ca-ladder-truck/",
-   "data": "2026-11-23T10:34+00:00",
-   "opis": "The Paskenta Band of Nomlaki Indians gave Corning $500,000 to help buy a new aerial ladder for the Corning Volunteer Fire Department."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Homeowner, Repairman Burned When Furnace Explodes in NY",
-   "link": "https://www.fireengineering.com/firefighting/homeowner-repairman-burned-when-furnace-explodes-in-ny/",
-   "data": "2026-11-23T10:31+00:00",
-   "opis": "A furnace exploded in a Manlius home, causing burns to a homeowner and repairman."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Fire Rips Through Vacant Former CA School, Site of Another Fire in 2025",
-   "link": "https://www.fireengineering.com/firefighting/fire-rips-through-vacant-former-ca-school-site-of-another-fire-in-2025/",
-   "data": "2026-11-23T10:29+00:00",
-   "opis": "A vacant building at the former Carden School campus in Arden Arcade was destroyed by fire Sunday."
-  },
-  {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
    "typ": "technologie",
@@ -369,33 +504,6 @@
    "link": "https://fireandsafetyjournalamericas.com/conaf-satellite-data-wildfires/",
    "data": "2026-11-23T10:28+00:00",
    "opis": "Chile’s National Forestry Corporation (CONAF) is exploring the use of satellite information from the Chilean Air Force’s National Space Center (CEN) to strengthen wildfire prevention and response. CONAF officials and technical staff visited the center to asses"
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Arson Suspected in Fire at MA House that Injured Three Police Officers",
-   "link": "https://www.fireengineering.com/firefighting/arson-suspected-in-fire-at-ma-house-that-injured-three-police-officers/",
-   "data": "2026-11-23T10:27+00:00",
-   "opis": "Medford police arrested a suspect connected to an intentional arson at a Crescent Street home."
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Lithium-Ion Battery Suspected in NC Shredder Truck Fire",
-   "link": "https://www.fireengineering.com/firefighting/lithium-ion-battery-suspected-in-nc-shredder-truck-fire/",
-   "data": "2026-11-23T10:24+00:00",
-   "opis": "A lithium-ion battery likely caused a fire at a Lake Norman document shredding event."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Przy DK40 w Biedrzychowicach spłonął autokar",
-   "link": "https://remiza.pl/przy-dk40-w-biedrzychowicach-splonal-autokar/",
-   "data": "2026-11-23T10:17+00:00",
-   "opis": "Autokar turystyczny spłonął w nocy przy drodze krajowej nr 40 w Biedrzychowicach w powiecie prudnickim."
   },
   {
    "zrodlo": "Fire & Safety Journal Americas",
@@ -414,15 +522,6 @@
    "link": "https://internationalfireandsafetyjournal.com/12000-evacuated-from-concert/",
    "data": "2026-11-23T09:49+00:00",
    "opis": "More than 12,000 concertgoers were safely evacuated from Manchester&#8217;s Co-op Live arena after reports of people experiencing the effects of an unknown substance during a Don Toliver performance Emergency services evacuated more than 12,000 people from Man"
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Magazyn ochrony ludności w gminie – od czego zacząć inwestycję?",
-   "link": "https://remiza.pl/magazyn-ochrony-ludnosci-w-gminie-od-czego-zaczac-inwestycje/",
-   "data": "2026-11-23T08:00+00:00",
-   "opis": "Budowa lub adaptacja magazynu ochrony ludności to inwestycja, której funkcjonalność i koszty zależą od decyzji podjętych już na etapie planowania. Odpowiednie przygotowanie pozwala dostosować obiekt do lokalnych potrzeb, usprawnić przechowywanie zasobów i zape"
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -452,33 +551,6 @@
    "opis": "An in-depth examination into the wide-ranging economic costs US wildfires leave in their wake discovered the most expensive damage isn&#8217;t caused by flames, but by floods long after the fires have been extinguished. Researchers from the Conservation Econom"
   },
   {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "TWO FIREFIGHTERS DIE AFTER BEING OVERCOME BY SMOKE ON 20TH FLOOR OF HIGH-RISE BUILDING DURING FIVE-ALARM SUB-CELLAR FIRE – THE TIMES TOWER BUILDING – MANHATTAN, NEW YORK – NOVEMBER 22, 1961",
-   "link": "https://www.firefighterclosecalls.com/two-firefighters-die-after-being-overcome-by-smoke-on-20th-floor-of-high-rise-building-during-five-alarm-sub-cellar-fire-the-times-tower-building-mahattan-new-york-november-22-1961/",
-   "data": "2026-11-23T01:30+00:00",
-   "opis": "Two Firefighters Die After Being Overcome By Smoke on 20th Floor of High-Rise Building During Five-Alarm Sub-Cellar Fire – The Times Tower Building – Manhattan, New York – November 22, 1961 Submitted by Rick DeGroot On November 22, 1961, FDNY Firemen Charles L"
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "FIRE APPARATUS DESTROYED IN WILDFIRE DUE TO MECHANICAL FAILURE – NORTH CAROLINA",
-   "link": "https://www.firefighterclosecalls.com/fire-apparatus-destroyed-in-wildfire-due-to-mechanical-failure-north-carolina/",
-   "data": "2026-11-22T23:55+00:00",
-   "opis": "Two Bandys firefighters escaped injury as a wildfire switched directions toward them but the department lost a water tanker in the fire. Bandys firefighters responded Friday to a fire that was burning through three acres of broom straw near Maiden. &#8220;Duri"
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Flames Engulf Apparatus Protecting Home from Fast-Spreading NC Fire",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/flames-engulf-apparatus-protecting-home-from-fast-spreading-nc-fire/",
-   "data": "2026-11-22T16:36+00:00",
-   "opis": "A North Carolina brush fire burned six acres, threatened five homes and engulfed a fire department tanker truck in Catawba County. No injuries were reported, and the cause is unknown."
-  },
-  {
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
@@ -488,15 +560,6 @@
    "opis": "Hellertown is shifting fire and rescue service to Lower Saucon Fire Rescue Dec. 1 after 128 years with Dewey Fire Co., amid rising calls, fewer volunteers and sustainability concerns."
   },
   {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Powstanie nowa JRG w Krakowie – strażacy otrzymali działkę",
-   "link": "https://strazacki.pl/wiadomosci/powstanie-nowa-jrg-w-krakowie-strazacy-otrzymali-dzialke/",
-   "data": "2026-11-22T16:14+00:00",
-   "opis": "18 listopada br. Rada Miasta Krakowa podjęła decyzję o przekazaniu na rzecz Skarbu Państwa nieruchomości gruntowej położonej przy ul. Świętego Brata Alberta. Działka zostanie przeznaczona pod budowę nowej Jednostki Ratowniczo-Gaśniczej, podlegającej Komendzie "
-  },
-  {
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
@@ -504,33 +567,6 @@
    "link": "https://www.firefighternation.com/fire-leadership/fdny-brothers-who-led-rescue-at-brooklyn-ny-building-collapse-used-their-fathers-playbook/",
    "data": "2026-11-22T16:01+00:00",
    "opis": "FDNY crews used a five-step rescue plan after a Brooklyn building collapsed into a nearby construction site, killing eight people and injuring 17. Lawsuits allege negligence."
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Tragiczny bilans nocnego pożaru – nie żyją trzy osoby",
-   "link": "https://strazacki.pl/akcje/tragiczny-pozar-w-trzciance-zginely-trzy-osoby/",
-   "data": "2026-11-22T15:00+00:00",
-   "opis": "Trzy ofiary śmiertelne to tragiczny bilans pożaru, do którego doszło w nocy z 21 na 22 listopada br. w Trzciance. Zgłoszenie o zdarzeniu wpłynęło do służb ratunkowych po godzinie pierwszej w nocy. Pierwsze zastępy straży pożarnej, które dotarły na miejsce, pot"
-  },
-  {
-   "zrodlo": "Strazacki.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Syreny są, ale nie zawsze działają. Niepokojące dane o alarmowaniu OSP",
-   "link": "https://strazacki.pl/wiadomosci/syreny-sa-ale-nie-zawsze-dzialaja-niepokojace-dane-o-alarmowaniu-osp/",
-   "data": "2026-11-22T14:59+00:00",
-   "opis": "Ponad 22 tys. syren alarmowych znajduje się w polskim systemie ostrzegania ludności. Problem w tym, że miliony mieszkańców pozostają poza ich modelowanym zasięgiem, a część urządzeń nie pozwala na całodobowe zdalne uruchomienie. Modernizacja obejmuje również i"
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "FOUR FIREFIGHTERS KILLED IN FIRE COLLAPSE OF MERCANTILE BUILDING – DRY GOODS AND WOOLEN EXCHANGE BUILDING FIRE – CHICAGO, ILLINOIS – NOVEMBER 22, 1895",
-   "link": "https://www.firefighterclosecalls.com/four-firefighters-killed-in-fire-collapse-of-mercantile-building-dry-goods-and-woolen-exchange-building-fire-chicago-illinois-november-22-1895/",
-   "data": "2026-11-22T13:45+00:00",
-   "opis": "Four Firefighters Killed in Fire Collapse of Mercantile Building – Dry Goods and Woolen Exchange Building Fire – Chicago, Illinois – November 22, 1895 Submitted by Rick DeGroot On November 22, 1895, Lieutenant Patrick J. O’Donnell, Pipeman John Downs, Pipeman "
   },
   {
    "zrodlo": "Wildfire Today",
@@ -558,15 +594,6 @@
    "link": "https://www.firefighternation.com/training/ny-man-completes-nys-firefighter-training-program/",
    "data": "2026-11-21T17:00+00:00",
    "opis": "Kyle Monahan of Auburn graduated from New York's Recruit Firefighter Training program in Montour Falls, one of 32 firefighters from 16 departments to finish the 15-week course."
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "Ambulance Carrying Child Flips in Birmingham (AL) Crash",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/ambulances/ambulance-carrying-child-flips-in-birmingham-al-crash/",
-   "data": "2026-11-21T16:46+00:00",
-   "opis": "An ambulance carrying a child overturned in Birmingham after a pickup truck struck it Thursday. The child and two others were taken to hospitals."
   },
   {
    "zrodlo": "Edufire",
@@ -624,6 +651,7 @@
   }
  ],
  "bledy": [
+  "Strazacki.pl: TimeoutError",
   "Akademia Pożarnicza: URLError"
  ]
 }
