@@ -1,6 +1,150 @@
 {
- "aktualizacja": "2026-11-26T05:11+00:00",
+ "aktualizacja": "2026-11-26T14:13+00:00",
  "wpisy": [
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Cyfrowa zdrada. Dlaczego inteligentne magazyny energii to koń trojański w infrastrukturze krytycznej Twojego miasta",
+   "link": "https://remiza.pl/cyfrowa-zdrada-dlaczego-inteligentne-magazyny-energii-to-kon-trojanski-w-infrastrukturze-krytycznej-twojego-miasta-2/",
+   "data": "2026-11-26T13:20+00:00",
+   "opis": "Kupując systemy zasilania awaryjnego, samorządy i jednostki ochrony ludności coraz częściej sięgają po rozwiązania znane z rynku konsumenckiego (B2C)."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Rethinking Lithium-Ion Battery Fires on the Fireground",
+   "link": "https://www.fireengineering.com/fire-safety/podcast-rethinking-lithium-ion-battery-fires-on-the-fireground/",
+   "data": "2026-11-26T13:00+00:00",
+   "opis": "Adam Barowy and Nicole Sanders share how ULRI’s work is tackling this evolving fire risk."
+  },
+  {
+   "zrodlo": "Firefighter Close Calls",
+   "kraj": "USA",
+   "typ": "akcje",
+   "tytul": "FOUR FIREFIGHTERS KILLED IN BUILDING COLLAPSE DURING GROCERY WAREHOUSE FIRE – ALLEM BROTHERS WAREHOUSE FIRE – OMAHA, NEBRASKA – NOVEMBER 26, 1903",
+   "link": "https://www.firefighterclosecalls.com/four-firefighters-killed-in-building-collapse-during-grocery-warehouse-fire-allem-brothers-warehouse-fire-omaha-nebraska-november-26-1903/",
+   "data": "2026-11-26T13:00+00:00",
+   "opis": "Four Firefighters Killed in Building Collapse During Grocery Warehouse Fire – Allen Brothers Warehouse Fire – Omaha, Nebraska – November 26, 1903 Submitted by Rick DeGroot On Thanksgiving Day, November 26, 1903, Omaha, Nebraska Fire Lieutenant William Burmeste"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Duży pożar kamienicy w Policach. W akcji podnośnik z Grupy Azoty i drabina ze Szczecina",
+   "link": "https://remiza.pl/duzy-pozar-kamienicy-w-policach-w-akcji-podnosnik-z-grupy-azoty-i-drabina-ze-szczecina/",
+   "data": "2026-11-26T12:23+00:00",
+   "opis": "W czwartek rano strażacy zostali zadysponowani do pożaru opuszczonej kamienicy przy ulicy Wojska Polskiego w Policach."
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Mit gebrochenem Ruder zum Havaristen",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/mit-gebrochenem-ruder-zum-havaristen-146071",
+   "data": "2026-11-26T11:33+00:00",
+   "opis": "Borkum (NI) – Am 28. November 1951 übernahmen drei Seenotretter der Deutschen Gesellschaft zur Rettung Schiffbrüchiger (DGzRS) bei einem Orkan 13 Seeleute von einem auseinandergebrochenen englischen Dampfer. Ihr Motorrettungsboot war zu diesem ..."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "London Fire Brigade launches business fire safety checker",
+   "link": "https://internationalfireandsafetyjournal.com/business-fire-safety-checker/",
+   "data": "2026-11-26T10:41+00:00",
+   "opis": "London Fire Brigade has introduced a free online tool to help small and medium-sized businesses identify fire risks, understand their legal responsibilities and improve workplace fire safety London Fire Brigade (LFB) has launched a UK-first Business Safety Che"
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Wildfire groups call for funding accountability",
+   "link": "https://internationalfireandsafetyjournal.com/wildfire-funding-group/",
+   "data": "2026-11-26T10:38+00:00",
+   "opis": "Five US organisations have outlined shared principles calling for improved tracking of federal wildfire spending, more effective risk reduction and greater accountability for protecting communities The Alliance for Wildfire Resilience (AWR), alongside four par"
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Canine teams explore AI in missing persons searches",
+   "link": "https://internationalfireandsafetyjournal.com/ai-missing-persons-searches/",
+   "data": "2026-11-26T10:31+00:00",
+   "opis": "Around 20 dog-handler teams from across Italy will take part in two days of specialist training examining how canine scent detection, missing person profiling and artificial intelligence can support search operations Peschiera del Garda, Verona, Italy, will ho"
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "The changing face of fire safety training",
+   "link": "https://internationalfireandsafetyjournal.com/fire-safety-training-launch/",
+   "data": "2026-11-26T10:03+00:00",
+   "opis": "Matt Humby, Head of Client Support and Development at Britannia Fire, discusses the company&#8217;s new Fire Industry Association (FIA)-certified continuing professional development (CPD) courses, addressing emerging risks including PFAS, solar panels and lith"
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "CONAF deploys Hercules C-130 tanker aircraft for 2026-2027 wildfire season",
+   "link": "https://fireandsafetyjournalamericas.com/conaf-hercules-aircraft-wildfire/",
+   "data": "2026-11-26T09:59+00:00",
+   "opis": "Chile has introduced a Hercules C-130 airtanker capable of carrying 15,000 liters of water or fire retardant as part of its national aerial firefighting strategy for the 2026-2027 wildfire season. The aircraft was officially unveiled at an event attended by Pr"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Karta Rodziny Mundurowej budzi spór. Chodzi o leczenie poza kolejnością",
+   "link": "https://remiza.pl/karta-rodziny-mundurowej-budzi-spor-chodzi-o-leczenie-poza-kolejnoscia/",
+   "data": "2026-11-26T09:50+00:00",
+   "opis": "Wsparcie dla rodzin ponoszących ciężar służby czy przywilej kosztem pozostałych pacjentów? Karta Rodziny Mundurowej wywołała dyskusję, która wychodzi daleko poza środowisko służb. Największe emocje budzi pierwszeństwo w dostępie do leczenia, zwłaszcza objęcie "
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Fire safety equipment market to reach $86.24 billion by 2034",
+   "link": "https://fireandsafetyjournalamericas.com/fire-safety-equipment-market/",
+   "data": "2026-11-26T09:44+00:00",
+   "opis": "The global fire safety equipment market is forecast to reach $86.24 billion by 2034, with a compound annual growth rate (CAGR) of 7.3%, according to Polaris Market Research. The research firm points to growing adoption of intelligent fire safety systems that c"
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "SenseNet secures $43 million for US wildfire detection expansion",
+   "link": "https://fireandsafetyjournalamericas.com/sensenet-wildfire-detection-ai/",
+   "data": "2026-11-26T09:25+00:00",
+   "opis": "Wildfire detection company SenseNet has secured $43 million in Series B financing to expand its US and international operations and develop its wildfire intelligence platform. Idealist Capital led the financing, with participation from Fusion Fund, Stormbreake"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Intensywne opady mokrego śniegu na południu Polski. Strażacy w gotowości",
+   "link": "https://remiza.pl/intensywne-opady-mokrego-sniegu-na-poludniu-polski-strazacy-w-gotowosci/",
+   "data": "2026-11-26T08:47+00:00",
+   "opis": "Od czwartkowego popołudnia, 26 listopada, aż do południa w piątek nad południową Polską przejdzie rozległa strefa intensywnych opadów ciężkiego, mokrego śniegu."
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Brandschutz: Aufklärungskoffer für Senioren-Haushalte",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/brandschutz-aufklaerungskoffer-fuer-senioren-haushalte-146066",
+   "data": "2026-11-26T05:58+00:00",
+   "opis": "Werne (NW) – Für die Brandschutzaufklärung bei Menschen ab 60 Jahren hat die Freiwillige Feuerwehr Werne im Kreis Unna neues Material bekommen: einen „Brandschutzaufklärungskoffer Basis“. Hinter der Aktion stehen der Verband der Feuerwehren in ..."
+  },
+  {
+   "zrodlo": "Fire Engineering",
+   "kraj": "USA",
+   "typ": "taktyka",
+   "tytul": "Spokane-Run Fire Dispatch Delayed as WA City, County Trade Blame",
+   "link": "https://www.fireengineering.com/fire-safety/spokane-run-fire-dispatch-delayed-as-wa-city-county-trade-blame/",
+   "data": "2026-11-26T04:53+00:00",
+   "opis": "Spokane’s move to separate its fire dispatch from the regional 911 system faces a delay due to computer system and staffing issues, causing disputes over costs and responsibilities."
+  },
   {
    "zrodlo": "Fire Engineering",
    "kraj": "USA",
@@ -182,15 +326,6 @@
    "opis": "Structural Collapse During Auto Parts Store Fire Claims Lives of Three Firefighters – Coos Bay, Oregon – November 25, 2002 – NIOSH Firefighter Fatality Report F2002-50 Submitted by Rick DeGroot On November 25, 2002, Coos Bay Oregon Fire Lieutenant Randall Carp"
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Pożar na kominie Elektrociepłowni Siekierki. Ewakuowano sześciu pracowników",
-   "link": "https://remiza.pl/pozar-na-kominie-elektrocieplowni-siekierki-ewakuowano-szesciu-pracownikow/",
-   "data": "2026-11-25T12:13+00:00",
-   "opis": "Niebezpieczne zdarzenie na terenie warszawskiej Elektrociepłowni Siekierki. Na wyłączonym z eksploatacji kominie o wysokości około 180 metrów zapaliła się siatka zabezpieczająca."
-  },
-  {
    "zrodlo": "Fire Apparatus Magazine",
    "kraj": "USA",
    "typ": "sprzet",
@@ -207,15 +342,6 @@
    "link": "https://www.fireapparatusmagazine.com/equipment/south-thomaston-me-says-crew-discharged-residual-firefighting-foam-in-neighboring-town/",
    "data": "2026-11-25T11:48+00:00",
    "opis": "South Thomaston said a small residual amount of firefighting foam was discharged in Owls Head after the foam was accidentally introduced into a fire truck's tank during an inspection."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Pożar hali pod Kielcami. Trwa akcja strażaków",
-   "link": "https://remiza.pl/pozar-hali-pod-kielcami-trwa-akcja-strazakow/",
-   "data": "2026-11-25T11:18+00:00",
-   "opis": "W miejscowości Nowiny pod Kielcami płonie hala. Na miejsce dysponowane są okoliczne jednostki straży pożarnej."
   },
   {
    "zrodlo": "Fire & Safety Journal Americas",
@@ -243,15 +369,6 @@
    "link": "https://www.fireengineering.com/firefighting/two-differing-rescue-accounts-one-firefighter-lodd-oh/",
    "data": "2026-11-25T10:56+00:00",
    "opis": "Conflicting accounts from two fire chiefs about the rescue of trapped firefighters raise unresolved questions about procedures and command decisions in the death of Ryan Milligan."
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Ochotnicy z Gniewkowa dostali używany podnośnik",
-   "link": "https://remiza.pl/ochotnicy-z-gniewkowa-dostali-uzywany-podnosnik/",
-   "data": "2026-11-25T10:54+00:00",
-   "opis": "Ochotnicza Straż Pożarna w Gniewkowie w ramach umowy użyczenia otrzymała używany samochód specjalny z podnośnikiem."
   },
   {
    "zrodlo": "Fire Apparatus Magazine",
@@ -299,15 +416,6 @@
    "opis": "The Society of Fire Protection Engineers (SFPE) announces six new board-appointed members to its Subcommittee on Standards Oversight (SCSO). Morgan Hurley, PE, PMSFPE, Vice President of U.S. Operations at Senez Consulting and a Fellow of SFPE, will serve as Ch"
   },
   {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Firefighters Extinguish 16th-Floor Fire at Waikiki (HI) High-Rise",
-   "link": "https://www.fireengineering.com/firefighting/firefighters-extinguish-16th-floor-fire-at-waikiki-hi-high-rise/",
-   "data": "2026-11-25T10:02+00:00",
-   "opis": "Honolulu firefighters responded to a fire at Marine Surf Waikiki."
-  },
-  {
    "zrodlo": "International Fire & Safety Journal",
    "kraj": "Świat",
    "typ": "technologie",
@@ -315,15 +423,6 @@
    "link": "https://internationalfireandsafetyjournal.com/lafd-fire-in-57-minutes/",
    "data": "2026-11-25T10:02+00:00",
    "opis": "77 firefighters from Los Angeles Fire Department (LAFD) have extinguished a fire at a three-storey mixed-use building, preventing flames from spreading to the residential apartments above The Los Angeles Fire Department (LAFD) has extinguished a fire at a thre"
-  },
-  {
-   "zrodlo": "Fire Engineering",
-   "kraj": "USA",
-   "typ": "taktyka",
-   "tytul": "Crews Battle Fire at MA Electronics Recycling Warehouse",
-   "link": "https://www.fireengineering.com/firefighting/crews-battling-fire-at-ma-electronics-recycling-warehouse/",
-   "data": "2026-11-25T09:59+00:00",
-   "opis": "A fire broke out at the eWaste Solutions electronic recycling facility in Plymouth."
   },
   {
    "zrodlo": "CNBOP-PIB",
@@ -360,15 +459,6 @@
    "link": "https://fireandsafetyjournalamericas.com/conaf-chile-wildfire-protection/",
    "data": "2026-11-25T09:36+00:00",
    "opis": "Chile’s National Forestry Corporation (CONAF) has outlined wildfire protection plans for Valparaíso, Atacama and protected areas in Ñuble ahead of the 2026–2027 summer season, combining firefighting resources with prevention, surveillance and evacuation measur"
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "45 lat od strajku w Wyższej Oficerskiej Szkole Pożarniczej",
-   "link": "https://remiza.pl/45-lat-od-strajku-w-wyzszej-oficerskiej-szkole-pozarniczej/",
-   "data": "2026-11-25T09:34+00:00",
-   "opis": "45 lat temu, w nocy z 24 na 25 listopada 1981 roku rozpoczął się strajk w Wyższej Oficerskiej Szkole Pożarniczej w Warszawie. Przez wielu to wydarzenie jest uważane za przygrywkę do stanu wojennego."
   },
   {
    "zrodlo": "International Fire & Safety Journal",
@@ -437,19 +527,19 @@
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
-   "tytul": "Developer Wants Stratford (CT) to Put Focus on Housing for First Responders, Teachers",
-   "link": "https://www.firefighternation.com/fire-leadership/retention/developer-wants-stratford-ct-to-put-focus-on-housing-for-first-responders-teachers/",
+   "tytul": "Crews Battling Fire at MA Electronics Recycling Warehouse",
+   "link": "https://www.firefighternation.com/firefighting/crews-battling-fire-at-ma-electronics-recycling-warehouse/",
    "data": "2026-11-24T19:00+00:00",
-   "opis": "A Stratford developer urged planners to amend the town plan to allow housing for first responders and teachers, but the Planning Commission took no vote."
+   "opis": "Crews battled an overnight fire at eWaste Solutions, an electronic waste and recycling facility in Plymouth."
   },
   {
    "zrodlo": "Firefighter Nation",
    "kraj": "USA",
    "typ": "taktyka",
-   "tytul": "Crews Battling Fire at MA Electronics Recycling Warehouse",
-   "link": "https://www.firefighternation.com/firefighting/crews-battling-fire-at-ma-electronics-recycling-warehouse/",
+   "tytul": "Developer Wants Stratford (CT) to Put Focus on Housing for First Responders, Teachers",
+   "link": "https://www.firefighternation.com/fire-leadership/retention/developer-wants-stratford-ct-to-put-focus-on-housing-for-first-responders-teachers/",
    "data": "2026-11-24T19:00+00:00",
-   "opis": "Crews battled an overnight fire at eWaste Solutions, an electronic waste and recycling facility in Plymouth."
+   "opis": "A Stratford developer urged planners to amend the town plan to allow housing for first responders and teachers, but the Planning Commission took no vote."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -533,24 +623,6 @@
    "opis": "Pump Operator Crushed by Falling Wall at Furniture Factory Fire – Berkey &#38; Gay Furniture Company Fire – Grand Rapids, Michigan – November 24, 1943 Submitted by Rick DeGroot On November 24, 1943, Grand Rapids Fireman Louis Coleman of Engine 12 died from the"
   },
   {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Hong Kong advances fire safety reforms following Tai Po fire",
-   "link": "https://internationalfireandsafetyjournal.com/asia-fire-safety-reforms/",
-   "data": "2026-11-24T12:58+00:00",
-   "opis": "Chief Executive John Lee has called for fire safety reforms and tighter oversight of building maintenance projects as the Government progresses reforms following the Wang Fuk Court fire Hong Kong’s Government has outlined progress on a series of systemic refor"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "NFFF aligns Memorial criteria with federal cancer standard",
-   "link": "https://fireandsafetyjournalamericas.com/nfff-cancer-standard/",
-   "data": "2026-11-24T12:39+00:00",
-   "opis": "The National Fallen Firefighters Foundation has revised its eligibility criteria for recognising firefighters who die from occupational cancer, with the new standard applying from May 2028 The National Fallen Firefighters Foundation (NFFF) has revised its crit"
-  },
-  {
    "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
    "kraj": "NL",
    "typ": "badania",
@@ -596,33 +668,6 @@
    "opis": "This episode explores the role of apparatus and equipment standardization in rural firefighting."
   },
   {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "US Congress passes bill to strengthen lithium-ion battery safety",
-   "link": "https://internationalfireandsafetyjournal.com/bill-battery-safety/",
-   "data": "2026-11-24T11:04+00:00",
-   "opis": "The bipartisan legislation will require mandatory federal battery safety standards for lithium-ion batteries used in e-bikes, e-scooters and other micromobility devices, aiming to reduce fire risks to communities and firefighters The US Congress has passed leg"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Advanced acquires Baldwin Boxall to expand life-safety offering",
-   "link": "https://internationalfireandsafetyjournal.com/advanced-buys-baldwin-boxall/",
-   "data": "2026-11-24T10:59+00:00",
-   "opis": "The acquisition brings together Advanced’s fire detection expertise with Baldwin Boxall’s specialist voice alarm and emergency communication systems, strengthening its integrated life-safety portfolio Advanced, a provider of fire detection and life-safety syst"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Fire safety training for emerging risks",
-   "link": "https://internationalfireandsafetyjournal.com/fire-safety-training/",
-   "data": "2026-11-24T10:56+00:00",
-   "opis": "Britannia Fire Managing Director Andy Spence explains how the company is expanding its fire safety training programme through FIA-certified CPD courses, factory visits and immersive technology to help professionals address emerging industry challenges The fire"
-  },
-  {
    "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
    "kraj": "NL",
    "typ": "badania",
@@ -639,15 +684,6 @@
    "link": "https://www.feuerwehrmagazin.de/nachrichten/innovationen-fuer-den-bevoelkerungsschutz-146027",
    "data": "2026-11-24T05:59+00:00",
    "opis": "München (BY) – Themen des Zivil- und Katastrophenschutzes sind zurück im Bewusstsein. Vielerorts beschäftigen sich Feuerwehren und andere Behörden und Organisationen mit Sicherheitsaufgaben (BOS) mit neuen Herausforderungen. In der bayerischen ..."
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "THREE FIREFIGHTERS INJURED IN PENNSYLVANIA ROW HOME FIRE",
-   "link": "https://www.firefighterclosecalls.com/three-firefighters-injured-in-pennsylvania-row-home-fire/",
-   "data": "2026-11-24T05:12+00:00",
-   "opis": "Charred and broken roofs, and boarded-up windows Monday served as a visual reminder of a fire that devastated half a block of row homes in Allentown just 24 hours earlier. Seven homes on the 700 block of Tilghman Street contained significant structural damage "
   },
   {
    "zrodlo": "Fire Law Blog",
@@ -668,51 +704,6 @@
    "opis": "In this episode of Fire Law Roundup for November 23, 2026, Brad and Curt discuss an Indiana appellate decision reversing a $307,606 back pay award to a former fire captain; an FLSA overtime lawsuit filed by three Baltimore firefighters; a suit filed by a forme"
   },
   {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Feuerwehrmann weckt Bewohner in verrauchter Wohnung",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehrmann-weckt-schlafenden-bewohner-in-verrauchter-wohnung-146017",
-   "data": "2026-11-23T15:49+00:00",
-   "opis": "Mainz (RP) – Auf dem Hof der Feuerwache 2 hat ein Feuerwehrmann am Sonntagmorgen einen Rauchwarnmelder aus einem Mehrfamilienhaus in der Nachbarstraße gehört und zugleich deutlichen Brandgeruch wahrgenommen. In der stark verrauchten ..."
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Einfamilienhaus brennt nieder, vermisste Person tot geborgen",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/einfamilienhaus-brennt-nieder-vermisste-person-tot-geborgen-146011",
-   "data": "2026-11-23T12:49+00:00",
-   "opis": "Granstedt (NI) – Ein Einfamilienhaus im Selsinger Ortsteil Granstedt im Kreis Rotenburg (Wümme) ist in der Nacht zu Montag niedergebrannt. Die Feuerwehr konnte wegen der Gefahr für die Einsatzkräfte nur von außen löschen. Im Gebäude wurde ..."
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Man convicted of starting 2025 Palisades Fire",
-   "link": "https://fireandsafetyjournalamericas.com/palisades-fire-conviction/",
-   "data": "2026-11-23T11:13+00:00",
-   "opis": "A federal jury has convicted Jonathan Rinderknecht of setting the blaze that developed into the deadly 2025 Palisades Fire in Los Angeles and Malibu. Rinderknecht, 30, was found guilty Friday following a retrial. Prosecutors said a fire he lit on January 1, 20"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Congress passes lithium-ion battery safety bill for e-bikes and e-scooters",
-   "link": "https://fireandsafetyjournalamericas.com/lithium-ion-battery-safety/",
-   "data": "2026-11-23T10:56+00:00",
-   "opis": "Congress has passed legislation that would make voluntary safety standards mandatory for lithium-ion batteries used in micromobility devices, including e-bikes and e-scooters. The U.S. Senate passed the Setting Consumer Standards for Lithium-Ion Batteries Act "
-  },
-  {
-   "zrodlo": "Edufire",
-   "kraj": "PL",
-   "typ": "szkolenia",
-   "tytul": "Współczesne zagrożenia pożarowe, zdrowie ratowników i rola edukacji – Łukasz Łaciok w podcaście „Laboratorium Bezpieczeństwa” – Centrum Naukowo Badawcze Ochrony Przeciwpożarowej im. Józefa Tuliszkowskiego – Państwowy Instytut Badawczy",
-   "link": "https://edufire.pl/wspolczesne-zagrozenia-pozarowe-zdrowie-ratownikow-i-rola-edukacji-lukasz-laciok-w-podcascie-laboratorium-bezpieczenstwa-centrum-naukowo-badawcze-ochrony-przeciwpozarowe/",
-   "data": "2026-11-12T05:15+00:00",
-   "opis": "Jak zmieniają się współczesne zagrożenia pożarowe i czy ratownicy są przygotowani na nowe wyzwania? Dlaczego doskonalenie zawodowe nie powinno być jedynie formalnością? I wreszcie – co każdy strażak może zrobić, aby skuteczniej zadbać o własne zdrowie i bezpie"
-  },
-  {
    "zrodlo": "Przegląd Pożarniczy (KG PSP)",
    "kraj": "PL",
    "typ": "wiedza",
@@ -720,6 +711,15 @@
    "link": "https://www.ppoz.pl/aktualne-wydanie/index/Termowizja-w-PSP/idn:3484",
    "data": "2026-11-02T12:44+00:00",
    "opis": "Kamery termowizyjne stały się powszechne w pożarnictwie już kilkanaście lat temu. Dzisiaj stanowią podstawowe wyposażenie wszystkich JRG w Polsce i wielu jednostek OSP. Jaka była historia termowizji?9 lutego 2026 r. komendant główny PSP"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Raj w ogniu albo piekło w raju",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Raj-w-ogniu-albo-pieklo-w-raju/idn:3483",
+   "data": "2026-11-02T12:35+00:00",
+   "opis": "Republika Dominikańska, zajmująca około dwóch trzecich wyspy Haiti, od lat pozostaje jednym z najważniejszych kierunków turystycznych Karaibów. W 2025 r. kraj odwiedziło rekordowe 11,7 mln osób, w tym ponad 8,8 mln turystów, którzy"
   }
  ],
  "bledy": [
