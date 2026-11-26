@@ -1,6 +1,132 @@
 {
- "aktualizacja": "2026-11-24",
+ "aktualizacja": "2026-11-26",
  "wydarzenia": [
+  {
+   "id": "2026-11-26-kehl-czad-piec-ofiar",
+   "data": "2026-11-23",
+   "kraj": "Niemcy",
+   "etykieta": "MEDIA",
+   "naglowek": "KEHL - CZAD W MIESZKANIU",
+   "tytul": "Otworzyli drzwi, a czujniki czadu na ich ubraniach od razu zawyły. W mieszkaniu zginęło pięć osób",
+   "zajawka": "Strażacy z Kehl mieli wejść do mieszkania tylko na „otwarcie drzwi”. Osobiste czujniki CO zadziałały, zanim ktokolwiek zobaczył ofiary.",
+   "tresc": [
+    "W poniedziałek 23 listopada około 11:43 policja wezwała strażaków z Kehl (Badenia-Wirtembergia) do otwarcia drzwi w mieszkaniu w dzielnicy Sundheim. Powód: kilkoro dzieci nie przyszło do szkoły i nikt nie otwierał. Za drzwiami strażacy zobaczyli nieprzytomne osoby. Prawie jednocześnie zawyły ich osobiste czujniki tlenku węgla.",
+    "Ze względu na stężenie gazu ratownicy medyczni nie mogli od razu wejść. Strażacy najpierw udostępnili wnętrze, pomogli wynieść poszkodowanych i zamknęli teren. W akcji było 30 strażaków. Zginęło pięć osób: 46-letni ojciec, 74-letnia babcia i troje dzieci (10, 13 i 14 lat). Dwoje dzieci (11 i 12 lat) przewieziono w stanie krytycznym do specjalistycznych klinik. Policja i strażacy sprawdzili też pozostałe mieszkania w budynku.",
+    "Przyczyna nie jest oficjalnie ustalona. Komendant mówi o „założeniu” wycieku CO, resztę wyjaśniają policja, LKA i biegły. To doniesienie prasowe - nie wiadomo jeszcze, czy winny był piec, kominek czy inne źródło."
+   ],
+   "wniosek": "Zwykłe „otwarcie drzwi” może być akcją z czadem. Osobisty detektor CO przy pasie uratował tu strażaków i pozwolił od razu ocenić zagrożenie.",
+   "praktyka": "W szkoleniach: detektor CO (często razem z O2/LEL) nosimy także na „drobnych” zgłoszeniach - otwarcie drzwi, osoba nie odpowiada. Przy podejrzeniu CO: wietrzenie przed wejściem, aparat powietrzny, ewakuacja pozostałych mieszkań. W obiektach: czujka CO tam, gdzie jest piec, kominek lub kocioł na paliwo stałe i gaz.",
+   "tematy": [
+    "czad",
+    "detektor CO",
+    "drzwi"
+   ],
+   "powiazane": [
+    "Tlenek węgla (czad)",
+    "Czujki i SSP",
+    "Kominy i kotłownie"
+   ],
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-26-siekierki-komin-siatka",
+   "data": "2026-11-25",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "WARSZAWA - POŻAR NA KOMINIE",
+   "tytul": "Siatka zapaliła się na kominie 180 m. Dwóch robotników schodziło po drabince w dymie",
+   "zajawka": "Na kominie Elektrociepłowni Siekierki, przygotowywanym do rozbiórki, zapaliła się plastikowa siatka zabezpieczająca. Na szczycie było sześć osób.",
+   "tresc": [
+    "W środę 25 listopada zapaliła się siatka z tworzywa sztucznego, którą ekipa remontowa owinęła nieczynny komin o wysokości około 180 m. Na górze pracowało sześciu pracowników rozbiórki. Czterech zjechało windą mechaniczną, dwóch musiało schodzić po drabince. Po drodze nawdychali się dymu. Zostali zbadani przez ratowników, hospitalizacja nie była potrzebna.",
+    "Dowódca akcji zrezygnował z natarcia na szczycie, bo uznał je za zbyt ryzykowne dla strażaków. Woda była podawana do wysokości 68 m, czyli do maksymalnego zasięgu najwyższego podnośnika w Warszawie. Wyższe partie siatki dopaliły się pod nadzorem zastępów.",
+    "Przyczyna pożaru nie została podana w źródle."
+   ],
+   "wniosek": "Gdy ogień jest wyżej, niż sięga sprzęt, liczy się decyzja o rezygnacji z ataku i ochrona ludzi. Osłony z tworzyw na wysokościach to paliwo, które niesie ogień po całej konstrukcji.",
+   "praktyka": "Przy pracach na wysokości i rozbiórkach: siatki i płachty ochronne o udokumentowanej klasie reakcji na ogień, plan ewakuacji z góry (winda może nie wystarczyć), prace gorące tylko na zezwolenie. W planowaniu akcji: znaj realny zasięg podnośnika.",
+   "tematy": [
+    "wysokość",
+    "prace niebezpieczne",
+    "komin"
+   ],
+   "powiazane": [
+    "Prace niebezpieczne",
+    "Ewakuacja",
+    "Wysokość budynku"
+   ],
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/pozar-na-kominie-elektrocieplowni-siekierki-ewakuowano-szesciu-pracownikow/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-26-nowiny-hala-tworzywa",
+   "data": "2026-11-25",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "NOWINY K. KIELC - POŻAR HALI",
+   "tytul": "Hala z tworzywami w ogniu: w kilkadziesiąt minut zawaliła się połowa dachu",
+   "zajawka": "W Nowinach pod Kielcami paliła się hala produkująca zbiorniki z tworzyw. Po dojeździe pierwszych jednostek płonął już cały budynek.",
+   "tresc": [
+    "W środę przed południem kieleccy strażacy dostali zgłoszenie o gęstym, czarnym słupie dymu. Na miejsce pojechało kilkanaście zastępów. W zakładzie produkującym zbiorniki do przydomowych oczyszczalni i elementy z tworzyw palił się budynek o powierzchni około 200 m2, kryty blachą.",
+    "Gdy dojechały pierwsze jednostki, cała hala była już w ogniu. Wysoka temperatura naruszyła konstrukcję: zawaliła się około połowa dachu. Nikt nie został ranny. Rzeczniczka KM PSP w Kielcach informowała o opanowaniu sytuacji i dogaszaniu. Przyczyna nie została podana w źródle."
+   ],
+   "wniosek": "Mała hala z dużą ilością tworzyw to szybki, gorący pożar. Dach z blachy na lekkiej konstrukcji nie daje czasu na wejście do środka.",
+   "praktyka": "W ocenie ryzyka małych zakładów: obciążenie ogniowe od tworzyw, ograniczenie składowania przy ścianach, czujki dymu z przekazaniem sygnału do PSP. W akcji: zakładaj szybką utratę nośności lekkiej konstrukcji i prowadź natarcie z zewnątrz.",
+   "tematy": [
+    "hala",
+    "tworzywa",
+    "zawalenie dachu"
+   ],
+   "powiazane": [
+    "Obciążenie ogniowe",
+    "Materiały budowlane",
+    "Czujki i SSP"
+   ],
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/pozar-hali-produkcyjnej-w-nowinach-pod-kielcami/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-26-iowa-azydek-olowiu",
+   "data": "2026-11-25",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "IOWA - AZYDEK OŁOWIU",
+   "tytul": "Armia USA zdetonowała całe 5 ton azydku ołowiu, bo materiał się degradował",
+   "zajawka": "Kontrolowany wybuch w zakładzie amunicyjnym w Iowa miał zapobiec niekontrolowanemu wybuchowi składowanego od lat materiału.",
+   "tresc": [
+    "W środę 25 listopada armia USA zdetonowała cały krajowy zapas azydku ołowiu (5 ton, 68 beczek) w zakładzie Iowa Army Ammunition Plant koło Middletown. Materiał inicjujący ulegał degradacji i według armii mógł wybuchnąć samoczynnie, zwłaszcza przy chłodniejszej pogodzie.",
+    "Przed wybuchem usypano wały ziemne, a bunkry zalano pianą i wodą, co według armii pochłonęło znaczną część wybuchu. Detonację zaplanowano przy wietrze wiejącym z dala od miasta Burlington. Mieszkańcom w zasięgu chmury zalecono ewakuację lub pozostanie w domach. Wybuchły dwa ładunki, bez wybuchów wtórnych.",
+    "Monitoring EPA nie wykazał ołowiu w powietrzu, ale badania wody, gleby i upraw potrwają tygodnie. Eksperci zaznaczają, że wnioski jest za wcześnie wyciągać."
+   ],
+   "wniosek": "Stare materiały wybuchowe i inicjujące to bomba z opóźnionym zapłonem. Najbezpieczniejsza bywa kontrolowana likwidacja zaplanowana pod wiatr i pogodę.",
+   "praktyka": "W szkoleniach z zagrożeń chemicznych: planowanie strefy zagrożenia w oparciu o kierunek wiatru, komunikat do mieszkańców (ewakuacja czy schronienie) i monitoring skażeń po zdarzeniu. W obiektach z materiałami niebezpiecznymi: inwentaryzacja i kontrola wieku zapasów.",
+   "tematy": [
+    "materiały wybuchowe",
+    "hazmat",
+    "ołów"
+   ],
+   "powiazane": [
+    "Strefy Ex i wybuch",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (AP)",
+     "https://www.fireengineering.com/technical-rescue/firefighter-hazmat/army-detonates-us-stockpile-of-lead-azide-in-ia/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-24-gdansk-halda-zlomu",
    "data": "2026-11-23",
@@ -1015,6 +1141,10 @@
  ],
  "czywiesz": [
   {
+   "tekst": "Osobisty detektor CO strażaka potrafi zadziałać już przy otwarciu drzwi. W listopadzie 2026 w Kehl (Niemcy) alarmy zawyły od razu po otwarciu mieszkania, w którym zginęło pięć osób. Nosimy je także na „drobnych” zgłoszeniach.",
+   "zrodlo": "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034"
+  },
+  {
    "tekst": "Zwykła piana nie ugasi alkoholu, acetonu ani wielu rozpuszczalników - te ciecze mieszają się z wodą i niszczą pianę. Do nich jest piana AR (odporna na alkohol), oznaczana np. AFFF-AR. W lakierni czy magazynie chemii zapytaj, czy gaśnice pianowe są w wersji AR.",
    "zrodlo": ""
   },
@@ -1107,6 +1237,17 @@
  ],
  "obserwuje": [
   {
+   "tytul": "Kehl - pięć ofiar w mieszkaniu (CO)",
+   "stan": "Pięć osób nie żyje, dwoje dzieci w stanie krytycznym. Źródło czadu nieustalone - badają policja, LKA i biegły.",
+   "ostatnio": "2026-11-26",
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034"
+    ]
+   ]
+  },
+  {
    "tytul": "Indonezja - pożar fabryki cukierków (Banten)",
    "stan": "34 osoby zaginione, 26 worków ze szczątkami do identyfikacji. Pracownicy mówią, że alarm nie zadziałał. Przyczyna nieustalona, związki chcą audytu BHP.",
    "ostatnio": "2026-11-23",
@@ -1173,17 +1314,6 @@
    ]
   },
   {
-   "tytul": "Maredsous - wybuch butli na jarmarku",
-   "stan": "Prokuratura powołała biegłego. Ważne przed sezonem jarmarków w Polsce.",
-   "ostatnio": "2026-11-15",
-   "zrodla": [
-    [
-     "Brussels Times",
-     "https://www.brusselstimes.com/2407725/five-injured-following-christmas-market-fire-in-wallonia"
-    ]
-   ]
-  },
-  {
    "tytul": "Zawalenie budynku w Brooklynie (Flatbush Ave.)",
    "stan": "Zginęło osiem osób, 17 rannych. Przyczyna zawalenia w trakcie badania, wytoczono pozwy, miasto rozbiera sąsiedni budynek.",
    "ostatnio": "2026-11-23",
@@ -1196,6 +1326,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Co robi strażak z osobistym detektorem CO na zgłoszeniu „otwarcie drzwi”?",
+   "o": "Pomiar od razu przy drzwiach. W Kehl czujniki zadziałały w chwili otwarcia drzwi i pokazały wyciek CO, zanim ktoś wszedł. Przy alarmie: wietrzenie, aparat powietrzny, ewakuacja sąsiadów.",
+   "data": "2026-11-26"
+  },
+  {
+   "p": "Dlaczego dowódca może zrezygnować z gaszenia pożaru na szczycie wysokiego komina?",
+   "o": "Gdy ogień jest ponad zasięgiem sprzętu, a atak naraziłby strażaków. W Siekierkach woda sięgała 68 m, a siatka na wyższych partiach dopaliła się pod nadzorem.",
+   "data": "2026-11-26"
+  },
   {
    "p": "Co zrobić, gdy ogień siedzi głęboko w hałdzie złomu lub odpadów?",
    "o": "Rozebrać składowisko ciężkim sprzętem (żurawie z chwytakami, koparki) i dogaszać warstwami. Sama woda z góry nie dociera do zarzewi.",
