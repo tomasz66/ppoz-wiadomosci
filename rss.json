@@ -1,6 +1,105 @@
 {
- "aktualizacja": "2026-11-27T05:11+00:00",
+ "aktualizacja": "2026-11-27T14:10+00:00",
  "wpisy": [
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Data centre fire safety: detection, suppression and standards",
+   "link": "https://fireandsafetyjournalamericas.com/data-centre-fire-safety/",
+   "data": "2026-11-27T12:06+00:00",
+   "opis": "Data centre fire safety matters because one fire can idle thousands of servers at once. Dense power, cabling, and cooling pack heat and fuel into a small space, making ignition likely and hard to spot. Smoke alone can corrode circuit boards, so the damage ofte"
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Commercial kitchen fire suppression system: how it works",
+   "link": "https://fireandsafetyjournalamericas.com/commercial-kitchen-fire-suppression-system/",
+   "data": "2026-11-27T12:05+00:00",
+   "opis": "A commercial kitchen fire suppression system detects heat above the cooking line, cuts off fuel and power, and sprays a wet chemical substance over the appliances, hood and piping. It works automatically, and staff can also trigger it by hand. Grease fires mov"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Podpisano umowę na budowę strażnicy dla KP PSP w Nowym Tomyślu",
+   "link": "https://remiza.pl/podpisano-umowe-na-budowe-straznicy-dla-kp-psp-w-nowym-tomyslu/",
+   "data": "2026-11-27T11:54+00:00",
+   "opis": "Ponad 32 miliony złotych będzie kosztowała budowa nowej strażnicy dla KP PSP w Nowym Tomyślu. W ubiegłym tygodniu podpisano umowę z wykonawcą."
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Szczęśniak dostarczył samochód ratowniczo-gaśniczy na lotnisko w Rydze",
+   "link": "https://remiza.pl/szczesniak-dostarczyl-samochod-ratowniczo-gasniczy-na-lotnisko-w-rydze/",
+   "data": "2026-11-27T10:58+00:00",
+   "opis": "Z Bielska-Białej prosto na płytę lotniska w Rydze. Średni lotniskowy samochód ratowniczo-gaśniczy zbudowany przez firmę SZCZĘŚNIAK Pojazdy Specjalne Sp. z o.o. trafił do Lotniskowej Służby Ratowniczo-Gaśniczej Portu Lotniczego w Rydze. Powstał na podwoziu Scan"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Balkonbrand macht ganze Wohnanlage unbewohnbar",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/balkonbrand-macht-ganze-wohnanlage-unbewohnbar-146102",
+   "data": "2026-11-27T10:23+00:00",
+   "opis": "Hofkirchen im Traunkreis (Oberösterreich) – Rund 60 Menschen mussten Feuerwehrleute in der Nacht auf Donnerstag aus einer verrauchten Wohnanlage im Bezirk Linz-Land holen. Vom Balkon einer Wohnung aus hatte sich ein Feuer bis in den Dachstuhl ..."
+  },
+  {
+   "zrodlo": "Fire & Safety Journal Americas",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Flame retardants market forecast to reach $11.1 billion by 2031",
+   "link": "https://fireandsafetyjournalamericas.com/flame-retardants-market/",
+   "data": "2026-11-27T09:03+00:00",
+   "opis": "The global flame retardants market is projected to reach $11.10 billion by 2031, with fire safety requirements and demand from electrical and electronic equipment manufacturers supporting growth, according to MarketsandMarkets. The research firm puts the marke"
+  },
+  {
+   "zrodlo": "Remiza.pl",
+   "kraj": "PL",
+   "typ": "akcje",
+   "tytul": "Nie żyje Komendant Powiatowy PSP w Kępnie st. bryg. Mariusz Szczepański",
+   "link": "https://remiza.pl/nie-zyje-komendant-powiatowy-psp-w-kepnie-st-bryg-mariusz-szczepanski/",
+   "data": "2026-11-27T08:39+00:00",
+   "opis": "Smutne wieści napłynęły z Wielkopolski. Nie żyje Komendant Powiatowy PSP w Kępnie st. bryg. Mariusz Szczepański."
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Sunderland firefighter honoured with first Tyne and Wear Red Plaque",
+   "link": "https://internationalfireandsafetyjournal.com/firefighter-red-plaque/",
+   "data": "2026-11-27T08:26+00:00",
+   "opis": "Firefighter William ‘Bill’ McHarry, who died following a cardiac arrest during training at Fulwell Fire Station in 1970, has been remembered with a permanent Red Plaque recognising his service as a firefighter, RAF veteran and Fire Brigades Union campaigner A "
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Fire chiefs urge electrical appliance registration",
+   "link": "https://internationalfireandsafetyjournal.com/fire-chiefs-registration/",
+   "data": "2026-11-27T08:18+00:00",
+   "opis": "The National Fire Chiefs Council (NFCC) is warning Black Friday shoppers to register electrical purchases after research found that fewer than four in ten consumers do so, potentially leaving them unaware of safety faults and product recalls The National Fire "
+  },
+  {
+   "zrodlo": "International Fire & Safety Journal",
+   "kraj": "Świat",
+   "typ": "technologie",
+   "tytul": "Managing EV fire safety risks",
+   "link": "https://internationalfireandsafetyjournal.com/avd-ev-fire-safety-risks/",
+   "data": "2026-11-27T08:11+00:00",
+   "opis": "AVD Fire examines how electric vehicle (EV) fires, lithium-ion battery thermal runaway and expanding charging infrastructure are changing fire protection strategies for car parks, fleet operators and commercial premises The growing adoption of electric vehicle"
+  },
+  {
+   "zrodlo": "Feuerwehr-Magazin",
+   "kraj": "DE",
+   "typ": "akcje",
+   "tytul": "Feuerwehr-Großeinsatz wegen Chili-Mandeln",
+   "link": "https://www.feuerwehrmagazin.de/nachrichten/feuerwehr-grosseinsatz-wegen-chili-mandeln-146087",
+   "data": "2026-11-27T06:10+00:00",
+   "opis": "Karlsruhe (BW) – Mehrere Besucher des Christkindlesmarkts klagten am Donnerstagvormittag über gereizte Atemwege, ohne dass sich sagen ließ, woher die Beschwerden rührten. Feuerwehr, Rettungsdienst und Polizei rückten deshalb mit einem größeren ..."
+  },
   {
    "zrodlo": "Firefighter Close Calls",
    "kraj": "USA",
@@ -146,15 +245,6 @@
    "opis": "Four Firefighters Killed in Building Collapse During Grocery Warehouse Fire – Allen Brothers Warehouse Fire – Omaha, Nebraska – November 26, 1903 Submitted by Rick DeGroot On Thanksgiving Day, November 26, 1903, Omaha, Nebraska Fire Lieutenant William Burmeste"
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Duży pożar kamienicy w Policach. W akcji podnośnik z Grupy Azoty i drabina ze Szczecina",
-   "link": "https://remiza.pl/duzy-pozar-kamienicy-w-policach-w-akcji-podnosnik-z-grupy-azoty-i-drabina-ze-szczecina/",
-   "data": "2026-11-26T12:23+00:00",
-   "opis": "W czwartek rano strażacy zostali zadysponowani do pożaru opuszczonej kamienicy przy ulicy Wojska Polskiego w Policach."
-  },
-  {
    "zrodlo": "Feuerwehr-Magazin",
    "kraj": "DE",
    "typ": "akcje",
@@ -209,15 +299,6 @@
    "opis": "Chile has introduced a Hercules C-130 airtanker capable of carrying 15,000 liters of water or fire retardant as part of its national aerial firefighting strategy for the 2026-2027 wildfire season. The aircraft was officially unveiled at an event attended by Pr"
   },
   {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Karta Rodziny Mundurowej budzi spór. Chodzi o leczenie poza kolejnością",
-   "link": "https://remiza.pl/karta-rodziny-mundurowej-budzi-spor-chodzi-o-leczenie-poza-kolejnoscia/",
-   "data": "2026-11-26T09:50+00:00",
-   "opis": "Wsparcie dla rodzin ponoszących ciężar służby czy przywilej kosztem pozostałych pacjentów? Karta Rodziny Mundurowej wywołała dyskusję, która wychodzi daleko poza środowisko służb. Największe emocje budzi pierwszeństwo w dostępie do leczenia, zwłaszcza objęcie "
-  },
-  {
    "zrodlo": "Fire & Safety Journal Americas",
    "kraj": "Świat",
    "typ": "technologie",
@@ -234,15 +315,6 @@
    "link": "https://fireandsafetyjournalamericas.com/sensenet-wildfire-detection-ai/",
    "data": "2026-11-26T09:25+00:00",
    "opis": "Wildfire detection company SenseNet has secured $43 million in Series B financing to expand its US and international operations and develop its wildfire intelligence platform. Idealist Capital led the financing, with participation from Fusion Fund, Stormbreake"
-  },
-  {
-   "zrodlo": "Remiza.pl",
-   "kraj": "PL",
-   "typ": "akcje",
-   "tytul": "Intensywne opady mokrego śniegu na południu Polski. Strażacy w gotowości",
-   "link": "https://remiza.pl/intensywne-opady-mokrego-sniegu-na-poludniu-polski-strazacy-w-gotowosci/",
-   "data": "2026-11-26T08:47+00:00",
-   "opis": "Od czwartkowego popołudnia, 26 listopada, aż do południa w piątek nad południową Polską przejdzie rozległa strefa intensywnych opadów ciężkiego, mokrego śniegu."
   },
   {
    "zrodlo": "Feuerwehr-Magazin",
@@ -488,42 +560,6 @@
    "opis": ""
   },
   {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "How FireSat could transform wildfire detection",
-   "link": "https://internationalfireandsafetyjournal.com/firesat-wildfire-detection/",
-   "data": "2026-11-25T09:54+00:00",
-   "opis": "Earth Fire Alliance’s Ann Kapusta explains how FireSat satellite technology could improve early wildfire detection, monitor fire behaviour and help emergency services make better-informed fire management decisions What do FireSat’s first-light images reveal ab"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "FLIR to showcase monitoring solutions at IMC 2026",
-   "link": "https://internationalfireandsafetyjournal.com/teledyne-flir-imc-2026/",
-   "data": "2026-11-25T09:42+00:00",
-   "opis": "Teledyne FLIR will demonstrate connected thermal and acoustic imaging technologies for condition monitoring and predictive maintenance at the International Maintenance Conference (IMC 2026) in Florida Teledyne FLIR will showcase its connected condition monitor"
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "CONAF sets out Chile wildfire protection plans for 2026–2027",
-   "link": "https://fireandsafetyjournalamericas.com/conaf-chile-wildfire-protection/",
-   "data": "2026-11-25T09:36+00:00",
-   "opis": "Chile’s National Forestry Corporation (CONAF) has outlined wildfire protection plans for Valparaíso, Atacama and protected areas in Ñuble ahead of the 2026–2027 summer season, combining firefighting resources with prevention, surveillance and evacuation measur"
-  },
-  {
-   "zrodlo": "International Fire & Safety Journal",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Bridging the gaps in emergency response",
-   "link": "https://internationalfireandsafetyjournal.com/gaps-in-emergency-response/",
-   "data": "2026-11-25T09:34+00:00",
-   "opis": "Matthew Busa, Manager of the Ecosystem Demonstrations Technology Team at Motorola Solutions, explores how integrated technology and AI can improve emergency communications, break down data silos and help first responders make faster, more informed decisions Du"
-  },
-  {
    "zrodlo": "Fire Apparatus Magazine",
    "kraj": "USA",
    "typ": "sprzet",
@@ -587,24 +623,6 @@
    "opis": "Crews battled an overnight fire at eWaste Solutions, an electronic waste and recycling facility in Plymouth."
   },
   {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Löschwasser gefriert bei Scheunenbrand auf Straße",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/loeschwasser-gefriert-bei-scheunenbrand-auf-strasse-146049",
-   "data": "2026-11-24T16:13+00:00",
-   "opis": "Mittelstille (TH) – Bei minus sechs Grad waren rund 100 Feuerwehrleute im Kreis Schmalkalden-Meiningen bei einem Scheunenbrand im Einsatz. Die Kälte wurde dabei selbst zum Problem. Zeitweise erreichten die Flammen ein angrenzendes Wohnhaus. ..."
-  },
-  {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Congress passes bill to strengthen lithium-ion battery safety",
-   "link": "https://fireandsafetyjournalamericas.com/congress-bill-lithium-ion-battery/",
-   "data": "2026-11-24T15:29+00:00",
-   "opis": "Congress has revealed that it recently passed the IAFF-backed bill requiring federal safety standards for lithium-ion batteries used in e-bikes, scooters, and other micromobility devices. The Setting Consumer Standards for Lithium-ion Batteries Act was unanimo"
-  },
-  {
    "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
    "kraj": "NL",
    "typ": "badania",
@@ -641,60 +659,6 @@
    "opis": "De veiligheidsregio’s en hun netwerken mogen wel wat assertiever worden in politiek lobbyen om meer te sturen op gewenst veiligheidsbeleid, was de boodschap van voormalig Tweede Kamerlid Hester Veltman in haar keynote. Het bericht Netwerkdag Industriële en Omg"
   },
   {
-   "zrodlo": "Fire & Safety Journal Americas",
-   "kraj": "Świat",
-   "typ": "technologie",
-   "tytul": "Calgary Fire Department responds to multiple structure fires",
-   "link": "https://fireandsafetyjournalamericas.com/calgary-fire-multiple-structure/",
-   "data": "2026-11-24T15:08+00:00",
-   "opis": "On the evening of November 23 2026 and in the early hours of November 24 the Calgary Fire Department (CFD) responded to three structure fires. At approximately 9:45PM the CFD was called to the 7700 block of Elbow drive for a fire in an apartment building. Unit"
-  },
-  {
-   "zrodlo": "Fire Apparatus Magazine",
-   "kraj": "USA",
-   "typ": "sprzet",
-   "tytul": "More on Stock Rigs, Preconstruction Meetings",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/more-on-stock-rigs-preconstruction-meetings/",
-   "data": "2026-11-24T13:18+00:00",
-   "opis": "This episode offers practical considerations for fire departments planning their next apparatus purchase."
-  },
-  {
-   "zrodlo": "Firefighter Close Calls",
-   "kraj": "USA",
-   "typ": "akcje",
-   "tytul": "PUMP OPERATOR CRUSHED BY FALLING WALL AT FURNITURE FACTORY FIRE – BERKEY & GAY FURNITURE COMPANY FIRE – GRAND RAPIDS, MICHIGAN – NOVEMBER 24, 1943",
-   "link": "https://www.firefighterclosecalls.com/pump-operator-crushed-by-falling-wall-at-furniture-factory-fire-berkey-gay-furniture-company-fire-grand-rapids-michigan-november-24-1943/",
-   "data": "2026-11-24T13:00+00:00",
-   "opis": "Pump Operator Crushed by Falling Wall at Furniture Factory Fire – Berkey &#38; Gay Furniture Company Fire – Grand Rapids, Michigan – November 24, 1943 Submitted by Rick DeGroot On November 24, 1943, Grand Rapids Fireman Louis Coleman of Engine 12 died from the"
-  },
-  {
-   "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
-   "kraj": "NL",
-   "typ": "badania",
-   "tytul": "Ammoniak vraagt om voorbereiding op risico’s in de hele keten",
-   "link": "https://nipv.nl/nieuws/ammoniak-vraagt-om-voorbereiding-op-risicos-in-de-hele-keten",
-   "data": "2026-11-24T12:30+00:00",
-   "opis": "De mogelijke groei van ammoniak als energiedrager maakt een goede voorbereiding op incidenten belangrijker. Niet omdat de risico’s nieuw zijn, maar omdat grote incidenten vaker kunnen voorkomen. Het bericht Ammoniak vraagt om voorbereiding op risico&#8217;s in"
-  },
-  {
-   "zrodlo": "Feuerwehr-Magazin",
-   "kraj": "DE",
-   "typ": "akcje",
-   "tytul": "Fünf Tote in Wohnung: CO-Warnmelder lösen bereits bei Türöffnung aus",
-   "link": "https://www.feuerwehrmagazin.de/nachrichten/fuenf-tote-in-wohnung-co-warnmelder-loesen-bereits-bei-tueroeffnung-aus-146034",
-   "data": "2026-11-24T12:27+00:00",
-   "opis": "Kehl (BW) – Nach einer Türöffnung im Ortenaukreis haben Einsatzkräfte am Montag fünf Tote in einer Wohnung gefunden. Kaum hatten Feuerwehrangehörige die Tür geöffnet, schlugen deren Kohlenmonoxid-Warnmelder an. Wegen der Gasbelastung musste die ..."
-  },
-  {
-   "zrodlo": "NIPV - holenderski instytut bezpieczeństwa",
-   "kraj": "NL",
-   "typ": "badania",
-   "tytul": "Veel belangstelling voor industriële veiligheid op Brandweerevent 2026",
-   "link": "https://nipv.nl/nieuws/veel-belangstelling-voor-industriele-veiligheid-op-brandweerevent-2026",
-   "data": "2026-11-24T06:00+00:00",
-   "opis": "Ook dit jaar nam het LEC Industriële Veiligheid deel aan het Brandweerevent en waren zij met een stand op het Inspiratieplein vertegenwoordigd. Het bericht Veel belangstelling voor industriële veiligheid op Brandweerevent 2026 verscheen eerst op Nederlands Ins"
-  },
-  {
    "zrodlo": "Przegląd Pożarniczy (KG PSP)",
    "kraj": "PL",
    "typ": "wiedza",
@@ -720,6 +684,24 @@
    "link": "https://www.ppoz.pl/czytelnia/w-ogniu-pytan/Strazacka-misja-na-piechote/idn:3482",
    "data": "2026-11-02T12:23+00:00",
    "opis": "Rozmowa z kpt. Przemysławem Rogalewiczem – dowódcą operacyjnym modułu GFFF Wrocław, kierownikiem Sekcji Odwodów Operacyjnych i Ćwiczeń w KW PSP we Wrocławiu, nieetatowym dowódcą GFFF Wrocław oraz zastępcą dowódcy GFFF-V Wrocław,"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Słowo wstępne 10/2026",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Slowo-wstepne-102026/idn:3481",
+   "data": "2026-11-02T12:20+00:00",
+   "opis": "W październikowym numerze zapraszamy do lektury wywiadu z kpt. Przemysławem Rogalewiczem, dowódcą operacyjnym modułu GFFF Wrocław, czterokrotnym uczestnikiem działań modułów Państwowej Straży Pożarnej poza granicami kraju. Nasz"
+  },
+  {
+   "zrodlo": "Przegląd Pożarniczy (KG PSP)",
+   "kraj": "PL",
+   "typ": "wiedza",
+   "tytul": "Efekt czujki w operacyjnym zwierciadle",
+   "link": "https://www.ppoz.pl/aktualne-wydanie/index/Efekt-czujki-w-operacyjnym-zwierciadle/idn:3485",
+   "data": "2026-11-02T08:02+00:00",
+   "opis": "Obowiązujące przepisy ochrony przeciwpożarowej mają za zadanie minimalizować ryzyko powstania i/lub rozprzestrzenienia się zagrożenia. Są one regularnie aktualizowane na podstawie doświadczeń z tragicznych zdarzeń, wyników czynności"
   }
  ],
  "bledy": [
