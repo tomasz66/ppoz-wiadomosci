@@ -1,6 +1,131 @@
 {
- "aktualizacja": "2026-11-26",
+ "aktualizacja": "2026-11-27",
  "wydarzenia": [
+  {
+   "id": "2026-11-27-essen-wentylacja-dym",
+   "data": "2026-11-26",
+   "kraj": "Niemcy",
+   "etykieta": "MEDIA",
+   "naglowek": "ESSEN - DYM PRZEZ WENTYLACJĘ",
+   "tytul": "Mały pożar w bramie, a dym poszedł przez wentylację na cały dom. Czterech lokatorów odcięło od wyjścia",
+   "zajawka": "W Essen pożar w przejeździe bramowym wciągnęła instalacja wentylacyjna i rozniosła dym po budynku. Strażacy zdejmowali ludzi drabiną i wyprowadzali w kapturach ucieczkowych.",
+   "tresc": [
+    "W czwartek 26 listopada o 5:04 straż z Essen (Nadrenia Północna-Westfalia) pojechała do kamienicy przy Wächtlerstraße. Na miejscu zastała silne zadymienie: instalacja wentylacyjna budynku rozprowadziła dym z pożaru w przejeździe bramowym po dużej części domu. Klatka schodowa i kilka mieszkań były mocno zadymione.",
+    "Część lokatorów wyszła sama przed przyjazdem straży. Czterech zostało odciętych od drogi ucieczki. Dwie osoby zdjęto przez drabinę mechaniczną, dwie kolejne wyprowadził zastęp w aparatach ochrony dróg oddechowych, w kapturach ucieczkowych. Równolegle gaszono pożar prądem gaśniczym z przejazdu i ugaszono go w krótkim czasie. Potem sprawdzono wszystkie mieszkania pomiarami.",
+    "Dotknięte skutkami było osiem osób, nikt nie trafił do szpitala. Uszkodzony został rozdzielnik elektryczny, więc cały budynek odłączono od prądu. Przyczynę ustala policja kryminalna - to doniesienie prasowe, przyczyna niepotwierdzona."
+   ],
+   "wniosek": "Dym nie potrzebuje klatki schodowej. Wentylacja, kanały i szachty mogą go rozwieźć po całym budynku, nawet gdy ogień jest daleko od mieszkań.",
+   "praktyka": "W obiekcie z wentylacją mechaniczną sprawdź, czy instalacja wyłącza się po wykryciu pożaru i czy przejścia przez granice stref mają przepusty z klapami odcinającymi. W akcji: sprawdzaj kanały wentylacyjne jako drogę rozprzestrzeniania dymu, miej kaptury ucieczkowe w pierwszym zastępie.",
+   "tematy": [
+    "wentylacja",
+    "dym",
+    "ewakuacja",
+    "kaptury ucieczkowe"
+   ],
+   "powiazane": [
+    "Ewakuacja",
+    "Oddymianie i drzwi ppoż.",
+    "Strefy pożarowe"
+   ],
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/lueftungsanlage-verteilt-brandrauch-vier-menschen-gerettet-146084"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-27-kair-cysterna-ring-road",
+   "data": "2026-11-26",
+   "kraj": "Egipt",
+   "etykieta": "MEDIA",
+   "naglowek": "KAIR - CYSTERNA NA OBWODNICY",
+   "tytul": "Cysterna z paliwem zapaliła się w korku na obwodnicy Kairu. Co najmniej 31 zmarłych",
+   "zajawka": "Zderzenie z udziałem cysterny z paliwem wywołało ogromny pożar na Ring Road. Ogień objął ponad dwa tuziny aut i motocykli stojących w korku.",
+   "tresc": [
+    "W środę 25 listopada na obwodnicy Kairu (Ring Road) w dzielnicy Waraq w Gizie doszło do zderzenia z udziałem cysterny z paliwem. Według egipskiego Ministerstwa Zdrowia (dane za agencją AP) zginęło co najmniej 31 osób, a 21 zostało rannych. Bilans jest wstępny.",
+    "Droga była zablokowana, więc samochody stały w korku tuż obok palącej się cysterny. Ogień objął ponad dwa tuziny aut i motocykli. Świadek mówił, że „samochody sklejone ogniem” nie pozwalały ludziom uciec. Ratownicy wyciągali ludzi z płonących pojazdów, strażacy gasili ogień rozprzestrzeniający się między autami. Prokuratura zapowiedziała badania DNA do identyfikacji ofiar.",
+    "Przyczyny wypadku nie podano - to wstępne doniesienia agencyjne."
+   ],
+   "wniosek": "Rozlane paliwo w korku to pułapka: ogień przeskakuje z auta na auto szybciej, niż ludzie zdążą wysiąść i uciec.",
+   "praktyka": "Przy zdarzeniu z cysterną: strefa zagrożenia z dużym zapasem, ewakuacja ludzi z pojazdów pod wiatr i w górę terenu, kontrola wycieku i spływu paliwa, pianę przygotuj przed wejściem do akcji. Do szkoleń dla kierowców przewożących ADR - zasada „wysiadaj i uciekaj od cysterny, nie czekaj w aucie”.",
+   "tematy": [
+    "ADR",
+    "cysterna",
+    "paliwo",
+    "wypadek drogowy"
+   ],
+   "powiazane": [
+    "Benzyna i ciecze palne",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Fire Engineering (AP)",
+     "https://www.fireengineering.com/firefighting/fuel-tanker-crash-ignites-fire-on-highway-in-egypt-at-least-31-dead/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-27-firegen-gdansk",
+   "data": "2026-11-26",
+   "kraj": "Polska",
+   "etykieta": "BADANIE",
+   "naglowek": "FIREGEN - ZDROWIE STRAŻAKÓW",
+   "tytul": "Ponad 1200 próbek od strażaków do analizy. Gdańsk bada, co dym robi z organizmem",
+   "zajawka": "Pierwszy etap projektu FIREGEN za nami. Strażacy z Gdańska oddali materiał do badań toksykologicznych, a wyniki mają zamienić się w procedury ochrony zdrowia.",
+   "tresc": [
+    "KW PSP w Gdańsku podsumowała pierwszy etap projektu badawczo-edukacyjnego FIREGEN. Cel: ocena wpływu szkodliwych czynników środowiska pracy na organizm strażaków i wypracowanie standardów profilaktyki zdrowotnej.",
+    "Badania poligonowe odbyły się 9 i 10 listopada 2026 r. w Ośrodku Szkolenia Portowej Straży Pożarnej FLORIAN w Gdańsku. Wzięło w nich udział 28 funkcjonariuszy z gdańskich JRG i sześciu instruktorów. Zabezpieczono ponad 1200 próbek materiału biologicznego. Analizy medyczno-toksykologiczne będą prowadzone pod nadzorem dr. hab. inż. Andrzeja R. Reindla z Zakładu Toksykologii Środowiskowej Gdańskiego Uniwersytetu Medycznego.",
+    "Kierownikiem operacyjnym jest st. kpt. Kamil Pająk, który omówił też zasady dekontaminacji. Wyników jeszcze nie ma - to na razie etap zbierania próbek."
+   ],
+   "wniosek": "Zdrowie strażaka po akcji to temat tak samo ważny jak sama akcja. Dane z polskich badań dopiero powstają.",
+   "praktyka": "Nie czekaj na wyniki: po każdym pożarze dekontaminacja sprzętu i ubrania, mycie szyi, twarzy i rąk, ubranie bojowe nie wraca do samochodu ani domu w brudnym stanie. Na szkoleniach dodaj blok o dekontaminacji.",
+   "tematy": [
+    "zdrowie strażaków",
+    "dekontaminacja",
+    "badania"
+   ],
+   "powiazane": [
+    "Szkolenia"
+   ],
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/ponad-1200-probek-do-analizy-podsumowano-pierwszy-etap-badan-strazakow-w-projekcie-firegen/"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-27-zakopianka-korytarz-zycia",
+   "data": "2026-11-26",
+   "kraj": "Polska",
+   "etykieta": "MEDIA",
+   "naglowek": "ZAKOPIANKA - KORYTARZ ŻYCIA",
+   "tytul": "Kierowcy zrobili korytarz życia, a laweta z niego skorzystała i zablokowała karetkę",
+   "zajawka": "Na zakopiance w Rdzawce kierowcy w korku wzorowo zrobili miejsce dla służb. Wjechał w nie kierowca pomocy drogowej i utrudniał dojazd przez ok. 1,5 km.",
+   "tresc": [
+    "W czwartek 26 listopada rano na zakopiance w rejonie Rdzawki (powiat nowotarski) zderzyły się trzy samochody. Dwie osoby zostały ranne i wymagały pilnego transportu do szpitala. Droga była całkowicie zablokowana, a zator miał około trzech kilometrów.",
+    "Kierowcy w korku od razu utworzyli korytarz życia. W wolną przestrzeń między pasami wjechał jednak kierowca pojazdu pomocy drogowej i przez ok. 1,5 km utrudniał przejazd policji i zespołowi ratownictwa medycznego, a w końcu zablokował im drogę.",
+    "36-letni kierowca tłumaczył, że dostał zlecenie i się spieszył. Odmówił przyjęcia mandatu, więc sprawa trafi do Sądu Rejonowego w Nowym Targu."
+   ],
+   "wniosek": "Korytarz życia działa tylko wtedy, gdy nikt inny z niego nie korzysta. Jeden egoista potrafi zablokować całą drogę ratunkową.",
+   "praktyka": "Na szkoleniach i w kampaniach powtarzaj: zostaw wolny pas, nie jedź za karetką, nie wjeżdżaj w korytarz. Kierowcy pomocy drogowej też.",
+   "tematy": [
+    "korytarz życia",
+    "wypadek drogowy",
+    "dojazd służb"
+   ],
+   "powiazane": [
+    "Drogi pożarowe"
+   ],
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/jechal-laweta-korytarzem-zycia-utrudnil-dojazd-sluzbom/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-26-kehl-czad-piec-ofiar",
    "data": "2026-11-23",
@@ -1095,6 +1220,17 @@
  ],
  "badania": [
   {
+   "tytul": "FIREGEN - badania strażaków w Gdańsku (etap 1)",
+   "tresc": "KW PSP w Gdańsku podsumowała pierwszy etap projektu FIREGEN: 9-10 listopada 2026 r. na poligonie FLORIAN badano 28 strażaków i 6 instruktorów, zabezpieczono ponad 1200 próbek materiału biologicznego do analiz toksykologicznych w GUMed. Wyników jeszcze nie ma.",
+   "etykieta": "BADANIE",
+   "zrodla": [
+    [
+     "Remiza.pl",
+     "https://remiza.pl/ponad-1200-probek-do-analizy-podsumowano-pierwszy-etap-badan-strazakow-w-projekcie-firegen/"
+    ]
+   ]
+  },
+  {
    "tytul": "Efekt rynny - czego nauczył pożar King's Cross",
    "tresc": "W 1987 r. mały pożar pod drewnianymi schodami ruchomymi londyńskiego metra nagle wystrzelił kulą ognia do hali - zginęło 31 osób. Badania wykazały, że płomienie na pochyłej powierzchni (ok. 30°) kładą się wzdłuż niej i przyspieszają. Wniosek: pożar na schodach, rampie i pochyłym korytarzu rozwija się szybciej niż w poziomie.",
    "etykieta": "WIEDZA",
@@ -1326,6 +1462,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Jak dym może rozejść się po budynku, jeśli pożar jest tylko w bramie?",
+   "o": "Przez instalację wentylacyjną. W Essen wentylacja rozwiozła dym z przejazdu bramowego po całym domu i odcięła czterech lokatorów od wyjścia. Ważne: klapy odcinające i wyłączanie wentylacji po wykryciu pożaru.",
+   "data": "2026-11-27"
+  },
+  {
+   "p": "Czego dotyczy projekt FIREGEN w PSP?",
+   "o": "Badania wpływu szkodliwych czynników pracy na organizm strażaków i ochrony zdrowia. W Gdańsku zebrano ponad 1200 próbek od 28 strażaków i 6 instruktorów, wyniki będą analizowane w GUMed.",
+   "data": "2026-11-27"
+  },
   {
    "p": "Co robi strażak z osobistym detektorem CO na zgłoszeniu „otwarcie drzwi”?",
    "o": "Pomiar od razu przy drzwiach. W Kehl czujniki zadziałały w chwili otwarcia drzwi i pokazały wyciek CO, zanim ktoś wszedł. Przy alarmie: wietrzenie, aparat powietrzny, ewakuacja sąsiadów.",
