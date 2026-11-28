@@ -1,6 +1,63 @@
 {
- "aktualizacja": "2026-11-27",
+ "aktualizacja": "2026-11-28",
  "wydarzenia": [
+  {
+   "id": "2026-11-28-hofkirchen-balkony",
+   "data": "2026-11-26",
+   "kraj": "Austria",
+   "etykieta": "MEDIA",
+   "naglowek": "HOFKIRCHEN - PŁONĄCE BALKONY",
+   "tytul": "Pożar z balkonu wyrzucił z domów 60 osób. Wszystkie 29 mieszkań do remontu",
+   "zajawka": "W nocy na czwartek w Hofkirchen im Traunkreis ogień z jednego balkonu przeszedł po drewnianej konstrukcji na sąsiednie mieszkania i dach. Straż ewakuowała około 60 osób.",
+   "tresc": [
+    "Alarm przyszedł o 2:19 w nocy z hasłem „Brand in mehrstöckigem Gebäude”. Pierwsi strażacy zastali mieszkańców na zadymionych balkonach, w panice. Dach był już w pełnym ogniu. Ogień zaczął się prawdopodobnie na balkonie w pierwszym piętrze od strony dziedzińca, potem poszedł po drewnianej konstrukcji balkonów na sąsiednie lokale i do więźby dachowej.",
+    "Alarmowano 14 jednostek, w akcji było 118 osób. Straż wyprowadziła i wyniosła około 60 mieszkańców, kilka osób trafiło do szpitali z podejrzeniem zatrucia dymem. Wszystkie 29 mieszkań uznano na razie za niezdatne do zamieszkania, a straty to totalny pożar budynku. Śledztwo prowadzi Landeskriminalamt Oberösterreich, przyczyna nie jest potwierdzona."
+   ],
+   "wniosek": "Palne balkony to drabina dla ognia: z jednego mieszkania pożar wchodzi na elewację, w inne lokale i pod dach.",
+   "praktyka": "Przy kontroli budynków wielorodzinnych patrz na balkony i loggie: czym są zabudowane, co na nich składowane (meble, grille, butle), czy nie ma drewnianych okładzin łączących kondygnacje. Przy ćwiczeniach: pożar z balkonu przechodzący na dach, ratowanie ludzi z zadymionych balkonów.",
+   "tematy": [
+    "balkony",
+    "ewakuacja",
+    "dach"
+   ],
+   "powiazane": [
+    "Ewakuacja",
+    "Materiały budowlane",
+    "Przyczyny pożarów"
+   ],
+   "zrodla": [
+    [
+     "Feuerwehr-Magazin",
+     "https://www.feuerwehrmagazin.de/nachrichten/balkonbrand-macht-ganze-wohnanlage-unbewohnbar-146102"
+    ]
+   ]
+  },
+  {
+   "id": "2026-11-28-weymouth-wywrotka-wozu",
+   "data": "2026-11-26",
+   "kraj": "USA",
+   "etykieta": "MEDIA",
+   "naglowek": "WEYMOUTH - WÓZ NA DACHU",
+   "tytul": "Jechali do pożaru i przewrócił się wóz. Czterech strażaków w szpitalu",
+   "zajawka": "W Weymouth (Massachusetts) wóz strażacki jadący do pożaru domu przewrócił się na bok. Dwóch z czterech rannych strażaków jest w ciężkim, ale stabilnym stanie.",
+   "tresc": [
+    "W czwartek 26 listopada tuż przed 10:00 straż z Weymouth jechała do pożaru trzeciego stopnia alarmu przy Babcock Avenue. Na Commercial Street wóz się przewrócił. Czterech strażaków z kabiny trafiło do szpitala, dwóch z poważnymi obrażeniami. Według komendanta ich stan jest stabilny.",
+    "Przyczyny wypadku ani pożaru nie ustalono, sprawa jest badana. Pożar domu spowodował zawalenie budynku, jedna osoba była w środku i trafiła do szpitala dla bezpieczeństwa."
+   ],
+   "wniosek": "Najgroźniejszy odcinek akcji to często dojazd. Wypadki wozów w drodze do zdarzenia to stały temat statystyk strażaków.",
+   "praktyka": "Na szkoleniu z kierowcami: prędkość dostosowana do warunków mimo „pali się”, pasy zapięte, zakręty i wjazdy na skrzyżowania z jazdą na sygnale. Przypomnij, że nie dojedzie ten, kto nie dojedzie.",
+   "tematy": [
+    "wypadek wozu",
+    "dojazd"
+   ],
+   "powiazane": [],
+   "zrodla": [
+    [
+     "Fire Engineering",
+     "https://www.fireengineering.com/firefighting/four-injured-after-fire-engine-crashes-on-way-to-house-fire-in-ma/"
+    ]
+   ]
+  },
   {
    "id": "2026-11-27-essen-wentylacja-dym",
    "data": "2026-11-26",
@@ -1152,6 +1209,17 @@
  ],
  "nowosci": [
   {
+   "tytul": "Londyn: bezpłatny „Business Safety Checker” dla małych firm",
+   "tresc": "London Fire Brigade uruchomiła 24 listopada 2026 darmowe narzędzie online dla małych i średnich firm. Do 20 pytań o lokal, liczbę osób i branżę, na koniec porady dopasowane do obiektu. Na start gastronomia, handel i biura. Pomysł dla naszych szkoleń: prosta lista kontrolna dla właściciela obiektu. To rozwiązanie brytyjskie, w Polsce nie ma odpowiednika.",
+   "etykieta": "MEDIA",
+   "zrodla": [
+    [
+     "International Fire & Safety Journal",
+     "https://internationalfireandsafetyjournal.com/business-fire-safety-checker/"
+    ]
+   ]
+  },
+  {
    "tytul": "USA: baterie e-hulajnóg i e-rowerów z obowiązkowymi normami",
    "tresc": "Senat USA przyjął 19 listopada 2026 ustawę H.R. 973, która czyni obowiązkowymi dotąd dobrowolne normy bezpieczeństwa baterii litowo-jonowych w e-rowerach, e-hulajnogach, deskorolkach i monocyklach. Według CPSC z takimi pożarami wiązano 533 ofiary w latach 2017-2024. To prawo amerykańskie, nie polskie.",
    "etykieta": "MEDIA",
@@ -1462,6 +1530,16 @@
   }
  ],
  "pytania": [
+  {
+   "p": "Czemu balkony z drewna są groźne w domu wielorodzinnym?",
+   "o": "Ogień z jednego balkonu przechodzi po konstrukcji na sąsiednie lokale i pod dach. W Hofkirchen (Austria) w ten sposób stanęło 29 mieszkań, ewakuowano około 60 osób.",
+   "data": "2026-11-28"
+  },
+  {
+   "p": "Jaki jest najgroźniejszy moment akcji, który często pomijamy w szkoleniu?",
+   "o": "Dojazd. W Weymouth (USA) wóz przewrócił się w drodze do pożaru, czterech strażaków trafiło do szpitala.",
+   "data": "2026-11-28"
+  },
   {
    "p": "Jak dym może rozejść się po budynku, jeśli pożar jest tylko w bramie?",
    "o": "Przez instalację wentylacyjną. W Essen wentylacja rozwiozła dym z przejazdu bramowego po całym domu i odcięła czterech lokatorów od wyjścia. Ważne: klapy odcinające i wyłączanie wentylacji po wykryciu pożaru.",
